@@ -2,7 +2,8 @@ title:Test
 
 // Syncopation-53 - Test 1 ()
 //notes: random pick in dupes
-dimwishlist:item=2856514843&perks=1467527085,1087426260,2717805783,1171887445
+dimwishlist:item=2856514843&perks=1467527085,1087426260,2717805783,124408337
+dimwishlist:item=2856514843&perks=1467527085,1087426260,588594999,124408337
 
 
 // Syncopation-53 - Test 2 ()
