@@ -3,7 +3,7 @@
     "name": "blk-wishlist",
     "data": [
         {
-            "description": "#Adds #PvE\nThis thing is nuts. Subsistence and Frenzy are the pefect combo here, but the new focus fire perk is good as well. Do pair this with Void 3.0 volitile rounds or other void subclass things.",
+            "description": "#Adds #PvE This thing is nuts. Subsistence and Frenzy are the perfect combo here, but the new focus fire perk is good as well. Do pair this with Void 3.0 volatile rounds or other void subclass things. Adrenaline Junkie is another damage option if you are running nade-nation.",
             "hash": 3341893443,
             "name": "PvE God Tier",
             "plugs": [
@@ -22,16 +22,17 @@
             ]
         },
         {
-            "description": "",
+            "description": "Explosive is great. Fury is ok. Headstone if you need stasis synergy. #Adds #Boss",
             "hash": 1019000888,
-            "name": "adds and boss",
+            "name": "PvE",
             "plugs": [
                 [
                     247725512
                 ],
                 [
                     3038247973,
-                    124408337
+                    124408337,
+                    2896038713
                 ]
             ],
             "tags": [
@@ -39,7 +40,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Grenade-pa-looza. Pairs with Ogma to have two slots with grenade-nation.",
             "hash": 2821430069,
             "name": "nader fever",
             "plugs": [
@@ -72,7 +73,7 @@
             ]
         },
         {
-            "description": "Really want Successful Warmup here with firmly planted, charge rate and range stability.\nMaster work stability or charge time is fine with me.\nFirmly planted/Successful Warm-up Or high impact instead of warm up is good too.",
+            "description": "Really want Successful Warmup here with firmly planted, charge rate and range stability. Master work stability or charge time is fine with me. Firmly planted/Successful Warm-up Or high impact instead of warm up is good too. For PvP though meta is rapid fire for CQC so craft your own Likely Suspect. This thing is for out-ranging. It's a one-trick pony. Use it till you die.",
             "hash": 4114929480,
             "name": "Ranged killer",
             "plugs": [
@@ -91,7 +92,7 @@
             ]
         },
         {
-            "description": "Great Add clear with good syn with res burst and compulsive reload. Damage perks are all good",
+            "description": "You only want reservoir burst or High impact with compulsive reload. If you don't care about reservoir burst, maybe because you have a Null Composure already, try for a different rapid-fire fusion that can have vorpal-like cartesian coordinate. ",
             "hash": 4114929480,
             "name": "Ranged PvE",
             "plugs": [
@@ -111,7 +112,7 @@
             ]
         },
         {
-            "description": "This is the god roll. Max DPS for bosses. This is the best perk for boss dps. Max damage and we can't craft it...\n#PvE #Boss",
+            "description": "This is the god roll. Max DPS for bosses. This is the best perk for boss dps. Max damage and we can't craft it... #PvE #Boss",
             "hash": 3489657138,
             "name": "PvE Godroll",
             "plugs": [
@@ -149,7 +150,9 @@
                     2275087323
                 ]
             ],
-            "tags": []
+            "tags": [
+                "PVE"
+            ]
         },
         {
             "description": "Reloading is not needed with both triple tap and fourth times the charm if you hit your precisions.",
@@ -173,7 +176,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Triple Tap with any damage perk is good here. For god roll fourth times the charm is hyped up but this will get most damage per shot. One for all/Frenzy never fails. Vorpal for bosses only and rampage is easy procing after kills with decent timer. For more damage One for all or frenzy.",
             "hash": 435216110,
             "name": "PvE Strong",
             "plugs": [
@@ -196,7 +199,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Not crazy for PvP, but if you like the looks, zen moment/dynamic sway will be pin point as it gets. Range or stability the rest of the way.",
             "hash": 435216110,
             "name": "PvP Ok",
             "plugs": [
@@ -218,7 +221,7 @@
             ]
         },
         {
-            "description": "Replace your non adept with this. This god roll is forth times the charm with triple tap",
+            "description": "Replace your non-adept with this. This god roll is forth times the charm with triple tap",
             "hash": 1135050595,
             "name": "Strong PvE",
             "plugs": [
@@ -229,8 +232,7 @@
                     4049631843,
                     4104185692,
                     3425386926,
-                    1546637391,
-                    1354429876
+                    1546637391
                 ],
                 [
                     1281216113,
@@ -243,29 +245,15 @@
             ]
         },
         {
-            "description": "High Caliber rounds for flinch.",
+            "description": "Snapshot opening shot. Done and done. For a better pvp sniper you might want to try getting a fugue or crafting a sniper with underpressue/opening shot.",
             "hash": 3355385170,
             "name": "PvP",
             "plugs": [
-                [
-                    1392496348,
-                    1482024992,
-                    3250034553
-                ],
-                [
-                    1885400500,
-                    1561002382,
-                    3142289711
-                ],
                 [
                     957782887
                 ],
                 [
                     47981717
-                ],
-                [
-                    1281216113,
-                    744217850
                 ]
             ],
             "tags": [
@@ -273,7 +261,7 @@
             ]
         },
         {
-            "description": "You want this triple tap and firing line for PvE. Great option",
+            "description": "You want this triple tap and firing line for PvE. Great option.",
             "hash": 3355385170,
             "name": "PvE Great",
             "plugs": [
@@ -355,7 +343,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Snapshot opening shot, good as it gets on this. Even with hard to get, Fugue is just as good and the craftable sniper is better.",
             "hash": 1387987271,
             "name": "Decent PvP",
             "plugs": [
@@ -393,7 +381,7 @@
             ]
         },
         {
-            "description": "Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot.\n\nMore range is the goal and high stability",
+            "description": "Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot. More range is the goal and high stability",
             "hash": 2888266564,
             "name": "PvP Roll",
             "plugs": [
@@ -421,7 +409,7 @@
             ]
         },
         {
-            "description": "This origin trait is awesome. PvE Amazing.\nSubsistence and Focused Fury. That what you really want but overflow is a good subsistence replacement. Both do amazing but one for all damage.",
+            "description": "This origin trait is awesome. PvE Amazing. Subsistence and Focused Fury/One For All. That's what you really want but overflow is a good subsistence replacement. Both do amazing but one for all damage is easier to get than focus fury, and you get the damage earlier in the mag.",
             "hash": 2852052802,
             "name": "PvE Potential God roll",
             "plugs": [
@@ -442,30 +430,10 @@
             ]
         },
         {
-            "description": "Currently the best handcannon. Better than palindrome, etc.\nSuros synergy origin trait plays a lot here. Take your pick but eye of the storm and opening shot/range finder are probably slightly the best",
+            "description": "Currently the best handcannon. Better than palindrome, etc. Suros synergy origin trait plays a lot here. Take your pick but eye of the storm/Heating Up and opening shot/range finder are probably slightly the best.",
             "hash": 372697604,
             "name": "PvP Godroll Alert potential",
             "plugs": [
-                [
-                    1482024992,
-                    1392496348,
-                    3250034553,
-                    202670084,
-                    1467527085,
-                    4090651448,
-                    839105230,
-                    1840239774,
-                    3661387068
-                ],
-                [
-                    3142289711,
-                    3230963543,
-                    2420895100,
-                    1087426260,
-                    1431678320,
-                    3177308360,
-                    106909392
-                ],
                 [
                     699525795,
                     247725512,
@@ -676,7 +644,7 @@
             ]
         },
         {
-            "description": "Solo weapon upgrade to adept",
+            "description": "Solo weapon upgrade to adept. Triple tap and fourth times the charm again is the no reload desired roll. Its nothing bad if you get a damage perk instead of fourth times the charm though.",
             "hash": 3245493570,
             "name": "PvE",
             "plugs": [
@@ -699,7 +667,7 @@
             ]
         },
         {
-            "description": "Any third col is good but impulse is nicest imo.",
+            "description": "Forth column is what matters here. For bosses or adds explosive light, frenzy, or one for all in that order. For Adds adrenaline junkie can also work with nade-nation. Chill clip for utility. Pick your favorite third column perk. I like impulse for speed which increases DPS. Demolitionist for nade-nation.",
             "hash": 3568377122,
             "name": "PvE Nade launcher Decent",
             "plugs": [
@@ -712,6 +680,23 @@
                 ]
             ],
             "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Reloading is not needed with both triple tap and fourth times the charm if you hit your precisions.",
+            "hash": 1135050595,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    1354429876
+                ]
+            ],
+            "tags": [
+                "GodPVE",
                 "PVE"
             ]
         }
