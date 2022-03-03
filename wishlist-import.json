@@ -8,33 +8,12 @@
             "name": "PvE God Tier",
             "plugs": [
                 [
-                    1392496348,
-                    1482024992,
-                    3250034553,
-                    1467527085,
-                    839105230,
-                    3661387068,
-                    4090651448,
-                    1840239774,
-                    202670084
-                ],
-                [
-                    1087426260,
-                    3230963543,
-                    3142289711,
-                    106909392,
-                    2420895100,
-                    3177308360,
-                    1431678320
-                ],
-                [
                     1820235745,
                     2450788523
                 ],
                 [
                     4104185692,
                     2896038713,
-                    2846385770,
                     11612903
                 ]
             ],
@@ -47,15 +26,6 @@
             "hash": 1019000888,
             "name": "adds and boss",
             "plugs": [
-                [
-                    3250034553,
-                    1392496348,
-                    202670084,
-                    1482024992
-                ],
-                [
-                    3142289711
-                ],
                 [
                     247725512
                 ],
@@ -85,68 +55,10 @@
             ]
         },
         {
-            "description": "This weapon stats has suros synergy which reduces your flinch in PvP. This is great. Best Slug shotty if you get a roll you want. The God roll here is range or handling masterwork with moving target + surplus/vorpal depending on playstyle.",
-            "hash": 2821430069,
-            "name": "PvP Shotgun",
-            "plugs": [
-                [
-                    3250034553,
-                    202670084,
-                    1482024992,
-                    1467527085
-                ],
-                [
-                    3142289711,
-                    679225683
-                ],
-                [
-                    1428297954,
-                    3436462433
-                ],
-                [
-                    1546637391,
-                    588594999
-                ],
-                [
-                    4008116374
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
+            "description": "This is my personal roll. You may not care but grenade land Hoooo!",
             "hash": 2342054803,
-            "name": "keep unless you have god",
+            "name": "Grenade God Roll",
             "plugs": [
-                [
-                    3523296417
-                ],
-                [
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2342054803,
-            "name": "Retire kid...",
-            "plugs": [
-                [
-                    1482024992,
-                    1392496348,
-                    3250034553,
-                    1467527085
-                ],
-                [
-                    3142289711,
-                    1087426260,
-                    3230963543
-                ],
                 [
                     3523296417
                 ],
@@ -160,24 +72,10 @@
             ]
         },
         {
-            "description": "Really want high impact reserves here with firmly planted, charge rate and range stability.\nMaster work stability or charge time is fine with me.\nFirmly planted/Successful Warm-up",
+            "description": "Really want Successful Warmup here with firmly planted, charge rate and range stability.\nMaster work stability or charge time is fine with me.\nFirmly planted/Successful Warm-up Or high impact instead of warm up is good too.",
             "hash": 4114929480,
             "name": "Ranged killer",
             "plugs": [
-                [
-                    4090651448,
-                    1467527085,
-                    1840239774,
-                    202670084,
-                    3250034553,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    689005463,
-                    3868766766,
-                    2969185026
-                ],
                 [
                     280464955,
                     3436462433,
@@ -198,23 +96,7 @@
             "name": "Ranged PvE",
             "plugs": [
                 [
-                    3661387068,
-                    4090651448,
-                    1467527085,
-                    1840239774,
-                    202670084,
-                    3250034553,
-                    1392496348,
-                    1482024992,
-                    839105230
-                ],
-                [
-                    1687452232,
-                    689005463
-                ],
-                [
-                    671806388,
-                    1570042021
+                    671806388
                 ],
                 [
                     1427256713,
@@ -233,14 +115,6 @@
             "hash": 3489657138,
             "name": "PvE Godroll",
             "plugs": [
-                [
-                    981914802,
-                    1441682018,
-                    3525010810
-                ],
-                [
-                    3796465595
-                ],
                 [
                     3300816228,
                     3528046508
@@ -282,17 +156,6 @@
             "hash": 435216110,
             "name": "PvE Godroll",
             "plugs": [
-                [
-                    1482024992,
-                    3250034553,
-                    202670084,
-                    1467527085
-                ],
-                [
-                    3142289711,
-                    1087426260,
-                    3177308360
-                ],
                 [
                     3400784728
                 ],
@@ -338,16 +201,6 @@
             "name": "PvP Ok",
             "plugs": [
                 [
-                    1392496348,
-                    3250034553,
-                    1482024992,
-                    202670084
-                ],
-                [
-                    1885400500,
-                    3142289711
-                ],
-                [
                     1428297954,
                     2387244414
                 ],
@@ -365,39 +218,10 @@
             ]
         },
         {
-            "description": "Same reason as the non adept version. Never reload this thing",
-            "hash": 1135050595,
-            "name": "Adept Version",
-            "plugs": [
-                [
-                    3400784728
-                ],
-                [
-                    1354429876
-                ]
-            ],
-            "tags": [
-                "GodPVE",
-                "PVE"
-            ]
-        },
-        {
-            "description": "Replace your non adept with this.",
+            "description": "Replace your non adept with this. This god roll is forth times the charm with triple tap",
             "hash": 1135050595,
             "name": "Strong PvE",
             "plugs": [
-                [
-                    1482024992,
-                    202670084,
-                    3250034553,
-                    1840239774,
-                    1392496348
-                ],
-                [
-                    1885400500,
-                    3142289711,
-                    3230963543
-                ],
                 [
                     3400784728
                 ],
@@ -405,7 +229,8 @@
                     4049631843,
                     4104185692,
                     3425386926,
-                    1546637391
+                    1546637391,
+                    1354429876
                 ],
                 [
                     1281216113,
@@ -413,7 +238,8 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "PVE",
+                "GodPVE"
             ]
         },
         {
@@ -463,25 +289,23 @@
             ]
         },
         {
-            "description": "",
+            "description": "Really Threat detector and opening shot/moving target here is the god roll but other great perks too.",
             "hash": 2821430069,
             "name": "Great Slug PvP",
             "plugs": [
                 [
-                    1482024992,
-                    3250034553,
-                    202670084
-                ],
-                [
-                    3142289711,
-                    679225683
-                ],
-                [
-                    4071163871
+                    4071163871,
+                    3436462433,
+                    1428297954,
+                    3523296417,
+                    1168162263
                 ],
                 [
                     47981717,
-                    588594999
+                    588594999,
+                    3511092054,
+                    1546637391,
+                    3708227201
                 ],
                 [
                     4008116374
@@ -597,74 +421,10 @@
             ]
         },
         {
-            "description": "Rapid Fire meta for PvP is over but if it comes back, keep this.",
-            "hash": 1248372789,
-            "name": "",
-            "plugs": [
-                [
-                    202670084,
-                    1482024992,
-                    3250034553
-                ],
-                [
-                    3142289711,
-                    3230963543
-                ],
-                [
-                    2450788523,
-                    4207509907,
-                    2014892510,
-                    1428297954
-                ],
-                [
-                    1890422124,
-                    1523649716
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Autos are always great for PvE. Rapid fire that is. Triple tap and any damage perk in last col is good. Vorpal is boss only but one for all and focused fury is good. One for all being best.",
-            "hash": 1248372789,
-            "name": "PvE workhorse",
-            "plugs": [
-                [
-                    573122728,
-                    3400784728
-                ],
-                [
-                    4049631843,
-                    859780267,
-                    3418165135,
-                    2402480669,
-                    1546637391,
-                    2896038713
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "This origin trait is awesome. PvE Amazing.\nSubsistence and Focused Fury. That what you really want but overflow is a good subsistence replacement. Both do amazing but one for all damage.",
             "hash": 2852052802,
             "name": "PvE Potential God roll",
             "plugs": [
-                [
-                    3661387068,
-                    1482024992,
-                    1392496348,
-                    3250034553
-                ],
-                [
-                    1561002382,
-                    1885400500,
-                    3230963543,
-                    679225683,
-                    1968497646
-                ],
                 [
                     1820235745,
                     3643424744
@@ -692,11 +452,19 @@
                     3250034553,
                     202670084,
                     1467527085,
-                    4090651448
+                    4090651448,
+                    839105230,
+                    1840239774,
+                    3661387068
                 ],
                 [
                     3142289711,
-                    3230963543
+                    3230963543,
+                    2420895100,
+                    1087426260,
+                    1431678320,
+                    3177308360,
+                    106909392
                 ],
                 [
                     699525795,
@@ -746,18 +514,6 @@
             "name": "PvP A Tier",
             "plugs": [
                 [
-                    4090651448,
-                    1467527085,
-                    202670084,
-                    3250034553,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    3142289711,
-                    3230963543
-                ],
-                [
                     2866798147
                 ],
                 [
@@ -780,21 +536,6 @@
             "name": "PvE",
             "plugs": [
                 [
-                    4090651448,
-                    202670084,
-                    1840239774,
-                    1392496348,
-                    1482024992,
-                    3250034553,
-                    1467527085
-                ],
-                [
-                    3142289711,
-                    1087426260,
-                    3230963543,
-                    106909392
-                ],
-                [
                     1354429876,
                     1556840489,
                     3300816228
@@ -803,32 +544,6 @@
                     1771339417,
                     1546637391,
                     2896038713
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "#Boss with explosive light. No auto-load holster so 3rd col is not important. 4th is the big one. Any other damage perk in last col like chill clip for utility or frenzy/Adrenaline is good for add clear",
-            "hash": 3568377122,
-            "name": "PvE Good",
-            "plugs": [
-                [
-                    981914802,
-                    3525010810,
-                    1478423395
-                ],
-                [
-                    3301904089,
-                    2822142346,
-                    3373736292
-                ],
-                [
-                    3194351027,
-                    2978966579,
-                    4104185692,
-                    11612903
                 ]
             ],
             "tags": [
@@ -862,16 +577,6 @@
             "name": "PvP",
             "plugs": [
                 [
-                    1392496348,
-                    3250034553,
-                    202670084,
-                    1482024992,
-                    1467527085
-                ],
-                [
-                    3142289711
-                ],
-                [
                     2450788523,
                     2946784966,
                     1428297954
@@ -890,15 +595,6 @@
             "hash": 1141547457,
             "name": "PvP",
             "plugs": [
-                [
-                    3661387068,
-                    1482024992,
-                    1392496348,
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
                 [
                     247725512
                 ],
@@ -973,6 +669,46 @@
                 ],
                 [
                     2988596335
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Solo weapon upgrade to adept",
+            "hash": 3245493570,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    1354429876,
+                    1546637391,
+                    2896038713,
+                    2458213969,
+                    4049631843
+                ],
+                [
+                    2988596335
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Any third col is good but impulse is nicest imo.",
+            "hash": 3568377122,
+            "name": "PvE Nade launcher Decent",
+            "plugs": [
+                [
+                    3194351027,
+                    4049631843,
+                    2978966579,
+                    11612903,
+                    4104185692
                 ]
             ],
             "tags": [
