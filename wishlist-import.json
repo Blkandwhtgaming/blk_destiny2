@@ -3,128 +3,42 @@
     "name": "blk-wishlist",
     "data": [
         {
-            "description": "Good keeper until you find the god roll",
+            "description": "#Adds #PvE\nThis thing is nuts. Subsistence and Frenzy are the pefect combo here, but the new focus fire perk is good as well. Do pair this with Void 3.0 volitile rounds or other void subclass things.",
             "hash": 3341893443,
-            "name": "PvE Good enough",
-            "plugs": [
-                [
-                    1820235745
-                ],
-                [
-                    2896038713
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "#Adds #PvE",
-            "hash": 3341893443,
-            "name": "Add Clear God Roll",
+            "name": "PvE God Tier",
             "plugs": [
                 [
                     1392496348,
                     1482024992,
                     3250034553,
-                    1467527085
+                    1467527085,
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    1840239774,
+                    202670084
                 ],
                 [
                     1087426260,
-                    3230963543
-                ],
-                [
-                    1820235745
-                ],
-                [
-                    2896038713
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "#PvP",
-            "hash": 3341893443,
-            "name": "Recluse?",
-            "plugs": [
-                [
-                    1392496348,
-                    1482024992,
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    2450788523,
-                    1428297954
-                ],
-                [
-                    2846385770
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2852052802,
-            "name": "Add clearing",
-            "plugs": [
-                [
-                    1392496348,
-                    3250034553,
-                    1482024992,
-                    3661387068
-                ],
-                [
-                    1561002382,
-                    1885400500,
                     3230963543,
-                    1087426260
+                    3142289711,
+                    106909392,
+                    2420895100,
+                    3177308360,
+                    1431678320
                 ],
                 [
-                    3643424744,
-                    1820235745
+                    1820235745,
+                    2450788523
                 ],
                 [
-                    124408337,
-                    2896038713
+                    4104185692,
+                    2896038713,
+                    2846385770,
+                    11612903
                 ]
             ],
             "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2852052802,
-            "name": "Add godroll",
-            "plugs": [
-                [
-                    3250034553,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    1561002382,
-                    1885400500,
-                    3230963543,
-                    1087426260
-                ],
-                [
-                    1820235745
-                ],
-                [
-                    124408337,
-                    2896038713
-                ]
-            ],
-            "tags": [
-                "GodPVE",
                 "PVE"
             ]
         },
@@ -171,21 +85,30 @@
             ]
         },
         {
-            "description": "",
+            "description": "This weapon stats has suros synergy which reduces your flinch in PvP. This is great. Best Slug shotty if you get a roll you want. The God roll here is range or handling masterwork with moving target + surplus/vorpal depending on playstyle.",
             "hash": 2821430069,
-            "name": "decent slugger",
+            "name": "PvP Shotgun",
             "plugs": [
                 [
                     3250034553,
-                    202670084
+                    202670084,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    3142289711,
+                    679225683
                 ],
                 [
                     1428297954,
-                    1168162263
+                    3436462433
                 ],
                 [
                     1546637391,
                     588594999
+                ],
+                [
+                    4008116374
                 ]
             ],
             "tags": [
@@ -237,7 +160,7 @@
             ]
         },
         {
-            "description": "Really want high impact reserves here with firmly planted, charge rate and range stability.\nMaster work stability or charge time is fine with me.",
+            "description": "Really want high impact reserves here with firmly planted, charge rate and range stability.\nMaster work stability or charge time is fine with me.\nFirmly planted/Successful Warm-up",
             "hash": 4114929480,
             "name": "Ranged killer",
             "plugs": [
@@ -270,7 +193,7 @@
             ]
         },
         {
-            "description": "Great Add clear with good syn with res burst and compulsive reload.",
+            "description": "Great Add clear with good syn with res burst and compulsive reload. Damage perks are all good",
             "hash": 4114929480,
             "name": "Ranged PvE",
             "plugs": [
@@ -290,10 +213,766 @@
                     689005463
                 ],
                 [
-                    671806388
+                    671806388,
+                    1570042021
                 ],
                 [
-                    1427256713
+                    1427256713,
+                    2213355989,
+                    4104185692,
+                    2652708987,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This is the god roll. Max DPS for bosses. This is the best perk for boss dps. Max damage and we can't craft it...\n#PvE #Boss",
+            "hash": 3489657138,
+            "name": "PvE Godroll",
+            "plugs": [
+                [
+                    981914802,
+                    1441682018,
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228,
+                    3528046508
+                ],
+                [
+                    3927722942,
+                    1167468626
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good roll here for PvE. Adds you want chain reaction, boss timed payload or explosive light. Frenzy is for both but not as good in either situation.",
+            "hash": 3489657138,
+            "name": "PvE Good",
+            "plugs": [
+                [
+                    951095735,
+                    3878366039,
+                    2621346526,
+                    2495011826
+                ],
+                [
+                    3194351027,
+                    4104185692,
+                    3007133316,
+                    2396489472,
+                    598607952,
+                    2275087323
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Reloading is not needed with both triple tap and fourth times the charm if you hit your precisions.",
+            "hash": 435216110,
+            "name": "PvE Godroll",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553,
+                    202670084,
+                    1467527085
+                ],
+                [
+                    3142289711,
+                    1087426260,
+                    3177308360
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    744217850,
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 435216110,
+            "name": "PvE Strong",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    3425386926,
+                    4049631843,
+                    1546637391,
+                    4104185692
+                ],
+                [
+                    1281216113,
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 435216110,
+            "name": "PvP Ok",
+            "plugs": [
+                [
+                    1392496348,
+                    3250034553,
+                    1482024992,
+                    202670084
+                ],
+                [
+                    1885400500,
+                    3142289711
+                ],
+                [
+                    1428297954,
+                    2387244414
+                ],
+                [
+                    3425386926,
+                    1359896290
+                ],
+                [
+                    1281216113,
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Same reason as the non adept version. Never reload this thing",
+            "hash": 1135050595,
+            "name": "Adept Version",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    1354429876
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Replace your non adept with this.",
+            "hash": 1135050595,
+            "name": "Strong PvE",
+            "plugs": [
+                [
+                    1482024992,
+                    202670084,
+                    3250034553,
+                    1840239774,
+                    1392496348
+                ],
+                [
+                    1885400500,
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    4049631843,
+                    4104185692,
+                    3425386926,
+                    1546637391
+                ],
+                [
+                    1281216113,
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "High Caliber rounds for flinch.",
+            "hash": 3355385170,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1392496348,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    3142289711
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717
+                ],
+                [
+                    1281216113,
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "You want this triple tap and firing line for PvE. Great option",
+            "hash": 3355385170,
+            "name": "PvE Great",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2821430069,
+            "name": "Great Slug PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553,
+                    202670084
+                ],
+                [
+                    3142289711,
+                    679225683
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    47981717,
+                    588594999
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "God roll here is subsistence or lead from gold with Frenzy.",
+            "hash": 2821430069,
+            "name": "PvE DPS",
+            "plugs": [
+                [
+                    1556840489,
+                    3436462433,
+                    1168162263,
+                    1820235745
+                ],
+                [
+                    4104185692,
+                    1546637391,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Get highest range possible with perks and masterwork as reload or range/handling",
+            "hash": 1387987271,
+            "name": "PvE God",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1387987271,
+            "name": "Decent PvP",
+            "plugs": [
+                [
+                    957782887
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Huge perk pool...but some decent ones. Subsistence and one for all is great for PvE. The new focused fury synergizes just as well if you don't need the damage. Any damage last column is good.\n",
+            "hash": 1788603939,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1820235745,
+                    1354429876
+                ],
+                [
+                    2896038713,
+                    124408337,
+                    1546637391,
+                    4049631843,
+                    2458213969,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot.\n\nMore range is the goal and high stability",
+            "hash": 2888266564,
+            "name": "PvP Roll",
+            "plugs": [
+                [
+                    1168162263,
+                    3523296417,
+                    2946784966,
+                    247725512,
+                    588594999
+                ],
+                [
+                    47981717,
+                    2846385770,
+                    957782887,
+                    1015611457,
+                    1546637391,
+                    3511092054
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Rapid Fire meta for PvP is over but if it comes back, keep this.",
+            "hash": 1248372789,
+            "name": "",
+            "plugs": [
+                [
+                    202670084,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    2450788523,
+                    4207509907,
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    1890422124,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Autos are always great for PvE. Rapid fire that is. Triple tap and any damage perk in last col is good. Vorpal is boss only but one for all and focused fury is good. One for all being best.",
+            "hash": 1248372789,
+            "name": "PvE workhorse",
+            "plugs": [
+                [
+                    573122728,
+                    3400784728
+                ],
+                [
+                    4049631843,
+                    859780267,
+                    3418165135,
+                    2402480669,
+                    1546637391,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This origin trait is awesome. PvE Amazing.\nSubsistence and Focused Fury. That what you really want but overflow is a good subsistence replacement. Both do amazing but one for all damage.",
+            "hash": 2852052802,
+            "name": "PvE Potential God roll",
+            "plugs": [
+                [
+                    3661387068,
+                    1482024992,
+                    1392496348,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500,
+                    3230963543,
+                    679225683,
+                    1968497646
+                ],
+                [
+                    1820235745,
+                    3643424744
+                ],
+                [
+                    4049631843,
+                    2896038713,
+                    124408337,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Currently the best handcannon. Better than palindrome, etc.\nSuros synergy origin trait plays a lot here. Take your pick but eye of the storm and opening shot/range finder are probably slightly the best",
+            "hash": 372697604,
+            "name": "PvP Godroll Alert potential",
+            "plugs": [
+                [
+                    1482024992,
+                    1392496348,
+                    3250034553,
+                    202670084,
+                    1467527085,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    699525795,
+                    247725512,
+                    1570042021,
+                    509074078
+                ],
+                [
+                    47981717,
+                    1954620775,
+                    2846385770,
+                    1546637391,
+                    588594999
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Adaptive munitions and disruption break. This is great and high end content to shred shields. Any damage perk is good but this is a unique gun that can get both shield perks together.",
+            "hash": 2342054803,
+            "name": "PvE High End Content",
+            "plugs": [
+                [
+                    1048183818
+                ],
+                [
+                    1683379515,
+                    4049631843,
+                    2848615171,
+                    3592538738,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good legendary PvP Sniper. Hard to get a good roll but ideally no distractions with snapshot sights, or moving target/Box Breathing if you don't need snapshot. Again Suros perk is great here to reduce flinch. Zoom on this is a bit high but if you can deal its great.",
+            "hash": 2233545123,
+            "name": "PvP A Tier",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    1546637391,
+                    957782887,
+                    588594999,
+                    2551157718
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Fourth times the charm firing line is basic great. Any other damage perk is good. Auto loading is ok for quick swaps.",
+            "hash": 2233545123,
+            "name": "PvE",
+            "plugs": [
+                [
+                    4090651448,
+                    202670084,
+                    1840239774,
+                    1392496348,
+                    1482024992,
+                    3250034553,
+                    1467527085
+                ],
+                [
+                    3142289711,
+                    1087426260,
+                    3230963543,
+                    106909392
+                ],
+                [
+                    1354429876,
+                    1556840489,
+                    3300816228
+                ],
+                [
+                    1771339417,
+                    1546637391,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#Boss with explosive light. No auto-load holster so 3rd col is not important. 4th is the big one. Any other damage perk in last col like chill clip for utility or frenzy/Adrenaline is good for add clear",
+            "hash": 3568377122,
+            "name": "PvE Good",
+            "plugs": [
+                [
+                    981914802,
+                    3525010810,
+                    1478423395
+                ],
+                [
+                    3301904089,
+                    2822142346,
+                    3373736292
+                ],
+                [
+                    3194351027,
+                    2978966579,
+                    4104185692,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Veist origin in PvE again is great. Side arms are ok. Best PvE Sidearm if you like.",
+            "hash": 1687353095,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    4049631843,
+                    3425386926,
+                    3708227201
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "If you have to take a sidearm in PvP this is not bad. Won't beat exotic Forerunner, but as far as legendary goes, only thing that beats this is Peacebond but the roll for that is hard to get.",
+            "hash": 1687353095,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1392496348,
+                    3250034553,
+                    202670084,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523,
+                    2946784966,
+                    1428297954
+                ],
+                [
+                    47981717,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Rapid hit and kill clip is the most sought after. Its a 180 rpm though...so not as hard hitting. If you want adagio can make it a 140 if you get one kill. Worth trying out for the iron wolf perk in iron banner to get stealth radar.",
+            "hash": 1141547457,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3661387068,
+                    1482024992,
+                    1392496348,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512
+                ],
+                [
+                    591790007,
+                    3673922083,
+                    1015611457,
+                    699525795
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Add clear monster with chain reaction on a spin cycle of death. Not going to out dps bosses like guillotine though.",
+            "hash": 1796949035,
+            "name": "PvE Vortex Frame",
+            "plugs": [
+                [
+                    1749209109,
+                    2590710093
+                ],
+                [
+                    2396489472,
+                    4049631843,
+                    4104185692
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "If you need a sword in PvP, other than eager edge on 30th anniversary swords, this in iron banner can make you stealthy for the close kills",
+            "hash": 1796949035,
+            "name": "PvP Ok",
+            "plugs": [
+                [
+                    3108830275,
+                    3705817207
+                ],
+                [
+                    354401740
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Solo content gun! The last member of your fireteam origin perk triggers for solo content. Triple tap and forth times the charm are good for this but damage perks are good in place of forth times the charm like vorpal or focused fire.",
+            "hash": 2638190703,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    1354429876,
+                    2896038713,
+                    1546637391
+                ],
+                [
+                    2988596335
                 ]
             ],
             "tags": [
