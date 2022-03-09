@@ -22,7 +22,7 @@ dimwishlist:item=232928045&perks=3523746922,1551736345
 
 
 // Cantata-57 - PvP Godroll Alert potential (pvp,god-pvp)
-//notes: Currently the best handcannon. Better than palindrome, etc. Suros synergy origin trait plays a lot here. Take your pick but eye of the storm/Heating Up and opening shot/range finder are probably slightly the best. tags:pvp,god-pvp
+//notes: Currently the best handcannon. Better than palindrome, etc. Suros synergy origin trait plays a lot here. Take your pick but eye of the storm/Heating Up and opening shot/range finder are probably slightly the best. Most agree Eye of the Storm and Rangefinder are the godroll with masterwork range for max range. tags:pvp,god-pvp
 dimwishlist:item=372697604&perks=699525795,47981717,4008116374
 dimwishlist:item=372697604&perks=699525795,1954620775,4008116374
 dimwishlist:item=372697604&perks=699525795,2846385770,4008116374
@@ -494,7 +494,7 @@ dimwishlist:item=2852052802&perks=3643424744,1546637391
 
 
 // Crisis Inverted - PvP Roll (pvp)
-//notes: Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot. More range is the goal and high stability tags:pvp
+//notes: Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot. More range is the goal and high stability. This with the perfect roll can out gun Cantata. The stability of the intrinsic perk makes this great all the time. Range is your focus with masterwork, hammer forged barrel, richochet rounds, etc. Perfection: Hammer Forged, Richochet, Rapid hit, Rangefinder and range masterwork. tags:pvp
 dimwishlist:item=2888266564&perks=1168162263,47981717,2839173408
 dimwishlist:item=2888266564&perks=1168162263,2846385770,2839173408
 dimwishlist:item=2888266564&perks=1168162263,957782887,2839173408
@@ -572,6 +572,13 @@ dimwishlist:item=3341893443&perks=1820235745,11612903
 dimwishlist:item=3341893443&perks=2450788523,4104185692
 dimwishlist:item=3341893443&perks=2450788523,2896038713
 dimwishlist:item=3341893443&perks=2450788523,11612903
+
+
+// Funnelweb (pvp)
+//notes: #PvP perpetual motion for sure. Rangefinder for range or frenzy/adrenaline junkie for more damage and higher time to kill. Up to you. Range, Stability or handing masterwork up to you. For barrel and mag/rounds you want range and stability where possible. tags:pvp
+dimwishlist:item=3341893443&perks=1428297954,2846385770
+dimwishlist:item=3341893443&perks=1428297954,4104185692
+dimwishlist:item=3341893443&perks=1428297954,11612903
 
 
 // Silicon Neuroma - PvP (pvp)
@@ -724,6 +731,27 @@ dimwishlist:item=3568377122&perks=981914802,332133599,3096702027,4049631843
 // Typhon GL5 - Nade Nation (pve)
 //notes: Nade Nation #PvE #NadeNation I like spamming grenades. For any boss or adds, a grenade build would love this with another similar energy/kinetic for one size fits all nade spamming with void 3.0 volatile grenades. tags:pve
 dimwishlist:item=3568377122&perks=3523296417,3592538738
+
+
+// Dead Man's Tale - PvP Decent (pvp,god-pvp)
+//notes: Any Vorpal will be good here. Shuts down supers in crucible. Again barrel is up to you but higher range is great with stability the next focus. Any stock is good with stability of Fitted giving both recoil and stability being the best but the stock really isn't all that important. tags:pvp,god-pvp
+dimwishlist:item=3654674561&perks=1546637391
+dimwishlist:item=3654674561&perks=1168162263
+dimwishlist:item=3654674561&perks=1820235745
+dimwishlist:item=3654674561&perks=2450788523
+
+
+// Hawkmoon - PvP Desire (pvp,god-pvp)
+//notes: Eye of the Storm is the S-Tier option but Rangefinder or opening shot decent alternatives in that order. For grip, Heavy for recoil but smooth/polymer are decent backups. Barrel is up to you but range is the desired stat so extended or hammer-forged are best here. Barrel won't break the gun though. tags:pvp,god-pvp
+dimwishlist:item=3856705927&perks=1431678320,699525795,1012699414
+dimwishlist:item=3856705927&perks=1431678320,699525795,3326204863
+dimwishlist:item=3856705927&perks=1431678320,699525795,862848869
+dimwishlist:item=3856705927&perks=1431678320,2846385770,1012699414
+dimwishlist:item=3856705927&perks=1431678320,2846385770,3326204863
+dimwishlist:item=3856705927&perks=1431678320,2846385770,862848869
+dimwishlist:item=3856705927&perks=1431678320,47981717,1012699414
+dimwishlist:item=3856705927&perks=1431678320,47981717,3326204863
+dimwishlist:item=3856705927&perks=1431678320,47981717,862848869
 
 
 // Snorri FR5 - Ranged killer (pvp)
