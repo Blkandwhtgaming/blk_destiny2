@@ -381,7 +381,7 @@
             ]
         },
         {
-            "description": "Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot. More range is the goal and high stability",
+            "description": "Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot. More range is the goal and high stability. This with the perfect roll can out gun Cantata. The stability of the intrinsic perk makes this great all the time. Range is your focus with masterwork, hammer forged barrel, richochet rounds, etc. Perfection: Hammer Forged, Richochet, Rapid hit, Rangefinder and range masterwork.",
             "hash": 2888266564,
             "name": "PvP Roll",
             "plugs": [
@@ -430,7 +430,7 @@
             ]
         },
         {
-            "description": "Currently the best handcannon. Better than palindrome, etc. Suros synergy origin trait plays a lot here. Take your pick but eye of the storm/Heating Up and opening shot/range finder are probably slightly the best.",
+            "description": "Currently the best handcannon. Better than palindrome, etc. Suros synergy origin trait plays a lot here. Take your pick but eye of the storm/Heating Up and opening shot/range finder are probably slightly the best. Most agree Eye of the Storm and Rangefinder are the godroll with masterwork range for max range.",
             "hash": 372697604,
             "name": "PvP Godroll Alert potential",
             "plugs": [
@@ -948,6 +948,65 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "#PvP perpetual motion for sure. Rangefinder for range or frenzy/adrenaline junkie for more damage and higher time to kill. Up to you. Range, Stability or handing masterwork up to you. For barrel and mag/rounds you want range and stability where possible.",
+            "hash": 3341893443,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    2846385770,
+                    4104185692,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Eye of the Storm is the S-Tier option but Rangefinder or opening shot decent alternatives in that order. For grip, Heavy for recoil but smooth/polymer are decent backups. Barrel is up to you but range is the desired stat so extended or hammer-forged are best here. Barrel won't break the gun though.",
+            "hash": 3856705927,
+            "name": "PvP Desire",
+            "plugs": [
+                [
+                    1431678320
+                ],
+                [
+                    699525795,
+                    2846385770,
+                    47981717
+                ],
+                [
+                    1012699414,
+                    3326204863,
+                    862848869
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Any Vorpal will be good here. Shuts down supers in crucible. Again barrel is up to you but higher range is great with stability the next focus. Any stock is good with stability of Fitted giving both recoil and stability being the best but the stock really isn't all that important.",
+            "hash": 3654674561,
+            "name": "PvP Decent",
+            "plugs": [
+                [
+                    1546637391,
+                    1168162263,
+                    1820235745,
+                    2450788523
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
             ]
         }
     ]
