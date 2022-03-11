@@ -1008,6 +1008,134 @@
                 "PVP",
                 "GodPVP"
             ]
+        },
+        {
+            "description": "As far as Rapid Fire frames go, this competes with servant leader with some better PvP Options. You'll want Alacrity for Trials where where you can be the last one standing. Other than that put on one quiet moment. Best option here is tunnel vision/Multi-kill clip, perpetual motion is also decent third slot pick. Last column vorpal or eye of the storm depending on what you need it for though eye of the storm is generally better since rapid fire frames don't crack down super users. If you want that use Dead Man's Tale with Vorpal. For barrels and rounds/mag go for highest range, with stability as the second priority. Masterwork range or Stability depending on other mods.",
+            "hash": 2638190703,
+            "name": "PvP Roll",
+            "plugs": [
+                [
+                    2946784966,
+                    1428297954
+                ],
+                [
+                    1546637391,
+                    2458213969,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "As far as Rapid Fire frames go, this competes with servant leader with some better PvP Options. You'll want Alacrity for Trials where where you can be the last one standing. Other than that put on one quiet moment. Best option here is tunnel vision/Multi-kill clip, perpetual motion is also decent third slot pick. Last column vorpal or eye of the storm depending on what you need it for though eye of the storm is generally better since rapid fire frames don't crack down super users. If you want that use Dead Man's Tale with Vorpal. For barrels and rounds/mag go for highest range, with stability as the second priority. Masterwork range or Stability depending on other mods.",
+            "hash": 3245493570,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1428297954,
+                    2946784966
+                ],
+                [
+                    1546637391,
+                    2458213969,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Great PvP Auto-rifle best in game, except the adept version of course. Especially with Alacrity great for solo play like rumble or trials when people die. For specific Trials/Rumble, Celerity is useful. Other than that rangefinder (shows in both columns) is great. You want rangefinder in third col so fourth can be multi-kill clip or rampage. Wellspring/Harmony in 4th are ok backups with utility. Third col if you don't have rangefinder here, Heating up/Perpetual motion both good, with Moving target next option for aim assist. Any other perks are ok to keep until you get these rolls. For other mods, range and stability in that order, masterwork range/stability, or reload if you like snappy reloads.",
+            "hash": 1907698332,
+            "name": "PvP",
+            "plugs": [
+                [
+                    2387244414,
+                    588594999,
+                    1428297954,
+                    1570042021,
+                    2846385770,
+                    1359896290
+                ],
+                [
+                    2846385770,
+                    1264398905,
+                    2458213969,
+                    3592538738,
+                    3425386926,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "ok roll but Krait is going to outshine this thing in current PvE meta. Handy for higher end content if you need the range. Get any damage perk in last column. Dragonfly for adds, focused fury for most easy to get damage boost, with rampage next followed by multi-kill clip",
+            "hash": 1907698332,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3643424744
+                ],
+                [
+                    2848615171,
+                    2896038713,
+                    2458213969,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Great PvP Auto-rifle best in game, except the adept version of course. Especially with Alacrity great for solo play like rumble or trials when people die. For specific Trials/Rumble, Celerity is useful. Other than that rangefinder (shows in both columns) is great. You want rangefinder in third col so fourth can be multi-kill clip or rampage. Wellspring/Harmony in 4th are ok backups with utility. Third col if you don't have rangefinder here, Heating up/Perpetual motion both good, with Moving target next option for aim assist. Any other perks are ok to keep until you get these rolls. For other mods, range and stability in that order, masterwork range/stability, or reload if you like snappy reloads. Best PvP auto with the recommended rolls overall.",
+            "hash": 3514144928,
+            "name": "PvP",
+            "plugs": [
+                [
+                    588594999,
+                    1428297954,
+                    1570042021,
+                    2846385770
+                ],
+                [
+                    3425386926,
+                    2846385770,
+                    1264398905,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "ok roll but Krait is going to outshine this thing in current PvE meta. Handy for higher end content if you need the range. Get any damage perk in last column. Dragonfly for adds, focused fury for most easy to get damage boost, with rampage next followed by multi-kill clip. Harmony for potential synergy with good specials/Heavy that finish combatants but not optimal. Wellspring for utility builds. In third column overflow is going to be great, but dynamic sway can help keep crits to proc damage from focused fury or get dragonfly procs on crit kills.",
+            "hash": 3514144928,
+            "name": "PvE Ok",
+            "plugs": [
+                [
+                    3643424744,
+                    1359896290
+                ],
+                [
+                    2848615171,
+                    3425386926,
+                    2896038713,
+                    2458213969,
+                    438098033,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
