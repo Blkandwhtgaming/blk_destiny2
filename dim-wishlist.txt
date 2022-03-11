@@ -277,6 +277,54 @@ dimwishlist:item=1796949035&perks=3108830275,354401740,3989629871
 dimwishlist:item=1796949035&perks=3705817207,354401740,3989629871
 
 
+// The Summoner - PvP (pvp)
+//notes: Great PvP Auto-rifle best in game, except the adept version of course. Especially with Alacrity great for solo play like rumble or trials when people die. For specific Trials/Rumble, Celerity is useful. Other than that rangefinder (shows in both columns) is great. You want rangefinder in third col so fourth can be multi-kill clip or rampage. Wellspring/Harmony in 4th are ok backups with utility. Third col if you don't have rangefinder here, Heating up/Perpetual motion both good, with Moving target next option for aim assist. Any other perks are ok to keep until you get these rolls. For other mods, range and stability in that order, masterwork range/stability, or reload if you like snappy reloads. tags:pvp
+dimwishlist:item=1907698332&perks=2387244414,2846385770
+dimwishlist:item=1907698332&perks=2387244414,1264398905
+dimwishlist:item=1907698332&perks=2387244414,2458213969
+dimwishlist:item=1907698332&perks=2387244414,3592538738
+dimwishlist:item=1907698332&perks=2387244414,3425386926
+dimwishlist:item=1907698332&perks=2387244414,438098033
+dimwishlist:item=1907698332&perks=588594999,2846385770
+dimwishlist:item=1907698332&perks=588594999,1264398905
+dimwishlist:item=1907698332&perks=588594999,2458213969
+dimwishlist:item=1907698332&perks=588594999,3592538738
+dimwishlist:item=1907698332&perks=588594999,3425386926
+dimwishlist:item=1907698332&perks=588594999,438098033
+dimwishlist:item=1907698332&perks=1428297954,2846385770
+dimwishlist:item=1907698332&perks=1428297954,1264398905
+dimwishlist:item=1907698332&perks=1428297954,2458213969
+dimwishlist:item=1907698332&perks=1428297954,3592538738
+dimwishlist:item=1907698332&perks=1428297954,3425386926
+dimwishlist:item=1907698332&perks=1428297954,438098033
+dimwishlist:item=1907698332&perks=1570042021,2846385770
+dimwishlist:item=1907698332&perks=1570042021,1264398905
+dimwishlist:item=1907698332&perks=1570042021,2458213969
+dimwishlist:item=1907698332&perks=1570042021,3592538738
+dimwishlist:item=1907698332&perks=1570042021,3425386926
+dimwishlist:item=1907698332&perks=1570042021,438098033
+dimwishlist:item=1907698332&perks=2846385770,2846385770
+dimwishlist:item=1907698332&perks=2846385770,1264398905
+dimwishlist:item=1907698332&perks=2846385770,2458213969
+dimwishlist:item=1907698332&perks=2846385770,3592538738
+dimwishlist:item=1907698332&perks=2846385770,3425386926
+dimwishlist:item=1907698332&perks=2846385770,438098033
+dimwishlist:item=1907698332&perks=1359896290,2846385770
+dimwishlist:item=1907698332&perks=1359896290,1264398905
+dimwishlist:item=1907698332&perks=1359896290,2458213969
+dimwishlist:item=1907698332&perks=1359896290,3592538738
+dimwishlist:item=1907698332&perks=1359896290,3425386926
+dimwishlist:item=1907698332&perks=1359896290,438098033
+
+
+// The Summoner - PvE (pve)
+//notes: ok roll but Krait is going to outshine this thing in current PvE meta. Handy for higher end content if you need the range. Get any damage perk in last column. Dragonfly for adds, focused fury for most easy to get damage boost, with rampage next followed by multi-kill clip tags:pve
+dimwishlist:item=1907698332&perks=3643424744,2848615171
+dimwishlist:item=1907698332&perks=3643424744,2896038713
+dimwishlist:item=1907698332&perks=3643424744,2458213969
+dimwishlist:item=1907698332&perks=3643424744,3425386926
+
+
 // Likely Suspect - PvP  (pvp,god-pvp)
 //notes: Best ranged fusion for PvP in the rapid fire category. Amazing potential. You can craft your barrel and charge rate later, but if you don't have the pattern unlocked, just firmly planted and successful warm-up. All day. #PvP #GodTier tags:pvp,god-pvp
 dimwishlist:item=1994645182&perks=280464955,2652708987
@@ -431,6 +479,16 @@ dimwishlist:item=2638190703&perks=3400784728,2896038713,2988596335
 dimwishlist:item=2638190703&perks=3400784728,1546637391,2988596335
 
 
+// Aisha's Embrace - PvP Roll (pvp)
+//notes: As far as Rapid Fire frames go, this competes with servant leader with some better PvP Options. You'll want Alacrity for Trials where where you can be the last one standing. Other than that put on one quiet moment. Best option here is tunnel vision/Multi-kill clip, perpetual motion is also decent third slot pick. Last column vorpal or eye of the storm depending on what you need it for though eye of the storm is generally better since rapid fire frames don't crack down super users. If you want that use Dead Man's Tale with Vorpal. For barrels and rounds/mag go for highest range, with stability as the second priority. Masterwork range or Stability depending on other mods. tags:pvp
+dimwishlist:item=2638190703&perks=2946784966,1546637391
+dimwishlist:item=2638190703&perks=2946784966,2458213969
+dimwishlist:item=2638190703&perks=2946784966,699525795
+dimwishlist:item=2638190703&perks=1428297954,1546637391
+dimwishlist:item=2638190703&perks=1428297954,2458213969
+dimwishlist:item=2638190703&perks=1428297954,699525795
+
+
 // Fortissimo-11 - Great Slug PvP (pvp,god-pvp)
 //notes: Really Threat detector and opening shot/moving target here is the god roll but other great perks too. tags:pvp,god-pvp
 dimwishlist:item=2821430069&perks=4071163871,47981717,4008116374
@@ -564,6 +622,16 @@ dimwishlist:item=3245493570&perks=3400784728,2458213969,2988596335
 dimwishlist:item=3245493570&perks=3400784728,4049631843,2988596335
 
 
+// Aisha's Embrace (Adept) - PvP (pvp)
+//notes: As far as Rapid Fire frames go, this competes with servant leader with some better PvP Options. You'll want Alacrity for Trials where where you can be the last one standing. Other than that put on one quiet moment. Best option here is tunnel vision/Multi-kill clip, perpetual motion is also decent third slot pick. Last column vorpal or eye of the storm depending on what you need it for though eye of the storm is generally better since rapid fire frames don't crack down super users. If you want that use Dead Man's Tale with Vorpal. For barrels and rounds/mag go for highest range, with stability as the second priority. Masterwork range or Stability depending on other mods. tags:pvp
+dimwishlist:item=3245493570&perks=1428297954,1546637391
+dimwishlist:item=3245493570&perks=1428297954,2458213969
+dimwishlist:item=3245493570&perks=1428297954,699525795
+dimwishlist:item=3245493570&perks=2946784966,1546637391
+dimwishlist:item=3245493570&perks=2946784966,2458213969
+dimwishlist:item=3245493570&perks=2946784966,699525795
+
+
 // Funnelweb - PvE God Tier (pve)
 //notes: #Adds #PvE This thing is nuts. Subsistence and Frenzy are the perfect combo here, but the new focus fire perk is good as well. Do pair this with Void 3.0 volatile rounds or other void subclass things. Adrenaline Junkie is another damage option if you are running nade-nation. tags:pve
 dimwishlist:item=3341893443&perks=1820235745,4104185692
@@ -625,6 +693,42 @@ dimwishlist:item=3489657138&perks=2495011826,3007133316
 dimwishlist:item=3489657138&perks=2495011826,2396489472
 dimwishlist:item=3489657138&perks=2495011826,598607952
 dimwishlist:item=3489657138&perks=2495011826,2275087323
+
+
+// The Summoner (Adept) - PvP (pvp,god-pvp)
+//notes: Great PvP Auto-rifle best in game, except the adept version of course. Especially with Alacrity great for solo play like rumble or trials when people die. For specific Trials/Rumble, Celerity is useful. Other than that rangefinder (shows in both columns) is great. You want rangefinder in third col so fourth can be multi-kill clip or rampage. Wellspring/Harmony in 4th are ok backups with utility. Third col if you don't have rangefinder here, Heating up/Perpetual motion both good, with Moving target next option for aim assist. Any other perks are ok to keep until you get these rolls. For other mods, range and stability in that order, masterwork range/stability, or reload if you like snappy reloads. Best PvP auto with the recommended rolls overall. tags:pvp,god-pvp
+dimwishlist:item=3514144928&perks=588594999,3425386926
+dimwishlist:item=3514144928&perks=588594999,2846385770
+dimwishlist:item=3514144928&perks=588594999,1264398905
+dimwishlist:item=3514144928&perks=588594999,2458213969
+dimwishlist:item=3514144928&perks=1428297954,3425386926
+dimwishlist:item=3514144928&perks=1428297954,2846385770
+dimwishlist:item=3514144928&perks=1428297954,1264398905
+dimwishlist:item=3514144928&perks=1428297954,2458213969
+dimwishlist:item=3514144928&perks=1570042021,3425386926
+dimwishlist:item=3514144928&perks=1570042021,2846385770
+dimwishlist:item=3514144928&perks=1570042021,1264398905
+dimwishlist:item=3514144928&perks=1570042021,2458213969
+dimwishlist:item=3514144928&perks=2846385770,3425386926
+dimwishlist:item=3514144928&perks=2846385770,2846385770
+dimwishlist:item=3514144928&perks=2846385770,1264398905
+dimwishlist:item=3514144928&perks=2846385770,2458213969
+
+
+// The Summoner (Adept) - PvE Ok (pve)
+//notes: ok roll but Krait is going to outshine this thing in current PvE meta. Handy for higher end content if you need the range. Get any damage perk in last column. Dragonfly for adds, focused fury for most easy to get damage boost, with rampage next followed by multi-kill clip. Harmony for potential synergy with good specials/Heavy that finish combatants but not optimal. Wellspring for utility builds. In third column overflow is going to be great, but dynamic sway can help keep crits to proc damage from focused fury or get dragonfly procs on crit kills. tags:pve
+dimwishlist:item=3514144928&perks=3643424744,2848615171
+dimwishlist:item=3514144928&perks=3643424744,3425386926
+dimwishlist:item=3514144928&perks=3643424744,2896038713
+dimwishlist:item=3514144928&perks=3643424744,2458213969
+dimwishlist:item=3514144928&perks=3643424744,438098033
+dimwishlist:item=3514144928&perks=3643424744,3592538738
+dimwishlist:item=3514144928&perks=1359896290,2848615171
+dimwishlist:item=3514144928&perks=1359896290,3425386926
+dimwishlist:item=3514144928&perks=1359896290,2896038713
+dimwishlist:item=3514144928&perks=1359896290,2458213969
+dimwishlist:item=3514144928&perks=1359896290,438098033
+dimwishlist:item=3514144928&perks=1359896290,3592538738
 
 
 // Typhon GL5 - PvE Nade launcher Decent (pve)
