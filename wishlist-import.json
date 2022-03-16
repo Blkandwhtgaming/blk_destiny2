@@ -1136,6 +1136,121 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Best use would be outlaw kill clip with the most range you can get stability second. Alternatively, blunt execution rounds is a great melee build synergy. Rangefinder is good as well in place of kill clip but kill clip will get you that big damage in team shooting.",
+            "hash": 2708806099,
+            "name": "PvP",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    1885400500
+                ],
+                [
+                    1168162263,
+                    2450788523,
+                    1428297954
+                ],
+                [
+                    1015611457,
+                    454085387,
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Only PvE roll you want here is demolitionist/adrenaline junkie for grenade builds. Other than that no good PvE Perks on this weapon that can outclass any other pulse in the energy slot...",
+            "hash": 2708806099,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Any damage perk in last column is good, snapshot sights is ok as a backup. This scout is all about range and used in long range maps for it. #PvP",
+            "hash": 1107446438,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1392496348,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512,
+                    1570042021,
+                    2450788523,
+                    2946784966
+                ],
+                [
+                    1015611457,
+                    3425386926,
+                    957782887,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Fourth times the charm or subsistence and one for all is the god roll here, but any damage perk can work. Proc one for all with hits then have fun with nice 5s long damage you can keep refreshing after it expires.",
+            "hash": 1107446438,
+            "name": "",
+            "plugs": [
+                [
+                    1354429876,
+                    1820235745
+                ],
+                [
+                    2458213969,
+                    3425386926,
+                    1015611457,
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Focused fury with fourth times the charm for straight up damage, dragonfly with dragonfly spec mod for add clear. #PvE",
+            "hash": 297296830,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1354429876
+                ],
+                [
+                    2848615171,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
