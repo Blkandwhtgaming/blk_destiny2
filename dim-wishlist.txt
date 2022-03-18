@@ -830,28 +830,28 @@ dimwishlist:item=3355385170&perks=957782887,47981717
 dimwishlist:item=3355385170&perks=3400784728,1771339417
 
 
-// Frozen Orbit - PvP Monster (pvp,god-pvp)
-//notes: Rolls to look for: Moving Target/Snapshot Sights for fast pace with high aim assist, OR High Impact Reserves for one shot body shots using any damage booster. If you get High impact reserves and ANYTHING. Save it. You need a mag extending perk to get both rounds for High impact to count. If not a warlock, get any other damage boosting effect to proc body shots. Kill clip is one kill and then free body shots. Vorpal for super shutdowns. The range is great on this thing so lots of aim assist. Depending on the barrel/rounds you might not want range masterwork. With this gun its Range, then handling to be faster with it. If you have hammer forged barrel with accurized rounds then you already hit near max range, and pushing it to 100 isn't that big of a deal. If you got opening shot with that, then congrats you're max range, but no snapshot sights. Firmly planted is another good option in the third column and high impact reserves or vorpal as decent alternatives to snapshot if you are more of a lane sniper than quick shooter. #PvP #GodPvP tags:pvp,god-pvp
-dimwishlist:item=3473290087&perks=3436462433,706527188
+// Frozen Orbit - PvP Monster (god-pvp,pvp)
+//notes: READ! Rolls to look for: Moving Target/Snapshot Sights for fast pace with high aim assist, OR High Impact Reserves for one shot body shots using any damage booster. If you get High impact reserves and ANYTHING. Save it. You need a mag extending perk to get both rounds for High impact to count. If not a warlock, get any other damage boosting effect to proc body shots. Kill clip is one kill and then free body shots. Vorpal for super shutdowns. The range is great on this thing so lots of aim assist. Depending on the barrel/rounds you might not want range masterwork. With this gun its Range, then handling to be faster with it. If you have hammer forged barrel with accurized rounds then you already hit near max range, and pushing it to 100 isn't that big of a deal. If you got opening shot with that, then congrats you're max range, but no snapshot sights. Firmly planted is another good option in the third column and high impact reserves or vorpal as decent alternatives to snapshot if you are more of a lane sniper than quick shooter. #PvP #GodPvP tags:god-pvp,pvp
+dimwishlist:item=3473290087&perks=3436462433,1015611457
+dimwishlist:item=3473290087&perks=3436462433,2213355989
 dimwishlist:item=3473290087&perks=3436462433,957782887
 dimwishlist:item=3473290087&perks=3436462433,47981717
-dimwishlist:item=3473290087&perks=3436462433,2213355989
-dimwishlist:item=3473290087&perks=3436462433,1546637391
-dimwishlist:item=3473290087&perks=280464955,706527188
-dimwishlist:item=3473290087&perks=280464955,957782887
-dimwishlist:item=3473290087&perks=280464955,47981717
-dimwishlist:item=3473290087&perks=280464955,2213355989
-dimwishlist:item=3473290087&perks=280464955,1546637391
-dimwishlist:item=3473290087&perks=588594999,706527188
-dimwishlist:item=3473290087&perks=588594999,957782887
-dimwishlist:item=3473290087&perks=588594999,47981717
-dimwishlist:item=3473290087&perks=588594999,2213355989
-dimwishlist:item=3473290087&perks=588594999,1546637391
-dimwishlist:item=3473290087&perks=2866798147,706527188
+dimwishlist:item=3473290087&perks=3436462433,706527188
+dimwishlist:item=3473290087&perks=2866798147,1015611457
+dimwishlist:item=3473290087&perks=2866798147,2213355989
 dimwishlist:item=3473290087&perks=2866798147,957782887
 dimwishlist:item=3473290087&perks=2866798147,47981717
-dimwishlist:item=3473290087&perks=2866798147,2213355989
-dimwishlist:item=3473290087&perks=2866798147,1546637391
+dimwishlist:item=3473290087&perks=2866798147,706527188
+dimwishlist:item=3473290087&perks=588594999,1015611457
+dimwishlist:item=3473290087&perks=588594999,2213355989
+dimwishlist:item=3473290087&perks=588594999,957782887
+dimwishlist:item=3473290087&perks=588594999,47981717
+dimwishlist:item=3473290087&perks=588594999,706527188
+dimwishlist:item=3473290087&perks=280464955,1015611457
+dimwishlist:item=3473290087&perks=280464955,2213355989
+dimwishlist:item=3473290087&perks=280464955,957782887
+dimwishlist:item=3473290087&perks=280464955,47981717
+dimwishlist:item=3473290087&perks=280464955,706527188
 
 
 // Palmyra-B - PvE Godroll (god-pve,pve)
