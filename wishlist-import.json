@@ -1253,27 +1253,27 @@
             ]
         },
         {
-            "description": "Rolls to look for: Moving Target/Snapshot Sights for fast pace with high aim assist, OR High Impact Reserves for one shot body shots using any damage booster. If you get High impact reserves and ANYTHING. Save it. You need a mag extending perk to get both rounds for High impact to count. If not a warlock, get any other damage boosting effect to proc body shots. Kill clip is one kill and then free body shots. Vorpal for super shutdowns. The range is great on this thing so lots of aim assist. Depending on the barrel/rounds you might not want range masterwork. With this gun its Range, then handling to be faster with it. If you have hammer forged barrel with accurized rounds then you already hit near max range, and pushing it to 100 isn't that big of a deal. If you got opening shot with that, then congrats you're max range, but no snapshot sights. Firmly planted is another good option in the third column and high impact reserves or vorpal as decent alternatives to snapshot if you are more of a lane sniper than quick shooter. #PvP #GodPvP",
+            "description": "READ! Rolls to look for: Moving Target/Snapshot Sights for fast pace with high aim assist, OR High Impact Reserves for one shot body shots using any damage booster. If you get High impact reserves and ANYTHING. Save it. You need a mag extending perk to get both rounds for High impact to count. If not a warlock, get any other damage boosting effect to proc body shots. Kill clip is one kill and then free body shots. Vorpal for super shutdowns. The range is great on this thing so lots of aim assist. Depending on the barrel/rounds you might not want range masterwork. With this gun its Range, then handling to be faster with it. If you have hammer forged barrel with accurized rounds then you already hit near max range, and pushing it to 100 isn't that big of a deal. If you got opening shot with that, then congrats you're max range, but no snapshot sights. Firmly planted is another good option in the third column and high impact reserves or vorpal as decent alternatives to snapshot if you are more of a lane sniper than quick shooter. #PvP #GodPvP",
             "hash": 3473290087,
             "name": "PvP Monster",
             "plugs": [
                 [
                     3436462433,
-                    280464955,
+                    2866798147,
                     588594999,
-                    2866798147
+                    280464955
                 ],
                 [
-                    706527188,
+                    1015611457,
+                    2213355989,
                     957782887,
                     47981717,
-                    2213355989,
-                    1546637391
+                    706527188
                 ]
             ],
             "tags": [
-                "PVP",
-                "GodPVP"
+                "GodPVP",
+                "PVP"
             ]
         }
     ]
