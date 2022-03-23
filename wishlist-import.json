@@ -381,14 +381,28 @@
             ]
         },
         {
-            "description": "Rapid Hit or moving target in 3rd col. 4th your pick of kill clip, range finder or opening shot. More range is the goal and high stability. This with the perfect roll can out gun Cantata. The stability of the intrinsic perk makes this great all the time. Range is your focus with masterwork, hammer forged barrel, richochet rounds, etc. Perfection: Hammer Forged, Richochet, Rapid hit, Rangefinder and range masterwork.",
+            "description": "Good Roll here. Check for potential God rolls of: 1) Outlaw/Kill Clip 2) Rapid Hit/Range Finder 3) Rapid Hit/Opening Shot. If you need to get even more picky, Arrowhead Brake is best barrel and Richochet Rounds is best rounds for it. Range Masterwork.",
             "hash": 2888266564,
             "name": "PvP Roll",
             "plugs": [
                 [
+                    839105230,
+                    3661387068,
+                    1467527085,
+                    4090651448,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
                     1168162263,
-                    3523296417,
-                    2946784966,
                     247725512,
                     588594999
                 ],
@@ -396,9 +410,7 @@
                     47981717,
                     2846385770,
                     957782887,
-                    1015611457,
-                    1546637391,
-                    3511092054
+                    1015611457
                 ],
                 [
                     2839173408
@@ -430,30 +442,40 @@
             ]
         },
         {
-            "description": "Currently the best handcannon. Better than palindrome, etc. Suros synergy origin trait plays a lot here. Take your pick but eye of the storm/Heating Up and opening shot/range finder are probably slightly the best. Most agree Eye of the Storm and Rangefinder are the godroll with masterwork range for max range.",
+            "description": "Currently the best handcannon. Better than palindrome, etc. Suros synergy origin trait plays a lot here. Take your pick but eye of the storm/Heating Up and opening shot/range finder are probably slightly the best. Most agree Eye of the Storm and Rangefinder are the godroll with masterwork range for max range. Masterwork Range.",
             "hash": 372697604,
             "name": "PvP Godroll Alert potential",
             "plugs": [
                 [
-                    699525795,
-                    247725512,
-                    1570042021,
-                    509074078
+                    1840239774,
+                    3661387068,
+                    1467527085,
+                    4090651448,
+                    202670084,
+                    3250034553,
+                    1392496348,
+                    1482024992
                 ],
                 [
-                    47981717,
-                    1954620775,
+                    3142289711,
+                    3177308360
+                ],
+                [
+                    699525795,
+                    247725512,
+                    1570042021
+                ],
+                [
                     2846385770,
-                    1546637391,
-                    588594999
+                    588594999,
+                    47981717
                 ],
                 [
                     4008116374
                 ]
             ],
             "tags": [
-                "PVP",
-                "GodPVP"
+                "PVP"
             ]
         },
         {
@@ -951,12 +973,13 @@
             ]
         },
         {
-            "description": "#PvP perpetual motion for sure. Rangefinder for range or frenzy/adrenaline junkie for more damage and higher time to kill. Up to you. Range, Stability or handing masterwork up to you. For barrel and mag/rounds you want range and stability where possible.",
+            "description": "This isn't the best PvP SMG out there. Multimach is still better. But its decent. God Rolls: 1) Perpetual Motion/Rangefinder 2) Killing Wind/Frenzy or Adrenaline for more damage but requires setup. Range Masterwork if need to be picky.",
             "hash": 3341893443,
             "name": "",
             "plugs": [
                 [
-                    1428297954
+                    1428297954,
+                    2450788523
                 ],
                 [
                     2846385770,
@@ -974,6 +997,12 @@
             "name": "PvP Desire",
             "plugs": [
                 [
+                    1482024992,
+                    1392496348,
+                    3250034553,
+                    1467527085
+                ],
+                [
                     1431678320
                 ],
                 [
@@ -983,30 +1012,41 @@
                 ],
                 [
                     1012699414,
-                    3326204863,
-                    862848869
+                    3438534621,
+                    3917450714
                 ]
             ],
             "tags": [
-                "PVP",
-                "GodPVP"
+                "PVP"
             ]
         },
         {
-            "description": "Any Vorpal will be good here. Shuts down supers in crucible. Again barrel is up to you but higher range is great with stability the next focus. Any stock is good with stability of Fitted giving both recoil and stability being the best but the stock really isn't all that important.",
+            "description": "Any Vorpal will be good here. Shuts down supers in crucible. Again barrel is up to you but higher range is great with stability the next focus. Any stock is good with stability of Fitted giving both recoil and stability being the best but the stock really isn't all that important. Not Quite a Godroll though",
             "hash": 3654674561,
             "name": "PvP Decent",
             "plugs": [
                 [
-                    1546637391,
-                    1168162263,
-                    1820235745,
-                    2450788523
+                    1392496348,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3177308360,
+                    1968497646,
+                    1885400500
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    990298390,
+                    3465198467,
+                    1067908860,
+                    4259401308
                 ]
             ],
             "tags": [
-                "PVP",
-                "GodPVP"
+                "PVP"
             ]
         },
         {
@@ -1273,6 +1313,112 @@
             ],
             "tags": [
                 "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "The perfect DMT is Vorpal Save this thing. Accurized or high cal is fine, hammer forged is high cal and small bore if accurized.",
+            "hash": 3654674561,
+            "name": "Perfect DMT",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    3142289711
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    4259401308,
+                    990298390,
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "This is an instant buy. Can't get a better PvP. Grip here has two options. Smooth for balance, or Polymer for ADS speed. Main perk is Eye of the Storm. Rangefinder isn't the God (best) roll here because if you wanted range, you just pick up Ace of Spades.",
+            "hash": 3856705927,
+            "name": "Perfect Hawkmoon",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    699525795
+                ],
+                [
+                    862848869,
+                    3326204863
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Perfect PvP Cantata. No Mistake keep for sure. Range Masterwork and you buy a lotto ticket. #PvP #GodPvP #GodRoll",
+            "hash": 372697604,
+            "name": "Perfect Cantata",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Perpetual Motion/Kill Clip to two tap with team or any other damage boost. For Picky go for more range rounds, High Cal being best. Still need more picky? Range Masterwork. Finally, sights should be Fast draw for best mix of perks but sight is the perfection chaser. Any range masterwork over that sight matters more.",
+            "hash": 235827225,
+            "name": "PvP Great",
+            "plugs": [
+                [
+                    1926090094,
+                    1926090095,
+                    1926090092
+                ],
+                [
+                    1885400500,
+                    1968497646,
+                    1561002382
+                ],
+                [
+                    1168162263,
+                    1428297954,
+                    2846385770
+                ],
+                [
+                    1015611457,
+                    588594999
+                ]
+            ],
+            "tags": [
                 "PVP"
             ]
         }
