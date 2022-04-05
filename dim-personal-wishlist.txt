@@ -1,0 +1,16 @@
+title:Personal Rolls
+description:My Personal hunting rolls
+
+// Dead Man's Tale - PvP Perfect (pvp,god-pvp)
+//notes: Best range/stability combo for headshotting. Personal preference tags:pvp,god-pvp
+dimwishlist:item=3654674561&perks=3250034553,3142289711,1546637391,4259401308
+dimwishlist:item=3654674561&perks=3250034553,1561002382,1546637391,4259401308
+dimwishlist:item=3654674561&perks=3250034553,1885400500,1546637391,4259401308
+
+
+// Hawkmoon - PvP Perfect (pvp)
+//notes: Either Eye of the Storm or Rangefinder for bonus all the time. tags:pvp
+dimwishlist:item=3856705927&perks=3250034553,1431678320,699525795,862848869
+dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,862848869
+
+
