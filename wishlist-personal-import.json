@@ -177,6 +177,123 @@
                 "GodPVP",
                 "PVP"
             ]
+        },
+        {
+            "description": "God Roll Alert! My Perfect Roll for kill clip. If Arrowhead target adjuster mod, otherwise you got corkscrew for great handling so put on counter balance. Adept if you got it.",
+            "hash": 3658188704,
+            "name": "PvP Perfect",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1168162263,
+                    247725512
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "God Roll Alert! Fun to machine gun with a pulse. This requires more stability with desperado active. Stability masterwork over range would be ok for this. Any third col stability is good. Perpetual is easy to activate, otherwise rapid hit hitting crits. Heating up if you final blow opponents, but it also fixes accuracy and recoil, so with heating up counter balance might not be needed, but you'll be variable consistency.",
+            "hash": 3658188704,
+            "name": "PvP Rapid Hit perfect",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    247725512,
+                    1570042021,
+                    1428297954
+                ],
+                [
+                    3047969693
+                ],
+                [
+                    2988596335
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "God Roll Alert! Perfect would be Hammer Forged/Ricochet/Outlaw/Kill Clip",
+            "hash": 1173780905,
+            "name": "Perfect Kill Clip",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1168162263,
+                    247725512
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "God Roll Alert! Prefect Hammer Forged/Ricochet/Rapid Hit/Desperado",
+            "hash": 1173780905,
+            "name": "Perfect Desperado",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    247725512,
+                    1428297954,
+                    1570042021
+                ],
+                [
+                    3047969693
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
         }
     ]
 }
