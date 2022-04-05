@@ -49,6 +49,134 @@
                 "PVP",
                 "GodPVP"
             ]
+        },
+        {
+            "description": "God Roll Alert! Slug second best behind Heritage Raid slug. Fluted/Accurized/Hip Fire/Opening Shot. Surplus over hip fire if ADS.",
+            "hash": 2782847179,
+            "name": "Second best pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1866048759,
+                    3436462433
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "God Roll Alert! Fluted if Range MW, Otherwise Hammer Forged. Accurized over Assault mag.",
+            "hash": 4248569242,
+            "name": "God PvP Best",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    791862061
+                ],
+                [
+                    1866048759
+                ],
+                [
+                    588594999
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Range or Handling balanced. Barrel should counter masterwork.",
+            "hash": 4037745684,
+            "name": "PvP Slug",
+            "plugs": [
+                [
+                    3250034553,
+                    1840239774
+                ],
+                [
+                    3142289711,
+                    791862061
+                ],
+                [
+                    280464955,
+                    3436462433
+                ],
+                [
+                    47981717,
+                    2039302152
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Real appeal is Vorpal to super shutdown, but opening shot if no sojurner or bonechiller.",
+            "hash": 3616586446,
+            "name": "PvP Slug Super Killer",
+            "plugs": [
+                [
+                    3250034553,
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3161816588,
+                    1866048759
+                ],
+                [
+                    1546637391,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Best Energy. Range over handling, God is Range MW with Fluted/Accurized/Moving Target/Opening Shot",
+            "hash": 599895591,
+            "name": "PvP Slug",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    588594999
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
         }
     ]
 }
