@@ -294,6 +294,54 @@
                 "GodPVP",
                 "PVP"
             ]
+        },
+        {
+            "description": "My favorite looking gun for PvE. Best is Corkscrew/Tactical Mag/Sub/Rampage With Reload Masterwork for Add clear. For Champions long range different auto rifle for sure. Instead of Tactical could go accurized but I'd like to stack reload to keep hosing enemies.",
+            "hash": 602618796,
+            "name": "PvE Roll",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    1087426260
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Arrowhead Brake is a must to upgrade my current roll. Hopefully you got a Range Masterwork. Otherwise it might be not even an upgrade, just less recoil direction and a mod swap.",
+            "hash": 602618796,
+            "name": "PvP Preferred Roll",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1570042021
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
