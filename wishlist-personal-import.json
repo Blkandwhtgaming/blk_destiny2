@@ -3,7 +3,7 @@
     "name": "Personal Rolls",
     "data": [
         {
-            "description": "Either Eye of the Storm or Rangefinder for bonus all the time.",
+            "description": "GOD ROLL ALERT! Pick this up. PvP Perfect",
             "hash": 3856705927,
             "name": "PvP Perfect",
             "plugs": [
@@ -14,7 +14,6 @@
                     1431678320
                 ],
                 [
-                    699525795,
                     2846385770
                 ],
                 [
@@ -22,11 +21,13 @@
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVP",
+                "PVE",
+                "GodPVP"
             ]
         },
         {
-            "description": "Best range/stability combo for headshotting. Personal preference",
+            "description": "God Roll Alert! Best range/stability combo for headshotting. Personal preference. Update until accurized is obtained.",
             "hash": 3654674561,
             "name": "PvP Perfect",
             "plugs": [
