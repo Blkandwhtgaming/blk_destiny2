@@ -1,8 +1,8 @@
 title:Personal Rolls
-description:My Personal hunting rolls
+description:My Personal Perfect Rolls
 
 // Sojourner's Tale - PvP Slug (god-pvp,pvp)
-//notes: Best Energy. Range over handling, God is Range MW with Fluted/Accurized/Moving Target/Opening Shot tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! Best Energy. Range over handling, God is Range MW with Fluted/Accurized/Moving Target/Opening Shot tags:god-pvp,pvp
 dimwishlist:item=599895591&perks=1840239774,791862061,588594999,47981717
 dimwishlist:item=599895591&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=599895591&perks=3250034553,791862061,588594999,47981717
@@ -10,7 +10,7 @@ dimwishlist:item=599895591&perks=3250034553,3142289711,588594999,47981717
 
 
 // Scathelocke - PvE Roll (pve)
-//notes: My favorite looking gun for PvE. Best is Corkscrew/Tactical Mag/Sub/Rampage With Reload Masterwork for Add clear. For Champions long range different auto rifle for sure. Instead of Tactical could go accurized but I'd like to stack reload to keep hosing enemies. tags:pve
+//notes: PERSONAL ROLL ALERT! Best is Corkscrew/Tactical Mag/Sub/Rampage With Reload Masterwork for Add clear. For Champions long range different auto rifle for sure. Instead of Tactical could go accurized but I'd like to stack reload to keep hosing enemies. tags:pve
 dimwishlist:item=602618796&perks=4090651448,3142289711,1820235745,3425386926
 dimwishlist:item=602618796&perks=4090651448,106909392,1820235745,3425386926
 dimwishlist:item=602618796&perks=4090651448,1087426260,1820235745,3425386926
@@ -23,12 +23,12 @@ dimwishlist:item=602618796&perks=1482024992,1087426260,1820235745,3425386926
 
 
 // Scathelocke - PvP Preferred Roll (pvp)
-//notes: Arrowhead Brake is a must to upgrade my current roll. Hopefully you got a Range Masterwork. Otherwise it might be not even an upgrade, just less recoil direction and a mod swap. tags:pvp
+//notes: PERSONAL ROLL ALERT! Arrowhead Brake is a must to upgrade my current roll. Hopefully you got a Range Masterwork. Otherwise it might be not even an upgrade, just less recoil direction and a mod swap. tags:pvp
 dimwishlist:item=602618796&perks=839105230,3142289711,1570042021,2458213969
 
 
 // The Messenger (Adept) - Perfect Kill Clip (pvp,god-pvp)
-//notes: God Roll Alert! Perfect would be Hammer Forged/Ricochet/Outlaw/Kill Clip tags:pvp,god-pvp
+//notes: PERSONAL ROLL ALERT! Perfect would be Hammer Forged/Ricochet/Outlaw/Kill Clip tags:pvp,god-pvp
 dimwishlist:item=1173780905&perks=839105230,1885400500,1168162263,1015611457
 dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,1015611457
 dimwishlist:item=1173780905&perks=839105230,1561002382,1168162263,1015611457
@@ -48,7 +48,7 @@ dimwishlist:item=1173780905&perks=1482024992,1561002382,247725512,1015611457
 
 
 // The Messenger (Adept) - Perfect Desperado (god-pvp,pvp)
-//notes: God Roll Alert! Prefect Hammer Forged/Ricochet/Rapid Hit/Desperado tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! Prefect Hammer Forged/Ricochet/Rapid Hit/Desperado tags:god-pvp,pvp
 dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,3047969693
 dimwishlist:item=1173780905&perks=839105230,1561002382,1428297954,3047969693
 dimwishlist:item=1173780905&perks=839105230,1561002382,1570042021,3047969693
@@ -76,7 +76,7 @@ dimwishlist:item=1173780905&perks=4090651448,1885400500,1570042021,3047969693
 
 
 // Blasphemer - Second best pvp (god-pvp,pvp)
-//notes: God Roll Alert! Slug second best behind Heritage Raid slug. Fluted/Accurized/Hip Fire/Opening Shot. Surplus over hip fire if ADS. tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! Slug second best behind Heritage Raid slug. Fluted/Accurized/Hip Fire/Opening Shot. Surplus over hip fire if ADS. tags:god-pvp,pvp
 dimwishlist:item=2782847179&perks=1840239774,3142289711,1866048759,47981717
 dimwishlist:item=2782847179&perks=1840239774,3142289711,3436462433,47981717
 dimwishlist:item=2782847179&perks=3250034553,3142289711,1866048759,47981717
@@ -84,7 +84,7 @@ dimwishlist:item=2782847179&perks=3250034553,3142289711,3436462433,47981717
 
 
 // First In, Last Out - PvP Slug Super Killer (god-pvp,pvp)
-//notes: Real appeal is Vorpal to super shutdown, but opening shot if no sojurner or bonechiller. tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! Real appeal is Vorpal to super shutdown, but opening shot if no sojurner or bonechiller. tags:god-pvp,pvp
 dimwishlist:item=3616586446&perks=3250034553,3142289711,3161816588,1546637391
 dimwishlist:item=3616586446&perks=3250034553,3142289711,3161816588,47981717
 dimwishlist:item=3616586446&perks=3250034553,3142289711,1866048759,1546637391
@@ -96,14 +96,14 @@ dimwishlist:item=3616586446&perks=1840239774,3142289711,1866048759,47981717
 
 
 // Dead Man's Tale - PvP Perfect (pvp,god-pvp)
-//notes: God Roll Alert! Best range/stability combo for headshotting. Personal preference. Update until accurized is obtained. tags:pvp,god-pvp
+//notes: PERSONAL ROLL ALERT! Best range/stability combo for headshotting. Personal preference. Update until accurized is obtained. tags:pvp,god-pvp
 dimwishlist:item=3654674561&perks=3250034553,3142289711,1546637391,4259401308
 dimwishlist:item=3654674561&perks=3250034553,1561002382,1546637391,4259401308
 dimwishlist:item=3654674561&perks=3250034553,1885400500,1546637391,4259401308
 
 
 // The Messenger - PvP Perfect (god-pvp,pvp)
-//notes: God Roll Alert! My Perfect Roll for kill clip. If Arrowhead target adjuster mod, otherwise you got corkscrew for great handling so put on counter balance. Adept if you got it. tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! My Perfect Roll for kill clip. If Arrowhead target adjuster mod, otherwise you got corkscrew for great handling so put on counter balance. Adept if you got it. tags:god-pvp,pvp
 dimwishlist:item=3658188704&perks=4090651448,1885400500,1168162263,1015611457
 dimwishlist:item=3658188704&perks=4090651448,1885400500,247725512,1015611457
 dimwishlist:item=3658188704&perks=4090651448,1561002382,1168162263,1015611457
@@ -123,7 +123,7 @@ dimwishlist:item=3658188704&perks=3250034553,1561002382,247725512,1015611457
 
 
 // The Messenger - PvP Rapid Hit perfect (god-pvp,pvp)
-//notes: God Roll Alert! Fun to machine gun with a pulse. This requires more stability with desperado active. Stability masterwork over range would be ok for this. Any third col stability is good. Perpetual is easy to activate, otherwise rapid hit hitting crits. Heating up if you final blow opponents, but it also fixes accuracy and recoil, so with heating up counter balance might not be needed, but you'll be variable consistency. tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! Fun to machine gun with a pulse. This requires more stability with desperado active. Stability masterwork over range would be ok for this. Any third col stability is good. Perpetual is easy to activate, otherwise rapid hit hitting crits. Heating up if you final blow opponents, but it also fixes accuracy and recoil, so with heating up counter balance might not be needed, but you'll be variable consistency. tags:god-pvp,pvp
 dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,3047969693,2988596335
 dimwishlist:item=3658188704&perks=839105230,1885400500,1570042021,3047969693,2988596335
 dimwishlist:item=3658188704&perks=839105230,1885400500,1428297954,3047969693,2988596335
@@ -151,12 +151,12 @@ dimwishlist:item=3658188704&perks=1482024992,1561002382,1428297954,3047969693,29
 
 
 // Hawkmoon - PvP Perfect (pvp,pve,god-pvp)
-//notes: GOD ROLL ALERT! Pick this up. PvP Perfect tags:pvp,pve,god-pvp
+//notes: PERSONAL ROLL ALERT! Longrange perfect variant. tags:pvp,pve,god-pvp
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,862848869
 
 
 // Bonechiller - PvP Slug (god-pvp,pvp)
-//notes: Range or Handling balanced. Barrel should counter masterwork. tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! Range or Handling balanced. Barrel should counter masterwork. tags:god-pvp,pvp
 dimwishlist:item=4037745684&perks=3250034553,3142289711,280464955,47981717
 dimwishlist:item=4037745684&perks=3250034553,3142289711,280464955,2039302152
 dimwishlist:item=4037745684&perks=3250034553,3142289711,3436462433,47981717
@@ -176,7 +176,7 @@ dimwishlist:item=4037745684&perks=1840239774,791862061,3436462433,2039302152
 
 
 // Heritage - God PvP Best (god-pvp,pvp)
-//notes: God Roll Alert! Fluted if Range MW, Otherwise Hammer Forged. Accurized over Assault mag. tags:god-pvp,pvp
+//notes: PERSONAL ROLL ALERT! Fluted if Range MW, Otherwise Hammer Forged. Accurized over Assault mag. tags:god-pvp,pvp
 dimwishlist:item=4248569242&perks=1840239774,3142289711,1866048759,588594999
 dimwishlist:item=4248569242&perks=1840239774,791862061,1866048759,588594999
 dimwishlist:item=4248569242&perks=3250034553,3142289711,1866048759,588594999
