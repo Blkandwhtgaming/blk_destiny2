@@ -1,9 +1,9 @@
 {
-    "description": "My Personal hunting rolls",
+    "description": "My Personal Perfect Rolls",
     "name": "Personal Rolls",
     "data": [
         {
-            "description": "GOD ROLL ALERT! Pick this up. PvP Perfect",
+            "description": "PERSONAL ROLL ALERT! Longrange perfect variant.",
             "hash": 3856705927,
             "name": "PvP Perfect",
             "plugs": [
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "description": "God Roll Alert! Best range/stability combo for headshotting. Personal preference. Update until accurized is obtained.",
+            "description": "PERSONAL ROLL ALERT! Best range/stability combo for headshotting. Personal preference. Update until accurized is obtained.",
             "hash": 3654674561,
             "name": "PvP Perfect",
             "plugs": [
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "description": "God Roll Alert! Slug second best behind Heritage Raid slug. Fluted/Accurized/Hip Fire/Opening Shot. Surplus over hip fire if ADS.",
+            "description": "PERSONAL ROLL ALERT! Slug second best behind Heritage Raid slug. Fluted/Accurized/Hip Fire/Opening Shot. Surplus over hip fire if ADS.",
             "hash": 2782847179,
             "name": "Second best pvp",
             "plugs": [
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "description": "God Roll Alert! Fluted if Range MW, Otherwise Hammer Forged. Accurized over Assault mag.",
+            "description": "PERSONAL ROLL ALERT! Fluted if Range MW, Otherwise Hammer Forged. Accurized over Assault mag.",
             "hash": 4248569242,
             "name": "God PvP Best",
             "plugs": [
@@ -102,7 +102,7 @@
             ]
         },
         {
-            "description": "Range or Handling balanced. Barrel should counter masterwork.",
+            "description": "PERSONAL ROLL ALERT! Range or Handling balanced. Barrel should counter masterwork.",
             "hash": 4037745684,
             "name": "PvP Slug",
             "plugs": [
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "description": "Real appeal is Vorpal to super shutdown, but opening shot if no sojurner or bonechiller.",
+            "description": "PERSONAL ROLL ALERT! Real appeal is Vorpal to super shutdown, but opening shot if no sojurner or bonechiller.",
             "hash": 3616586446,
             "name": "PvP Slug Super Killer",
             "plugs": [
@@ -155,7 +155,7 @@
             ]
         },
         {
-            "description": "Best Energy. Range over handling, God is Range MW with Fluted/Accurized/Moving Target/Opening Shot",
+            "description": "PERSONAL ROLL ALERT! Best Energy. Range over handling, God is Range MW with Fluted/Accurized/Moving Target/Opening Shot",
             "hash": 599895591,
             "name": "PvP Slug",
             "plugs": [
@@ -180,7 +180,7 @@
             ]
         },
         {
-            "description": "God Roll Alert! My Perfect Roll for kill clip. If Arrowhead target adjuster mod, otherwise you got corkscrew for great handling so put on counter balance. Adept if you got it.",
+            "description": "PERSONAL ROLL ALERT! My Perfect Roll for kill clip. If Arrowhead target adjuster mod, otherwise you got corkscrew for great handling so put on counter balance. Adept if you got it.",
             "hash": 3658188704,
             "name": "PvP Perfect",
             "plugs": [
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "description": "God Roll Alert! Fun to machine gun with a pulse. This requires more stability with desperado active. Stability masterwork over range would be ok for this. Any third col stability is good. Perpetual is easy to activate, otherwise rapid hit hitting crits. Heating up if you final blow opponents, but it also fixes accuracy and recoil, so with heating up counter balance might not be needed, but you'll be variable consistency.",
+            "description": "PERSONAL ROLL ALERT! Fun to machine gun with a pulse. This requires more stability with desperado active. Stability masterwork over range would be ok for this. Any third col stability is good. Perpetual is easy to activate, otherwise rapid hit hitting crits. Heating up if you final blow opponents, but it also fixes accuracy and recoil, so with heating up counter balance might not be needed, but you'll be variable consistency.",
             "hash": 3658188704,
             "name": "PvP Rapid Hit perfect",
             "plugs": [
@@ -240,7 +240,7 @@
             ]
         },
         {
-            "description": "God Roll Alert! Perfect would be Hammer Forged/Ricochet/Outlaw/Kill Clip",
+            "description": "PERSONAL ROLL ALERT! Perfect would be Hammer Forged/Ricochet/Outlaw/Kill Clip",
             "hash": 1173780905,
             "name": "Perfect Kill Clip",
             "plugs": [
@@ -268,7 +268,7 @@
             ]
         },
         {
-            "description": "God Roll Alert! Prefect Hammer Forged/Ricochet/Rapid Hit/Desperado",
+            "description": "PERSONAL ROLL ALERT! Prefect Hammer Forged/Ricochet/Rapid Hit/Desperado",
             "hash": 1173780905,
             "name": "Perfect Desperado",
             "plugs": [
@@ -297,7 +297,7 @@
             ]
         },
         {
-            "description": "My favorite looking gun for PvE. Best is Corkscrew/Tactical Mag/Sub/Rampage With Reload Masterwork for Add clear. For Champions long range different auto rifle for sure. Instead of Tactical could go accurized but I'd like to stack reload to keep hosing enemies.",
+            "description": "PERSONAL ROLL ALERT! Best is Corkscrew/Tactical Mag/Sub/Rampage With Reload Masterwork for Add clear. For Champions long range different auto rifle for sure. Instead of Tactical could go accurized but I'd like to stack reload to keep hosing enemies.",
             "hash": 602618796,
             "name": "PvE Roll",
             "plugs": [
@@ -323,7 +323,7 @@
             ]
         },
         {
-            "description": "Arrowhead Brake is a must to upgrade my current roll. Hopefully you got a Range Masterwork. Otherwise it might be not even an upgrade, just less recoil direction and a mod swap.",
+            "description": "PERSONAL ROLL ALERT! Arrowhead Brake is a must to upgrade my current roll. Hopefully you got a Range Masterwork. Otherwise it might be not even an upgrade, just less recoil direction and a mod swap.",
             "hash": 602618796,
             "name": "PvP Preferred Roll",
             "plugs": [
