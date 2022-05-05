@@ -1,6 +1,27 @@
 title:Personal Rolls
 description:My Personal Perfect Rolls
 
+// The Title - PvP Roll (pvp)
+//notes: GOD ROLL ALERT! The barrel and rounds are amazing. If its range masterwork congrats! tags:pvp
+dimwishlist:item=294129361&perks=202670084,1885400500,1428297954,588594999
+dimwishlist:item=294129361&perks=202670084,1885400500,1428297954,4082225868
+dimwishlist:item=294129361&perks=202670084,1885400500,1428297954,2896038713
+dimwishlist:item=294129361&perks=202670084,1885400500,4071163871,588594999
+dimwishlist:item=294129361&perks=202670084,1885400500,4071163871,4082225868
+dimwishlist:item=294129361&perks=202670084,1885400500,4071163871,2896038713
+dimwishlist:item=294129361&perks=202670084,1885400500,1359896290,588594999
+dimwishlist:item=294129361&perks=202670084,1885400500,1359896290,4082225868
+dimwishlist:item=294129361&perks=202670084,1885400500,1359896290,2896038713
+
+
+// The Title - PvE Roll (pve)
+//notes: GOD ROLL ALERT! If you got grave/swash or stats/one for all congrats! Reload speed or range masterwork fine. Compare those two combos with perks for more range like the pvp one. tags:pve
+dimwishlist:item=294129361&perks=1631667848,4082225868
+dimwishlist:item=294129361&perks=1631667848,4049631843
+dimwishlist:item=294129361&perks=1583705720,4082225868
+dimwishlist:item=294129361&perks=1583705720,4049631843
+
+
 // Sojourner's Tale - PvP Slug (god-pvp,pvp)
 //notes: PERSONAL ROLL ALERT! Best Energy. Range over handling, God is Range MW with Fluted/Accurized/Moving Target/Opening Shot tags:god-pvp,pvp
 dimwishlist:item=599895591&perks=1840239774,791862061,588594999,47981717
@@ -81,6 +102,24 @@ dimwishlist:item=2782847179&perks=1840239774,3142289711,1866048759,47981717
 dimwishlist:item=2782847179&perks=1840239774,3142289711,3436462433,47981717
 dimwishlist:item=2782847179&perks=3250034553,3142289711,1866048759,47981717
 dimwishlist:item=2782847179&perks=3250034553,3142289711,3436462433,47981717
+
+
+// Krait - PvE God Roll (pve)
+//notes: GOD ROLL ALERT! Finally you nailed it! Check this against other stat/one for all combos to get more range or reload masterwork with mods. tags:pve
+dimwishlist:item=2852052802&perks=1583705720,4049631843
+
+
+// Krait - PvP (pvp)
+//notes: GOD ROLL ALERT! PvP auto rifle in the house. Check for maxing range on this. Hammer/Ricochet/Range MW lookin best. tags:pvp
+dimwishlist:item=2852052802&perks=1482024992,1885400500,509074078,3673922083
+dimwishlist:item=2852052802&perks=1482024992,1561002382,509074078,3673922083
+dimwishlist:item=2852052802&perks=1482024992,1968497646,509074078,3673922083
+dimwishlist:item=2852052802&perks=839105230,1885400500,509074078,3673922083
+dimwishlist:item=2852052802&perks=839105230,1561002382,509074078,3673922083
+dimwishlist:item=2852052802&perks=839105230,1968497646,509074078,3673922083
+dimwishlist:item=2852052802&perks=3250034553,1885400500,509074078,3673922083
+dimwishlist:item=2852052802&perks=3250034553,1561002382,509074078,3673922083
+dimwishlist:item=2852052802&perks=3250034553,1968497646,509074078,3673922083
 
 
 // First In, Last Out - PvP Slug Super Killer (god-pvp,pvp)
