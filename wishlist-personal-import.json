@@ -343,6 +343,66 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "GOD ROLL ALERT! The barrel and rounds are amazing. If its range masterwork congrats!",
+            "hash": 294129361,
+            "name": "PvP Roll",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1428297954,
+                    4071163871,
+                    1359896290
+                ],
+                [
+                    588594999,
+                    4082225868,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! If you got grave/swash or stats/one for all congrats! Reload speed or range masterwork fine. Compare those two combos with perks for more range like the pvp one.",
+            "hash": 294129361,
+            "name": "PvE Roll",
+            "plugs": [
+                [
+                    1631667848,
+                    1583705720
+                ],
+                [
+                    4082225868,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Finally you nailed it! Check this against other stat/one for all combos to get more range or reload masterwork with mods.",
+            "hash": 2852052802,
+            "name": "PvE God Roll",
+            "plugs": [
+                [
+                    1583705720
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
