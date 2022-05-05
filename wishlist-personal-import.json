@@ -403,6 +403,32 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "GOD ROLL ALERT! PvP auto rifle in the house. Check for maxing range on this. Hammer/Ricochet/Range MW lookin best.",
+            "hash": 2852052802,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    509074078
+                ],
+                [
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
