@@ -1,5 +1,5 @@
 {
-    "description": "Witch Queen Guns and other god rolls",
+    "description": "Witch Queen Guns, Season of Risen, Season of Haunted Updated",
     "name": "blk-wishlist",
     "data": [
         {
@@ -1439,6 +1439,988 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "Roll for PvE. Either draw time craziness or synergy with Stasis. Headstone on bows is great.",
+            "hash": 2513965917,
+            "name": "PvE",
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857
+                ],
+                [
+                    16392701
+                ],
+                [
+                    2866798147,
+                    3700496672
+                ],
+                [
+                    2652708987,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Solar Synergy with Incandescent. As always more lower draw time to shoot faster increasing DPS. Shoot to loot is utility but archers tempo is the go to here for chaining precisions",
+            "hash": 2591241074,
+            "name": "PvE",
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857
+                ],
+                [
+                    201365942,
+                    3700496672
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Add clear monster with archers tempo and any choice in this third col with dragonfly for adds, or explosive more well rounded. #Adds",
+            "hash": 2591241074,
+            "name": "PvE",
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942
+                ],
+                [
+                    2652708987,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Great for Champ stuns and decent at add clear. #Adds #Boss #Champions",
+            "hash": 2591241074,
+            "name": "PvE Boss/Champ",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942
+                ],
+                [
+                    1546637391,
+                    3365897133
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Trials Fusion for PvP.",
+            "hash": 933455006,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1392496348,
+                    1482024992,
+                    839105230
+                ],
+                [
+                    689005463,
+                    3868766766
+                ],
+                [
+                    1428297954,
+                    2450788523
+                ],
+                [
+                    2213355989,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Adept Version of the trials fusion. Again pvp mostly.",
+            "hash": 2002522739,
+            "name": "PvP",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    689005463,
+                    3868766766
+                ],
+                [
+                    1428297954,
+                    2450788523,
+                    3511092054
+                ],
+                [
+                    2213355989,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "New Kinetic Fusion is PvE amazing. These rolls are keepers. Hang on until you see the god roll alert. Vorpal for Boss DPS, Frenzy in general but cornered is a new perk with good synergy on fusions.",
+            "hash": 2715240478,
+            "name": "PvE Boss and Adds",
+            "plugs": [
+                [
+                    2779035018,
+                    1570042021,
+                    3300816228,
+                    1645158859,
+                    2621346526,
+                    1428297954,
+                    2869569095
+                ],
+                [
+                    2978966579,
+                    4104185692,
+                    1546637391,
+                    1799762209,
+                    3523296417,
+                    2652708987
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good PvP roll. Hangon to for God Alert",
+            "hash": 2715240478,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1428297954,
+                    1570042021
+                ],
+                [
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Great PvP Fusion to come in IB. Situational last column perk for either chaining or backup plan for well...backup plan.",
+            "hash": 1999697514,
+            "name": "PvP",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    1570042021,
+                    588594999,
+                    1645158859
+                ],
+                [
+                    2652708987,
+                    1600092898
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "I like handling for quick swapping with auto-loading holster. If you don't have auto-loading then feeding frenzy to really get going.",
+            "hash": 2026087437,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3809316345,
+                    981914802,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    3032599245,
+                    3301904089
+                ],
+                [
+                    3300816228,
+                    2779035018
+                ],
+                [
+                    1546637391,
+                    2978966579
+                ],
+                [
+                    4154828211
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "D.F.A is a decent PvE Handcannon with the right roll. Your choice on its mostly a boss dps champion stunner but timed payload can push it to adds.",
+            "hash": 575830664,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3400784728,
+                    1168162263
+                ],
+                [
+                    1954620775,
+                    1546637391,
+                    2896038713
+                ],
+                [
+                    744217850,
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! PvP roll could be great, hopefully you are reading this on an Adept gun.",
+            "hash": 575830664,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2946784966
+                ],
+                [
+                    47981717,
+                    1954620775
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! PvP roll could be great, hopefully you are reading this on an Adept gun.",
+            "hash": 2006308129,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1428297954,
+                    2946784966
+                ],
+                [
+                    47981717,
+                    1954620775
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Potential God Roll of your personal choice. Outlaw/Rampage for adds, Triple Tap/Vorpal, Triple Tap/Focused Fury, or new fragile focus if you can stay out of damage long enough.",
+            "hash": 2006308129,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1392496348,
+                    3250034553,
+                    1482024992,
+                    1467527085,
+                    839105230
+                ],
+                [
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    3400784728,
+                    1168162263,
+                    2451262963
+                ],
+                [
+                    1546637391,
+                    2896038713,
+                    1954620775,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! This is probably the best Arc Linear to date. Boss DPS weapon. Your pick of auto-loading or not, coupled with vorpal or frenzy or firing line. Personal God Roll is clown cartridge with Firing line for Boss DPS.",
+            "hash": 3652506829,
+            "name": "PvE God Tier Linear Fusion",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    1467527085,
+                    3250034553
+                ],
+                [
+                    689005463,
+                    2969185026
+                ],
+                [
+                    247725512,
+                    3300816228,
+                    2284787283
+                ],
+                [
+                    1546637391,
+                    4104185692,
+                    1771339417
+                ],
+                [
+                    4154828211
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "GODROLL ALERT! An upgrade Piece of Mind essentially with a bit more range and stability. Honestly only go for the Adept as the perks aren't much better pvp wise. Kill clip is the draw on this thing for more damage",
+            "hash": 216983039,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1570042021
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "GODROLL ALERT! An upgrade Piece of Mind essentially with a bit more range and stability. Honestly only go for the Adept as the perks aren't much better pvp wise. Kill clip is the draw on this thing for more damage. Arrowhead brake is the perfect recoil with counter balance stock.",
+            "hash": 1924276978,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1428297954,
+                    1570042021
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "The Messenger's cousin. Its High Impact and fun in PvP. Desperado on this also, but no kill clip. Arrowhead brake on this thing is going to be great for recoil. ",
+            "hash": 1780464822,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553,
+                    839105230
+                ],
+                [
+                    1561002382,
+                    1885400500,
+                    1968497646
+                ],
+                [
+                    1428297954,
+                    1570042021
+                ],
+                [
+                    3047969693
+                ],
+                [
+                    4154828211
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Good PvE Pulse if you need to use a pulse. Headstone for stasis but adaptive can scale to end game content.",
+            "hash": 1780464822,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1467527085,
+                    3250034553,
+                    1482024992,
+                    839105230
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646,
+                    3230963543
+                ],
+                [
+                    1570042021,
+                    2779035018
+                ],
+                [
+                    124408337,
+                    1048183818,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This is not a PvP Scout sadly. We still lack a solar scout there. However PvE is good. Dragonfly is easy to trigger so spec into that for the mod. Otherwise champions can triple tap/explosive or adaptive for high end content all day. For adds, outlaw/rampage. Incandescent is solar synergy.",
+            "hash": 4019668921,
+            "name": "PvE",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    3230963543,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    3400784728,
+                    1168162263
+                ],
+                [
+                    3038247973,
+                    3425386926,
+                    2848615171,
+                    1048183818,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Melee Banger. Grave Robber/Swashbuckler. #Adds or One-Two Punch for #Boss if you time your melee build right. #Gambit",
+            "hash": 3738678140,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    3142289711,
+                    679225683
+                ],
+                [
+                    1820235745,
+                    1631667848
+                ],
+                [
+                    2679249093,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Sits up on Adored so the question is does it beat Adored in PvP. Yes if you get the No Distractions Snapshot roll. If you have this message, snap-keep. #GodTier",
+            "hash": 617501162,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Decent Arc PvE rolls. Lots of options for third column, but focused fire paried with one is where its at.",
+            "hash": 617501162,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    3643424744,
+                    2621346526,
+                    3700496672
+                ],
+                [
+                    2896038713
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A 15 zoom sniper, this thing screams PvP. Not many great PvE Perks for that reason. Hakke for titan wall busting too. Steady hands for swap speed, tunnel for it being your primary, and encore is an interesting range smg play.",
+            "hash": 1601177201,
+            "name": "PvP",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2946784966,
+                    1195158366,
+                    509074078
+                ],
+                [
+                    3425386926,
+                    2458213969
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "This thing is one zoom away from being top dog on paper. Kill clip and iron reach are competing which is a shame but it'd be OP if they weren't. Either roll is fantastic. More Range is better.",
+            "hash": 2488587246,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1467527085
+                ],
+                [
+                    1561002382,
+                    3142289711
+                ],
+                [
+                    2946784966,
+                    2387244414,
+                    2451262963
+                ],
+                [
+                    1015611457,
+                    591790007
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Another Void, High-Impact SMG...ok so Title and Shayura's wasn't enough. This thing is a bit different perk-wise. As always for PvP you want range and this on paper does ok and is more farmable imo then enyo-D. The main draw here is the intrinsic perk to speed up reload on damage, which is always happening.",
+            "hash": 3000847393,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1467527085,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    2946784966,
+                    2451262963,
+                    509074078
+                ],
+                [
+                    3425386926,
+                    776531651
+                ],
+                [
+                    4154828211
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Also a great roll for PvE, this could easily be used for high end content but frenzy to get the damage more consistently.",
+            "hash": 3000847393,
+            "name": "PvE High-End Content",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3523296417,
+                    2451262963
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    4154828211
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "OH MY. #NadeNation crew rejoice. Its a demo/adrenaline roll. Personally a keeper for me. Won't sit too highly in high end content though. Use for fun factor",
+            "hash": 3000847393,
+            "name": "Nade Nation",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "In low end content feeding frenzy will put in work for add clear. Your choice of damage boost. #Adds",
+            "hash": 3000847393,
+            "name": "General PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    839105230,
+                    1467527085
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    2779035018,
+                    509074078
+                ],
+                [
+                    3425386926,
+                    2848615171,
+                    11612903
+                ],
+                [
+                    4154828211
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#NadeNation rejoice! Another grenader combo fun for PvE shenanigans. ",
+            "hash": 2345794502,
+            "name": "Nade Nation",
+            "plugs": [
+                [
+                    839105230,
+                    1467527085,
+                    3250034553,
+                    1482024992,
+                    1392496348
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ],
+                [
+                    2988596335,
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good PvE Roll for adds and vorpal for boss damage. You'll want Demo/Vorpal, otherwise subsistence for add cleaning and high mag size. Nothing top tier for end game content here. Go for the Adept Version.",
+            "hash": 2345794502,
+            "name": "General PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    1087426260,
+                    2420895100
+                ],
+                [
+                    3523296417,
+                    1820235745
+                ],
+                [
+                    2458213969,
+                    1546637391,
+                    247725512
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This is a PvP Focus perk pool. This thing has good perks for PvP. That said, its a two burst side arm which takes some getting used to. Multi-Kill clip is good for most options but if used as a backup harmony can get the damage buff on use if you get a kill with something prior and need to clean up close range. Personally only looking for the Adept version here.",
+            "hash": 2345794502,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    588594999,
+                    2450788523
+                ],
+                [
+                    247725512,
+                    2458213969,
+                    438098033
+                ],
+                [
+                    2988596335,
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Adept PvP version. Keeper for sure. The recoil direction is so good on this thing. If it only had some damage booster to make it broken. ",
+            "hash": 2405619467,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    2450788523,
+                    588594999
+                ],
+                [
+                    2458213969,
+                    247725512,
+                    438098033
+                ],
+                [
+                    2988596335,
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "You either want a big mag mod with subsistence for add clear, or a different gun. Vorpal doesn' tmake sense here even with side arm stunning. You'd probably swap weapons to finish them.",
+            "hash": 2405619467,
+            "name": "General PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    1968497646,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    2458213969,
+                    11612903,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Adept #NadeNation. Fun stuff for general PvE that doesn't scale into high end. Higher mag size is good with the auto-reload of demo.",
+            "hash": 2405619467,
+            "name": "Nade Nation",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1467527085,
+                    202670084
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1968497646,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ],
+                [
+                    2988596335,
+                    4091460919
+                ]
+            ],
+            "tags": []
         }
     ]
 }
