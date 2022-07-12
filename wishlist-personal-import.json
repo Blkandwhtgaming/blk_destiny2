@@ -624,6 +624,51 @@
                 "PVE",
                 "PVP"
             ]
+        },
+        {
+            "description": "GOD ROLL ALERT! #SolarSynergy Bow for PvE. MW: Draw Time",
+            "hash": 2591241074,
+            "name": "PvE",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Good start for PvP precision bow. MW: Draw Time",
+            "hash": 2591241074,
+            "name": "PvP",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    588594999,
+                    201365942
+                ],
+                [
+                    3365897133
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
