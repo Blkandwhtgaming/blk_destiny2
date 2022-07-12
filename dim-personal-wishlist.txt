@@ -153,6 +153,17 @@ dimwishlist:item=1788603939&perks=839105230,1968497646,1570042021,124408337,1607
 dimwishlist:item=2513965917&perks=2801223209,3429800428,2866798147,124408337,3988215619
 
 
+// Strident Whistle - PvE (pve)
+//notes: GOD ROLL ALERT! #SolarSynergy Bow for PvE. MW: Draw Time tags:pve
+dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,4293542123
+
+
+// Strident Whistle - PvP (pvp)
+//notes: GOD ROLL ALERT! Good start for PvP precision bow. MW: Draw Time tags:pvp
+dimwishlist:item=2591241074&perks=2801223209,16392701,588594999,3365897133
+dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,3365897133
+
+
 // Riptide - PvP Perfect Rapid Kinetic (pvp,god-pvp)
 //notes: GOD ROLL ALERT! Best PvP roll in rapid kinetic slot as of S18. Masterwork: Chargetime tags:pvp,god-pvp
 dimwishlist:item=2715240478&perks=3250034553,689005463,1645158859,957782887
