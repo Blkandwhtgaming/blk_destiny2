@@ -669,6 +669,87 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Keep this. MW: Stability or Range",
+            "hash": 1999697514,
+            "name": "PvP Perfect",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068
+                ],
+                [
+                    689005463,
+                    3868766766
+                ],
+                [
+                    588594999
+                ],
+                [
+                    11551321
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! MW: Range",
+            "hash": 108221785,
+            "name": "PvP Perfect",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188
+                ],
+                [
+                    591790007
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Check against other PvE arc fusions. This thing is for tough add clear like Raids, etc.",
+            "hash": 1999697514,
+            "name": "PvE",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    1392496348
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    2652708987,
+                    1546637391
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
