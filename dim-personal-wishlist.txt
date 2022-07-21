@@ -1,5 +1,6 @@
 title:Personal Rolls
 description:My Personal Perfect Rolls
+(Updated Solstice 7/21/22)
 
 // Riiswalker - PvP Perfect (pvp,god-pvp)
 //notes: GOD ROLL ALERT! MW: Range tags:pvp,god-pvp
@@ -153,6 +154,12 @@ dimwishlist:item=1788603939&perks=839105230,1968497646,1570042021,124408337,5157
 dimwishlist:item=1788603939&perks=839105230,1968497646,1570042021,124408337,1607056502
 
 
+// Something New - PvE Mostly (pve)
+//notes: GOD ROLL ALERT! Could replace Eyasluna but different archtype. PvE Roll for stasis synergy. Origin perk is good and stacks with other weapons if that is not a bug. Masterwork reload. In PvP Use your eyasluna for stasis, or if you want a 120, your true prophecy is sniper man with rangefinder and explosive. tags:pve
+dimwishlist:item=1856262127&perks=1482024992,3230963543,3400784728,124408337,1380061575
+dimwishlist:item=1856262127&perks=1482024992,679225683,3400784728,124408337,1380061575
+
+
 // The Wizened Rebuke - PvP Perfect (pvp)
 //notes: GOD ROLL ALERT! Keep this. MW: Stability or Range tags:pvp
 dimwishlist:item=1999697514&perks=839105230,689005463,588594999,11551321,3989629871
@@ -174,6 +181,20 @@ dimwishlist:item=1999697514&perks=1392496348,689005463,1820235745,1546637391,398
 // Lunulata-4b - All rounder (pvp,pve)
 //notes: GOD ROLL ALERT! Both PvE and PvP. Only one you need. #StasisSynergy Masterwork Drawtime. tags:pvp,pve
 dimwishlist:item=2513965917&perks=2801223209,3429800428,2866798147,124408337,3988215619
+
+
+// Compass Rose - PvP God Roll (god-pvp,pvp)
+//notes: GOD ROLL ALERT! PvP monster potential. Long range killer for sure. Test the adagio roll as it may even allow insane one shots....
+Perfect Roll: Smooth bore/Accurized rounds/quickdraw/snapshot or adagio. Masterwork: Range. tags:god-pvp,pvp
+dimwishlist:item=2591111628&perks=706527188,957782887
+dimwishlist:item=2591111628&perks=706527188,3673922083
+
+
+// Compass Rose - PvE Roll (pve)
+//notes: GOD ROLL ALERT! Solar Synergy.
+Perfect Roll: Smooth Bore or Full choke/Assault mag/Lead from Gold/Incandesant tags:pve
+dimwishlist:item=2591111628&perks=1556840489,4293542123,1380061575
+dimwishlist:item=2591111628&perks=2869569095,4293542123,1380061575
 
 
 // Strident Whistle - PvE (pve)
