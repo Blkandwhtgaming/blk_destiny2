@@ -1,5 +1,5 @@
 {
-    "description": "My Personal Perfect Rolls",
+    "description": "My Personal Perfect Rolls\n(Updated Solstice 7/21/22)",
     "name": "Personal Rolls",
     "data": [
         {
@@ -745,6 +745,70 @@
                 ],
                 [
                     3989629871
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Could replace Eyasluna but different archtype. PvE Roll for stasis synergy. Origin perk is good and stacks with other weapons if that is not a bug. Masterwork reload. In PvP Use your eyasluna for stasis, or if you want a 120, your true prophecy is sniper man with rangefinder and explosive.",
+            "hash": 1856262127,
+            "name": "PvE Mostly",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543,
+                    679225683
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    124408337
+                ],
+                [
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! PvP monster potential. Long range killer for sure. Test the adagio roll as it may even allow insane one shots....\nPerfect Roll: Smooth bore/Accurized rounds/quickdraw/snapshot or adagio. Masterwork: Range.",
+            "hash": 2591111628,
+            "name": "PvP God Roll",
+            "plugs": [
+                [
+                    706527188
+                ],
+                [
+                    957782887,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Solar Synergy.\nPerfect Roll: Smooth Bore or Full choke/Assault mag/Lead from Gold/Incandesant",
+            "hash": 2591111628,
+            "name": "PvE Roll",
+            "plugs": [
+                [
+                    1556840489,
+                    2869569095
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    1380061575
                 ]
             ],
             "tags": [
