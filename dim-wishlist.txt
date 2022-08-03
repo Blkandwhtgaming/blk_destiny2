@@ -397,6 +397,28 @@ dimwishlist:item=1019000888&perks=247725512,124408337
 dimwishlist:item=1019000888&perks=247725512,2896038713
 
 
+// Perses-D - PvP (pvp)
+//notes: With the recent sandbox changes in Season of the Haunted 150 Scout rifles become great. This thing won't out shine the exotic Jade Rabbit, but it actually has better handling depending on the roll so could be snappier. The only second column perk you want here is explosive payload to get that flinch and push the range damage further. Opening shot can work if you have a solid barrel and rounds with perpetual or rapid hit. You want to push the handling and stability has high as possible to stay on target. Recommend Stability or Handling Masterwork tags:pvp
+dimwishlist:item=1019000888&perks=1392496348,3142289711,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1392496348,3142289711,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1392496348,106909392,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1392496348,106909392,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1392496348,3230963543,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1392496348,3230963543,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=839105230,3142289711,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=839105230,3142289711,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=839105230,106909392,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=839105230,106909392,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=839105230,3230963543,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1482024992,3142289711,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1482024992,3142289711,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1482024992,106909392,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1482024992,106909392,247725512,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1482024992,3230963543,1428297954,3038247973,1607056502
+dimwishlist:item=1019000888&perks=1482024992,3230963543,247725512,3038247973,1607056502
+
+
 // Servant Leader (pvp)
 //notes: Any damage perk in last column is good, snapshot sights is ok as a backup. This scout is all about range and used in long range maps for it. #PvP tags:pvp
 dimwishlist:item=1107446438&perks=1482024992,3142289711,247725512,1015611457
@@ -2490,24 +2512,16 @@ dimwishlist:item=3355385170&perks=3400784728,1771339417
 
 
 // Frozen Orbit - PvP Monster (god-pvp,pvp)
-//notes: READ! Rolls to look for: Moving Target/Snapshot Sights for fast pace with high aim assist, OR High Impact Reserves for one shot body shots using any damage booster. If you get High impact reserves and ANYTHING. Save it. You need a mag extending perk to get both rounds for High impact to count. If not a warlock, get any other damage boosting effect to proc body shots. Kill clip is one kill and then free body shots. Vorpal for super shutdowns. The range is great on this thing so lots of aim assist. Depending on the barrel/rounds you might not want range masterwork. With this gun its Range, then handling to be faster with it. If you have hammer forged barrel with accurized rounds then you already hit near max range, and pushing it to 100 isn't that big of a deal. If you got opening shot with that, then congrats you're max range, but no snapshot sights. Firmly planted is another good option in the third column and high impact reserves or vorpal as decent alternatives to snapshot if you are more of a lane sniper than quick shooter. #PvP #GodPvP tags:god-pvp,pvp
-dimwishlist:item=3473290087&perks=3436462433,1015611457
-dimwishlist:item=3473290087&perks=3436462433,2213355989
+//notes: One of the best feeling snipers. PvP only really as there is not a big enough magazine to bring over other snipers in PvE. Depending on what you want, the range is no issue. As a high impact sniper it can also headshot most roaming supers. tags:god-pvp,pvp
 dimwishlist:item=3473290087&perks=3436462433,957782887
 dimwishlist:item=3473290087&perks=3436462433,47981717
 dimwishlist:item=3473290087&perks=3436462433,706527188
-dimwishlist:item=3473290087&perks=2866798147,1015611457
-dimwishlist:item=3473290087&perks=2866798147,2213355989
 dimwishlist:item=3473290087&perks=2866798147,957782887
 dimwishlist:item=3473290087&perks=2866798147,47981717
 dimwishlist:item=3473290087&perks=2866798147,706527188
-dimwishlist:item=3473290087&perks=588594999,1015611457
-dimwishlist:item=3473290087&perks=588594999,2213355989
 dimwishlist:item=3473290087&perks=588594999,957782887
 dimwishlist:item=3473290087&perks=588594999,47981717
 dimwishlist:item=3473290087&perks=588594999,706527188
-dimwishlist:item=3473290087&perks=280464955,1015611457
-dimwishlist:item=3473290087&perks=280464955,2213355989
 dimwishlist:item=3473290087&perks=280464955,957782887
 dimwishlist:item=3473290087&perks=280464955,47981717
 dimwishlist:item=3473290087&perks=280464955,706527188
