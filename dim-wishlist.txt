@@ -2849,6 +2849,11 @@ dimwishlist:item=3738678140&perks=1047830412,679225683,1631667848,2679249093
 dimwishlist:item=3738678140&perks=1047830412,679225683,1631667848,4082225868
 
 
+// Transfiguration - Monster 150 Scout (god-pvp,god-pve)
+//notes: Double damage perks. Nuff said. But seriously this thing is a monster in PvP and PvE both. These two perks are the only thing your really care about: Rampage+Kill Clip. Congrats. I'd say a healthy mix of stability and range where possible. Accurized rounds with any range or stability masterwork and barrel tags:god-pvp,god-pve
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+
+
 // Hawkmoon - Perfect Hawkmoon (god-pvp,pvp)
 //notes: This is an instant buy. Can't get a better PvP. Grip here has two options. Smooth for balance, or Polymer for ADS speed. Main perk is Eye of the Storm. Rangefinder isn't the God (best) roll here because if you wanted range, you just pick up Ace of Spades. tags:god-pvp,pvp
 dimwishlist:item=3856705927&perks=3250034553,1431678320,699525795,862848869
