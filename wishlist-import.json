@@ -2449,6 +2449,23 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "Double damage perks. Nuff said. But seriously this thing is a monster in PvP and PvE both. These two perks are the only thing your really care about: Rampage+Kill Clip. Congrats. I'd say a healthy mix of stability and range where possible. Accurized rounds with any range or stability masterwork and barrel",
+            "hash": 3799980700,
+            "name": "Monster 150 Scout",
+            "plugs": [
+                [
+                    3425386926
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "GodPVE"
+            ]
         }
     ]
 }
