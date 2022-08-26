@@ -1,5 +1,5 @@
 {
-    "description": "Witch Queen Guns, Season of Risen, Season of Haunted Updated",
+    "description": "Witch Queen Guns, Season of Risen, Season of Haunted, Season of Plunder Updated",
     "name": "blk-wishlist",
     "data": [
         {
@@ -2465,6 +2465,342 @@
             "tags": [
                 "GodPVP",
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "The key here is desperado. That's the main reason people are farming so keep any desperado rolls you get. Desperado is also what makes this great for PvE as well. Don't sleep on that. Personally I'd love to pair it with outlaw or perpetual in that order. High range and check the recoil also. Arrow head brake is good for controlling recoil if you need it. #PvP",
+            "hash": 1141927949,
+            "name": "PvP Monster",
+            "plugs": [
+                [
+                    3250034553,
+                    839105230,
+                    3661387068,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    2946784966,
+                    1428297954,
+                    1570042021,
+                    1168162263
+                ],
+                [
+                    3047969693,
+                    691659142,
+                    2458213969
+                ],
+                [
+                    515704826,
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Could go either PvP or PvE depending on the roll. Kill clip and range finder are you top picks for pvp. For PvE you'll be able to build around melee with graverobber/swashbuckler or grenades with demolistionist/adrenaline junkie. Your pick.",
+            "hash": 2988121501,
+            "name": "PvP or PvE",
+            "plugs": [
+                [
+                    588594999,
+                    1428297954,
+                    2946784966,
+                    2450788523,
+                    1631667848,
+                    3523296417
+                ],
+                [
+                    1015611457,
+                    2846385770,
+                    4082225868,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Sits on par with iron banner smg on paper. PvP focused roll here, with rangefinder being the big money to pump that range out.",
+            "hash": 4100775158,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    202670084,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    1561002382,
+                    1968497646,
+                    1885400500
+                ],
+                [
+                    1428297954,
+                    699525795
+                ],
+                [
+                    2846385770,
+                    691659142,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Decent pve option but there are better smgs. The main draw here is the new perk puglist. Being able to reset your melee is pretty great. But you can craft an SMG with puglist, and that craftable one has a origin perk that also synergizes with melee, so not too sought for.",
+            "hash": 4100775158,
+            "name": "PvE Roll",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    3523296417,
+                    691659142,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This bow has kill clip. Nuff said. Pair that with rapid hit and you will be a monster. Chaining kills. Drawtime low as you can, masterwork and all",
+            "hash": 1574601402,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "This bow has kill clip. Nuff said. Pair that with rapid hit and you will be a monster. Chaining kills. Drawtime low as you can, masterwork and all",
+            "hash": 711889599,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Blinding autoloading is the play here like so many before it.",
+            "hash": 40394833,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Blinding autoloading farmer. Go for your personal choices in the other columns.",
+            "hash": 2378101424,
+            "name": "pve",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP focused rocket. Impulse or snapshot for fast firing rockets. cluster or even incandescent is a nice pvp touch.",
+            "hash": 4009352833,
+            "name": "PvP",
+            "plugs": [
+                [
+                    951095735,
+                    957782887
+                ],
+                [
+                    1275731761,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Iron reach rangefinder is what you're really looking for.",
+            "hash": 1532276803,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    247725512
+                ],
+                [
+                    591790007,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Decent test perk combo in pvp for quickness.",
+            "hash": 1916287826,
+            "name": "pvp niche",
+            "plugs": [
+                [
+                    1821614984
+                ],
+                [
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "PvP last col perks. Farm for barrel and mag/ammo. Range is king.",
+            "hash": 2185327324,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1428297954,
+                    2946784966
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "#Boss roll",
+            "hash": 2185327324,
+            "name": "pve boss option",
+            "plugs": [
+                [
+                    791862061
+                ],
+                [
+                    1354429876
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP roll options. Pick your favorites",
+            "hash": 2307365,
+            "name": "pvp option",
+            "plugs": [
+                [
+                    1428297954,
+                    2946784966
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "#Boss dps option. ",
+            "hash": 2307365,
+            "name": "Pve boss dps option",
+            "plugs": [
+                [
+                    791862061
+                ],
+                [
+                    1354429876
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#NadeNation",
+            "hash": 2307365,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "PvE Melee dream shotty here. Finally a pugilist option with one-two punch.",
+            "hash": 1094005544,
+            "name": "PvE",
+            "plugs": [
+                [
+                    691659142
+                ],
+                [
+                    2679249093,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Melee build. Go from here!",
+            "hash": 912150785,
+            "name": "pve",
+            "plugs": [
+                [
+                    691659142
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
