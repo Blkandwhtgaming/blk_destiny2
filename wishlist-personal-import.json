@@ -1,5 +1,5 @@
 {
-    "description": "My Personal Perfect Rolls (Season 18/Plunder)\n(Updated Solstice 8/26/22)",
+    "description": "My Personal Perfect Rolls\n(Updated Solstice 8/12/22)",
     "name": "Personal Rolls",
     "data": [
         {
@@ -845,64 +845,66 @@
             ]
         },
         {
-            "description": "GOD ROLL ALERT! Desperado with most range you can get for PvP. Also great in PvE. MW Range. #PvE #PvE",
+            "description": "GOD ROLL ALERT! Check desperado roll with best range roll you can muster. Stability is next best for flinch resist and controlling this bad boy.",
             "hash": 1141927949,
-            "name": "God Roll",
+            "name": "PvP",
             "plugs": [
                 [
+                    839105230,
                     3661387068,
-                    1467527085,
-                    4090651448,
                     3250034553,
-                    1482024992,
-                    202670084
-                ],
-                [
-                    1561002382,
-                    1968497646,
-                    1885400500
-                ],
-                [
-                    1168162263,
-                    1428297954,
-                    2946784966
-                ],
-                [
-                    3047969693
-                ]
-            ],
-            "tags": [
-                "GodPVP",
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "GOD ROLL ALERT! Perfect: Full choke/Accurized/Pug/one-two Range MW",
-            "hash": 1094005544,
-            "name": "PvE Melee master",
-            "plugs": [
-                [
-                    1047830412,
-                    466087222,
                     1482024992
                 ],
                 [
-                    3142289711,
-                    791862061,
-                    679225683,
-                    2420895100,
-                    106909392
+                    1885400500,
+                    1968497646,
+                    1561002382
                 ],
                 [
-                    691659142
+                    1428297954,
+                    1570042021,
+                    1168162263
                 ],
                 [
-                    2679249093
+                    3047969693
+                ],
+                [
+                    515704826,
+                    4008116374
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Work great with shotgun melee killer. Melee gives swash two tap potential. The perfect roll here is hammerforged/ricochet/well rounded/swash range or stab masterwork. Well rounded will be great synergy with melee kills.",
+            "hash": 2671639706,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    1631667848,
+                    1428297954,
+                    744594675
+                ],
+                [
+                    4082225868
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
