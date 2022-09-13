@@ -2505,28 +2505,37 @@
             ]
         },
         {
-            "description": "Could go either PvP or PvE depending on the roll. Kill clip and range finder are you top picks for pvp. For PvE you'll be able to build around melee with graverobber/swashbuckler or grenades with demolistionist/adrenaline junkie. Your pick.",
+            "description": "Solid PvP Archtype. Rangefinder is sought after on this archtype to give great range. If you play more aggressive kill clip is a good damage perk, but there is definitely synergy to be had here with the demo/adrenaline or grave robber/swash combos. Perpetual/Rangefinder is the perk combo to hunt this season. Masterwork Range.",
             "hash": 2988121501,
-            "name": "PvP or PvE",
+            "name": "PvP",
             "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
                 [
                     588594999,
                     1428297954,
-                    2946784966,
                     2450788523,
-                    1631667848,
-                    3523296417
+                    3523296417,
+                    1631667848
                 ],
                 [
                     1015611457,
                     2846385770,
                     4082225868,
                     11612903
+                ],
+                [
+                    2839173408
                 ]
             ],
             "tags": [
-                "PVP",
-                "PVE"
+                "PVP"
             ]
         },
         {
