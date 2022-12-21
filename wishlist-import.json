@@ -1,5 +1,5 @@
 {
-    "description": "Witch Queen Guns, Season of Risen, Season of Haunted, Season of Plunder Updated",
+    "description": "General Wish List:\nWitch Queen, Season of Risen, Season of Haunted, Season of Plunder, Season of the Seraph",
     "name": "blk-wishlist",
     "data": [
         {
@@ -2806,6 +2806,880 @@
                 ],
                 [
                     2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Very similar in feel to the Krait, but now an Energy weapon. For PvE you'll really only be looking for subsistence in the third column with volt shot. The extra damage is great with Arc 3.0.",
+            "hash": 540880995,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Being rapid fire you really need to keep your shots tight. Stability to help with that but first and foremost range. Masterwork range.",
+            "hash": 540880995,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    11551321
+                ],
+                [
+                    2846385770,
+                    2610012052,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "You'll really want to try out kill clip to get amazing forgiveness and TTK drops. You'll hit max range on this pretty quick as its got amazing base range. Either barrel or rounds with range are great here. Masterwork Range.",
+            "hash": 2328531378,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1428297954,
+                    1359896290
+                ],
+                [
+                    1015611457,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Demo/Adrenaline is always a great grenade build combo. If you aren't focusing on grenades then Kill clip is ok for PvE low activities. For higher end content you'll likely want forth times the charm to get longer mags with perhaps the new perk target lock to get a damage bump more easily for champs.",
+            "hash": 2328531378,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417,
+                    1774574192,
+                    1354429876
+                ],
+                [
+                    11612903,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Seraph rounds are the most unique and arguably best second col here. Any damage perk will do you fine. Choose third col of preference but only pugilist if you are a melee builder. Maybe a Titan?",
+            "hash": 4070357005,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    839105230,
+                    3661387068
+                ],
+                [
+                    1140096971,
+                    1087426260,
+                    106909392,
+                    2420895100
+                ],
+                [
+                    1354429876,
+                    691659142,
+                    1523832109
+                ],
+                [
+                    4082225868,
+                    365154968,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good addition to the stasis slot for fusions. Even so, its going to be heavily a PvE weapons with good mag refill perks and utility/damage in last column. Pick your favorite combo but Golden Tricorn could be a nice 50% damage buff if you get a kill and chain a single melee or grenade kill after.",
+            "hash": 963710795,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1820235745,
+                    1523832109
+                ],
+                [
+                    2978966579,
+                    2610012052,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Great, reacquire the dawning weapon now with passive perks added. Same thing as the old, the subsistence reservoir is nasty in PvE chain kills. Other options for damage with golden tricorn now that it was reworked to be much better.",
+            "hash": 3573686365,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    1427256713,
+                    1754714824,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For PvP high impacts were always slow for me but this is probably one of the better ones with the damage perks in the last column. I'm personally hoping to get a double roll that fits a pve and pvp style",
+            "hash": 3573686365,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1645158859,
+                    3161816588
+                ],
+                [
+                    2213355989,
+                    1754714824,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Finally since memory interdict we have another similar frame and it rolls impulse for PvP fast nade shots.",
+            "hash": 3183283212,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    1380253176,
+                    2822142346,
+                    3373736292
+                ],
+                [
+                    951095735
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "I don't see myself bring this over many other heavies, but blinding auto-loading is nice to have I guess.",
+            "hash": 3183283212,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Nice to have PvE I guess. Many better heavies",
+            "hash": 555148853,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Flex this thing. Good fast grenade launcher for PvP",
+            "hash": 555148853,
+            "name": "PvP",
+            "plugs": [
+                [
+                    981914802,
+                    1441682018,
+                    3525010810
+                ],
+                [
+                    2822142346,
+                    3373736292,
+                    1380253176
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2888557110,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Hey look another auto loading blinder. This is better thanks to the tex passive however, so time to replace your other one... Also nice hot swapper for pvp cleanup strats.",
+            "hash": 2306182339,
+            "name": "PvE/PvP",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    1683379515
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good 140 roll here for use.",
+            "hash": 3102421004,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2846385770,
+                    1168162263
+                ],
+                [
+                    1015611457,
+                    3425386926,
+                    699525795
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Nice roll for PvP. Kill clip probably easier to proc in trials but your choice.",
+            "hash": 3920882229,
+            "name": "",
+            "plugs": [
+                [
+                    1168162263,
+                    2450788523,
+                    2846385770
+                ],
+                [
+                    699525795,
+                    1015611457,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Hard to get a bad roll on this. Probably one of the best 140s thanks to the speed boost with lightweight perk.",
+            "hash": 882778888,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    3230963543,
+                    3142289711
+                ],
+                [
+                    588594999,
+                    247725512,
+                    1428297954
+                ],
+                [
+                    47981717,
+                    699525795,
+                    3038247973,
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Replace your old one now that we have the passive.",
+            "hash": 1555959830,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1140096971,
+                    3230963543,
+                    3142289711
+                ],
+                [
+                    1354429876,
+                    1523832109
+                ],
+                [
+                    1546637391,
+                    2213355989,
+                    3201496230
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Replace your old one. Mostly PvE focused gun here. Big note is the new incandesant which is always fantastic with solar builds.",
+            "hash": 495940989,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    3300816228,
+                    2010801679
+                ],
+                [
+                    365154968,
+                    4293542123,
+                    1546637391
+                ],
+                [
+                    4264904777,
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Decent roll for a LMG in pvp, but going to be tough to control.",
+            "hash": 495940989,
+            "name": "PvP",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553,
+                    3661387068
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290,
+                    3436462433
+                ],
+                [
+                    1546637391,
+                    1890422124
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Killing tally subsistence is the chase for this PvE machine gun",
+            "hash": 3624844116,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    557221067,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Pretty stable roll for PvP if you use LMGs in pvp",
+            "hash": 3624844116,
+            "name": "PvP",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1482024992,
+                    1392496348
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Get the biggest mag with subsistence killing tally you can find",
+            "hash": 2759251821,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Nice adept LMG for pvp if you use those",
+            "hash": 2759251821,
+            "name": "PvP",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2812100428,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    1015611457,
+                    3047969693
+                ],
+                [
+                    4264904777,
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Kill clip and perpetual on a scout is nice. Richochet rounds probably next best but high cal is not bad either. Maximize your stability because scouts generally don't need range outside of gambit in PvP",
+            "hash": 1851521408,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Not sure where to land on this one yet. So many other rockets before it and the passives don't really help rockets much. This one is a budget Hot Head",
+            "hash": 1903182562,
+            "name": "PvE",
+            "plugs": [
+                [
+                    2869569095,
+                    2010801679
+                ],
+                [
+                    3927722942,
+                    2610012052,
+                    1275731761,
+                    4104185692,
+                    1546637391,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Its back to grind again, only this time replaces your old one because passive perks... Have fun!",
+            "hash": 772231794,
+            "name": "PvE",
+            "plugs": [
+                [
+                    247725512,
+                    1820235745,
+                    3700496672
+                ],
+                [
+                    3824105627,
+                    3038247973,
+                    4104185692
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Nice scout useful for adept mods.",
+            "hash": 4074251943,
+            "name": "PvE",
+            "plugs": [
+                [
+                    247725512,
+                    1820235745,
+                    3436462433,
+                    3700496672
+                ],
+                [
+                    3824105627,
+                    4104185692,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Better scouts out there but it is a fun space cowboy fantasy.",
+            "hash": 8293111,
+            "name": "PvE",
+            "plugs": [
+                [
+                    247725512,
+                    1820235745
+                ],
+                [
+                    3201496230
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Decent PvP roll. Could prime under pressure/high impact thanks to it reloading two at a time, but it has great hip fire options for a scout.",
+            "hash": 8293111,
+            "name": "PvP",
+            "plugs": [
+                [
+                    247725512,
+                    1866048759,
+                    1645158859
+                ],
+                [
+                    47981717,
+                    3038247973,
+                    2213355989
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Handling beats out FILO, so go for range and your choice for a nice pvp slugger. It also takes top spot over sojurner's tale finally, so worth picking up. Iron reach can over cap your range so only use that perk if you got no range barrel/rounds",
+            "hash": 487361141,
+            "name": "PvP New top dog",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    588594999,
+                    3436462433,
+                    4071163871
+                ],
+                [
+                    957782887,
+                    47981717,
+                    591790007
+                ],
+                [
+                    4008116374,
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Pug Swash is fun for pvp and pve but kill clip can also be a nice easy pvp damage perk. Very stable give it a shot.",
+            "hash": 2566006935,
+            "name": "PvP/PvE",
+            "plugs": [
+                [
+                    691659142
+                ],
+                [
+                    4082225868,
+                    2610012052,
+                    1015611457
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Hip fire a aggressive side arm? Yup. Desperado... WTF??? Yea sign me up.",
+            "hash": 3138208275,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    1015611457,
+                    3047969693
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Doesn't out-stat occulted finality but you are looking at a pretty strictly better frozen orbit.",
+            "hash": 676270382,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147,
+                    588594999
+                ],
+                [
+                    47981717,
+                    957782887
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Fun arc sniper for boss DPS",
+            "hash": 676270382,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    2420895100,
+                    1087426260
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvE kinetic. Don't bother with PvP as nearly all Agressive SMG out stat this thing...",
+            "hash": 2814093983,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1428297954,
+                    1820235745
+                ],
+                [
+                    3425386926,
+                    4104185692
+                ],
+                [
+                    1607056502,
+                    4264904777
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hey its funnel web but stasis! Same trusted roll as funnel web but we have headstone if you want to lean in on the stasis builds. Also additional damage perks in one for all and multi-kill clip and target lock. You either want to get an extended mag with subsistence/forth times the charm and never reload, or kill stuff and get feeding frenzy/outlaw and reload wicked fast. Also a nice melee combo in grave robber/pugilist",
+            "hash": 2349907931,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1820235745,
+                    1354429876,
+                    1168162263,
+                    2779035018,
+                    1631667848
+                ],
+                [
+                    4104185692,
+                    124408337,
+                    4049631843,
+                    2458213969,
+                    365154968,
+                    691659142
+                ],
+                [
+                    3988215619,
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "You want this for the cold steel utility. If you want damage get a different sword but this isn't terrible. Fun osmosis on a sword also. Might want that for even more utility.",
+            "hash": 396910433,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1749209109,
+                    2590710093,
+                    1774574192
+                ],
+                [
+                    3650930298,
+                    3913600130
                 ]
             ],
             "tags": [
