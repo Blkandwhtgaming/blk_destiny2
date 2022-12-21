@@ -10,7 +10,7 @@ Destiny 2 Wishlist
 ------------------
 The wishlists in this repo are used in conjunction with [Destiny Item Manager (DIM)](https://destinyitemmanager.com/). To import these for your use, you can use the links to the raw file data sourced here in github. I try to update these within the first week of each new season after reviewing the weapon rolls and stats to determine if they are worth the grind. If you do not see a weapon it is likely outclassed by another in the same archtype and element/kinetic/stasis type. Choose from one the below:
 
-* blk-wishlist: Collection of recommended rolls by me to the general audience. These are roll combinations from my own personal take as well as some mixed in with popular YouTubers like Aztecross, Datto, Ascendant Nomad, Fallout, SirD and others.
+* dim-wishlist: Collection of recommended rolls by me to the general audience. These are roll combinations from my own personal take as well as some mixed in with popular YouTubers like Aztecross, Datto, Ascendant Nomad, Fallout, SirD and others. Often my opinion as I compare against other weapons, so some may drop off as new, strictly better ones come in, or even have unavailability due to content rotation such as seasons. Keep in minde, "old" weapons may remain so long as you can get lucky with Xur, and they have niche use cases more easily available weapons can not.
   - ```https://raw.githubusercontent.com/Blkandwhtgaming/blk_destiny2/main/dim-wishlist.txt```
 * personal-wishlist: My personal wishlist. Has very specfic rolls for chasing for myself, but other if they desire the same. Feel free to to your DIM url list
   - ```https://raw.githubusercontent.com/Blkandwhtgaming/blk_destiny2/main/dim-personal-wishlist.txt```
