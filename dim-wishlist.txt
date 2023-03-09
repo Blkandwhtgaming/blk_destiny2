@@ -1,6 +1,6 @@
 title:blk-wishlist
 description:General Wish List:
-Witch Queen, Season of Risen, Season of Haunted, Season of Plunder, Season of the Seraph
+Updated Lightfall 3.9.2023
 
 // The Inquisitor (Adept) - pvp option (pvp)
 //notes: PvP roll options. Pick your favorites tags:pvp
@@ -130,12 +130,6 @@ dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999
 // Eyasluna - PvE Build (pve)
 //notes: This will replace your Vulculpea with Headstone since 140s just dominate 180s for high end content. 180s really only nice for normal playlist with adds but 140s can do work on champs in nightfalls. Any Headstone roll good to synergize with stasis here. Best Range and Stability you can get with scope and barrel. For third column either rapid hit or outlaw up to personal preference, but perpetual motion isn't bad either if you don't have either and keep moving. tags:pve
 dimwishlist:item=235827225&perks=124408337
-
-
-// Pointed Inquiry - PvE (pve)
-//notes: Focused fury with fourth times the charm for straight up damage, dragonfly with dragonfly spec mod for add clear. #PvE tags:pve
-dimwishlist:item=297296830&perks=1354429876,2848615171
-dimwishlist:item=297296830&perks=1354429876,2896038713
 
 
 // Cantata-57 - PvP Godroll Alert potential (pvp,god-pvp)
@@ -302,16 +296,6 @@ dimwishlist:item=372697604&perks=839105230,3177308360,247725512,47981717,4008116
 dimwishlist:item=372697604&perks=839105230,3177308360,1570042021,2846385770,4008116374
 dimwishlist:item=372697604&perks=839105230,3177308360,1570042021,588594999,4008116374
 dimwishlist:item=372697604&perks=839105230,3177308360,1570042021,47981717,4008116374
-
-
-// Zephyr - PvE (pve)
-//notes: You want this for the cold steel utility. If you want damage get a different sword but this isn't terrible. Fun osmosis on a sword also. Might want that for even more utility. tags:pve
-dimwishlist:item=396910433&perks=1749209109,3650930298
-dimwishlist:item=396910433&perks=1749209109,3913600130
-dimwishlist:item=396910433&perks=2590710093,3650930298
-dimwishlist:item=396910433&perks=2590710093,3913600130
-dimwishlist:item=396910433&perks=1774574192,3650930298
-dimwishlist:item=396910433&perks=1774574192,3913600130
 
 
 // Duty Bound - PvE Godroll (god-pve,pve)
@@ -516,11 +500,6 @@ dimwishlist:item=575830664&perks=1482024992,3142289711,1168162263,2896038713,128
 //notes: GOD ROLL ALERT! PvP roll could be great, hopefully you are reading this on an Adept gun. tags:pvp
 dimwishlist:item=575830664&perks=3250034553,3142289711,2946784966,47981717
 dimwishlist:item=575830664&perks=3250034553,3142289711,2946784966,1954620775
-
-
-// Gallu RR3 - PvP (pvp,god-pvp)
-//notes: GOD ROLL ALERT! Sits up on Adored so the question is does it beat Adored in PvP. Yes if you get the No Distractions Snapshot roll. If you have this message, snap-keep. #GodTier tags:pvp,god-pvp
-dimwishlist:item=617501162&perks=3250034553,3142289711,2866798147,957782887
 
 
 // Gallu RR3 - PvE (pve)
@@ -1592,6 +1571,11 @@ dimwishlist:item=1796949035&perks=3705817207,354401740,3989629871
 dimwishlist:item=1851521408&perks=1428297954,1015611457
 
 
+// Wendigo GL3 - PvP (pvp)
+//notes: Good Velocity making it best pvp grenade launcher as of lightfall. MW: Velocity tags:pvp
+dimwishlist:item=1854753404&perks=409831596,951095735
+
+
 // Blowout - PvE (pve)
 //notes: Not sure where to land on this one yet. So many other rockets before it and the passives don't really help rockets much. This one is a budget Hot Head tags:pve
 dimwishlist:item=1903182562&perks=2869569095,3927722942
@@ -2040,6 +2024,11 @@ dimwishlist:item=2185327324&perks=2946784966,47981717
 // The Inquisitor - pve boss option (pve)
 //notes: #Boss roll tags:pve
 dimwishlist:item=2185327324&perks=791862061,1354429876
+
+
+// Roar of the Bear - PvE (pve,god-pve)
+//notes: Demolitionist is unique to this rocket. Making it best DPS for warlock fusion grenade builds. Otherwise, demo is a beast for instant reloads. tags:pve,god-pve
+dimwishlist:item=2231910050&perks=3523296417
 
 
 // Fugue-55 - PvP A Tier (pvp)
@@ -2847,18 +2836,6 @@ dimwishlist:item=2812100428&perks=1482024992,1885400500,2450788523,3047969693,42
 dimwishlist:item=2812100428&perks=1482024992,1885400500,2450788523,3047969693,2839173408
 
 
-// Cold Front - PvE (pve)
-//notes: PvE kinetic. Don't bother with PvP as nearly all Agressive SMG out stat this thing... tags:pve
-dimwishlist:item=2814093983&perks=1428297954,3425386926,1607056502
-dimwishlist:item=2814093983&perks=1428297954,3425386926,4264904777
-dimwishlist:item=2814093983&perks=1428297954,4104185692,1607056502
-dimwishlist:item=2814093983&perks=1428297954,4104185692,4264904777
-dimwishlist:item=2814093983&perks=1820235745,3425386926,1607056502
-dimwishlist:item=2814093983&perks=1820235745,3425386926,4264904777
-dimwishlist:item=2814093983&perks=1820235745,4104185692,1607056502
-dimwishlist:item=2814093983&perks=1820235745,4104185692,4264904777
-
-
 // Fortissimo-11 - Great Slug PvP (pvp,god-pvp)
 //notes: Really Threat detector and opening shot/moving target here is the god roll but other great perks too. tags:pvp,god-pvp
 dimwishlist:item=2821430069&perks=4071163871,47981717,4008116374
@@ -3473,6 +3450,64 @@ dimwishlist:item=3102421004&perks=3250034553,3142289711,1168162263,3425386926,40
 dimwishlist:item=3102421004&perks=3250034553,3142289711,1168162263,699525795,4008116374
 
 
+// Autumn Wind - PvP (pvp)
+//notes: If you don't have a piece of mind, this thing will be great in PvP. Perpetual motion/Moving target, IS the god roll piece of mind, but this can be better. PoM didn't have damage perks. This has them in spades. Personally Rampage is the easiest to proc. MW: Range tags:pvp
+dimwishlist:item=3110377595&perks=3250034553,3142289711,2846385770,588594999
+dimwishlist:item=3110377595&perks=3250034553,3142289711,2846385770,4082225868
+dimwishlist:item=3110377595&perks=3250034553,3142289711,2846385770,3425386926
+dimwishlist:item=3110377595&perks=3250034553,3142289711,1428297954,588594999
+dimwishlist:item=3110377595&perks=3250034553,3142289711,1428297954,4082225868
+dimwishlist:item=3110377595&perks=3250034553,3142289711,1428297954,3425386926
+dimwishlist:item=3110377595&perks=3250034553,1885400500,2846385770,588594999
+dimwishlist:item=3110377595&perks=3250034553,1885400500,2846385770,4082225868
+dimwishlist:item=3110377595&perks=3250034553,1885400500,2846385770,3425386926
+dimwishlist:item=3110377595&perks=3250034553,1885400500,1428297954,588594999
+dimwishlist:item=3110377595&perks=3250034553,1885400500,1428297954,4082225868
+dimwishlist:item=3110377595&perks=3250034553,1885400500,1428297954,3425386926
+dimwishlist:item=3110377595&perks=3250034553,1561002382,2846385770,588594999
+dimwishlist:item=3110377595&perks=3250034553,1561002382,2846385770,4082225868
+dimwishlist:item=3110377595&perks=3250034553,1561002382,2846385770,3425386926
+dimwishlist:item=3110377595&perks=3250034553,1561002382,1428297954,588594999
+dimwishlist:item=3110377595&perks=3250034553,1561002382,1428297954,4082225868
+dimwishlist:item=3110377595&perks=3250034553,1561002382,1428297954,3425386926
+dimwishlist:item=3110377595&perks=1482024992,3142289711,2846385770,588594999
+dimwishlist:item=3110377595&perks=1482024992,3142289711,2846385770,4082225868
+dimwishlist:item=3110377595&perks=1482024992,3142289711,2846385770,3425386926
+dimwishlist:item=3110377595&perks=1482024992,3142289711,1428297954,588594999
+dimwishlist:item=3110377595&perks=1482024992,3142289711,1428297954,4082225868
+dimwishlist:item=3110377595&perks=1482024992,3142289711,1428297954,3425386926
+dimwishlist:item=3110377595&perks=1482024992,1885400500,2846385770,588594999
+dimwishlist:item=3110377595&perks=1482024992,1885400500,2846385770,4082225868
+dimwishlist:item=3110377595&perks=1482024992,1885400500,2846385770,3425386926
+dimwishlist:item=3110377595&perks=1482024992,1885400500,1428297954,588594999
+dimwishlist:item=3110377595&perks=1482024992,1885400500,1428297954,4082225868
+dimwishlist:item=3110377595&perks=1482024992,1885400500,1428297954,3425386926
+dimwishlist:item=3110377595&perks=1482024992,1561002382,2846385770,588594999
+dimwishlist:item=3110377595&perks=1482024992,1561002382,2846385770,4082225868
+dimwishlist:item=3110377595&perks=1482024992,1561002382,2846385770,3425386926
+dimwishlist:item=3110377595&perks=1482024992,1561002382,1428297954,588594999
+dimwishlist:item=3110377595&perks=1482024992,1561002382,1428297954,4082225868
+dimwishlist:item=3110377595&perks=1482024992,1561002382,1428297954,3425386926
+dimwishlist:item=3110377595&perks=4090651448,3142289711,2846385770,588594999
+dimwishlist:item=3110377595&perks=4090651448,3142289711,2846385770,4082225868
+dimwishlist:item=3110377595&perks=4090651448,3142289711,2846385770,3425386926
+dimwishlist:item=3110377595&perks=4090651448,3142289711,1428297954,588594999
+dimwishlist:item=3110377595&perks=4090651448,3142289711,1428297954,4082225868
+dimwishlist:item=3110377595&perks=4090651448,3142289711,1428297954,3425386926
+dimwishlist:item=3110377595&perks=4090651448,1885400500,2846385770,588594999
+dimwishlist:item=3110377595&perks=4090651448,1885400500,2846385770,4082225868
+dimwishlist:item=3110377595&perks=4090651448,1885400500,2846385770,3425386926
+dimwishlist:item=3110377595&perks=4090651448,1885400500,1428297954,588594999
+dimwishlist:item=3110377595&perks=4090651448,1885400500,1428297954,4082225868
+dimwishlist:item=3110377595&perks=4090651448,1885400500,1428297954,3425386926
+dimwishlist:item=3110377595&perks=4090651448,1561002382,2846385770,588594999
+dimwishlist:item=3110377595&perks=4090651448,1561002382,2846385770,4082225868
+dimwishlist:item=3110377595&perks=4090651448,1561002382,2846385770,3425386926
+dimwishlist:item=3110377595&perks=4090651448,1561002382,1428297954,588594999
+dimwishlist:item=3110377595&perks=4090651448,1561002382,1428297954,4082225868
+dimwishlist:item=3110377595&perks=4090651448,1561002382,1428297954,3425386926
+
+
 // Liminal Vigil - PvP (pvp)
 //notes: Hip fire a aggressive side arm? Yup. Desperado... WTF??? Yea sign me up. tags:pvp
 dimwishlist:item=3138208275&perks=1428297954,1015611457,2437618208
@@ -3520,6 +3555,14 @@ dimwishlist:item=3183283212&perks=981914802,3373736292,951095735
 // Wendigo GL3 - PvE (pve)
 //notes: I don't see myself bring this over many other heavies, but blinding auto-loading is nice to have I guess. tags:pve
 dimwishlist:item=3183283212&perks=3032599245,3300816228
+
+
+// The Immortal (Adept) - PvP (pvp,god-pvp)
+//notes: Best Stats for Agg. frame SMG in kinetic slot. MW: Range tags:pvp,god-pvp
+dimwishlist:item=3193598749&perks=1885400500,2846385770,1015611457
+dimwishlist:item=3193598749&perks=1885400500,2846385770,1890422124
+dimwishlist:item=3193598749&perks=1885400500,1359896290,1015611457
+dimwishlist:item=3193598749&perks=1885400500,1359896290,1890422124
 
 
 // Aisha's Embrace (Adept) - PvE (pve)
@@ -3991,6 +4034,11 @@ dimwishlist:item=3856705927&perks=1467527085,1431678320,47981717,3438534621
 dimwishlist:item=3856705927&perks=1467527085,1431678320,47981717,3917450714
 
 
+// Wendigo GL3 (Adept) - pvp (pvp)
+//notes: Good Speed of projectile making it vest PvP grenade launcher you can get currently in the game as of lightfall. MW: Velocity tags:pvp
+dimwishlist:item=3915197957&perks=409831596,951095735
+
+
 // Exalted Truth (Adept) (pvp)
 //notes: Nice roll for PvP. Kill clip probably easier to proc in trials but your choice. tags:pvp
 dimwishlist:item=3920882229&perks=1168162263,699525795
@@ -4094,6 +4142,14 @@ dimwishlist:item=4019668921&perks=1482024992,106909392,1168162263,3425386926
 dimwishlist:item=4019668921&perks=1482024992,106909392,1168162263,2848615171
 dimwishlist:item=4019668921&perks=1482024992,106909392,1168162263,1048183818
 dimwishlist:item=4019668921&perks=1482024992,106909392,1168162263,4293542123
+
+
+// The Immortal - PvP (pvp,god-pvp)
+//notes: Best Stats for Agg. frame SMG in kinetic slot. MW: Range tags:pvp,god-pvp
+dimwishlist:item=4039572196&perks=1885400500,2846385770,1015611457
+dimwishlist:item=4039572196&perks=1885400500,2846385770,1890422124
+dimwishlist:item=4039572196&perks=1885400500,1359896290,1015611457
+dimwishlist:item=4039572196&perks=1885400500,1359896290,1890422124
 
 
 // Seventh Seraph Carbine - PvE (pve)
