@@ -1,10 +1,15 @@
 title:Personal Rolls
 description:My Personal Perfect Rolls
-(Updated Solstice 8/12/22)
+(Updated Lightfall 3/9/23)
 
 // Riiswalker - PvP Perfect (pvp,god-pvp)
 //notes: GOD ROLL ALERT! MW: Range tags:pvp,god-pvp
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007,3989629871
+
+
+// Buzzard - PvP (pvp)
+//notes: GOD ROLL ALERT! MW: Range tags:pvp
+dimwishlist:item=213264394&perks=3250034553,1885400500,1195158366,2846385770
 
 
 // The Title - PvP Roll (pvp)
@@ -20,12 +25,9 @@ dimwishlist:item=294129361&perks=1583705720,4082225868
 dimwishlist:item=294129361&perks=1583705720,4049631843
 
 
-// Sojourner's Tale - PvP Slug (god-pvp,pvp)
-//notes: PERSONAL ROLL ALERT! Best Energy. Range over handling, God is Range MW with Fluted/Accurized/Moving Target/Opening Shot tags:god-pvp,pvp
-dimwishlist:item=599895591&perks=1840239774,791862061,588594999,47981717
-dimwishlist:item=599895591&perks=1840239774,3142289711,588594999,47981717
-dimwishlist:item=599895591&perks=3250034553,791862061,588594999,47981717
-dimwishlist:item=599895591&perks=3250034553,3142289711,588594999,47981717
+// Gunnora's Axe - PvP (god-pvp,pvp)
+//notes: GOD ROLL ALERT! If this has handling masterwork you're done. tags:god-pvp,pvp
+dimwishlist:item=411397829&perks=4090651448,3142289711,4071163871,591790007
 
 
 // Scathelocke - PvE Roll (pve)
@@ -49,21 +51,15 @@ dimwishlist:item=602618796&perks=839105230,3142289711,1570042021,2458213969
 // Borrowed Time - PvP Price SMG (god-pvp,pvp)
 //notes: GODROLL ALERT! Best SMG You'll probably get for PvP. Perfect: Full Bore/Richochet/Range Finder/Rampage
 Instead of Rampage, could be dealers choice. Swashbuckler is also strong. Masterwork Range tags:god-pvp,pvp
-dimwishlist:item=875848769&perks=202670084,1561002382,2846385770,3425386926
-dimwishlist:item=875848769&perks=202670084,1561002382,2846385770,4104185692
-dimwishlist:item=875848769&perks=202670084,1561002382,2846385770,11612903
-dimwishlist:item=875848769&perks=202670084,1561002382,2846385770,2848615171
-dimwishlist:item=875848769&perks=202670084,1561002382,2846385770,4082225868
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,3425386926
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,4104185692
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,11612903
-dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,2848615171
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,4082225868
-dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,3425386926
-dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,4104185692
-dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,11612903
-dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,2848615171
-dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,4082225868
+
+
+// Buzzard (Adept) - PvP (pvp)
+//notes: GOD ROLL ALERT! MW: Range tags:pvp
+dimwishlist:item=927835311&perks=3250034553,1885400500,1195158366,2846385770
 
 
 // Yesteryear - PvP (pvp)
@@ -190,6 +186,11 @@ dimwishlist:item=1173780905&perks=4090651448,1885400500,1428297954,3047969693
 dimwishlist:item=1173780905&perks=4090651448,1885400500,1570042021,3047969693
 
 
+// Nasreddin - PvE (pve)
+//notes: GOD ROLL ALERT! Not sure if it will out DPS vortex frames but worth keeping. tags:pve
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3708227201,2120661319
+
+
 // Herod-C - PvPvE (pve,pvp)
 //notes: GOD ROLL ALERT! #StasisSynergy Better than krait auto with headstone because hakke can break crystals faster. #Gambit Perfect: Hammer Forged/Ricochet/Perpetual/Headstone Masterwork Range tags:pve,pvp
 dimwishlist:item=1788603939&perks=1482024992,1885400500,1428297954,124408337,515704826
@@ -230,6 +231,17 @@ dimwishlist:item=1788603939&perks=839105230,1968497646,1570042021,124408337,5157
 dimwishlist:item=1788603939&perks=839105230,1968497646,1570042021,124408337,1607056502
 
 
+// Wendigo GL3 - PvP (god-pvp,pvp)
+//notes: Probably Best Grenade for PvP with velocity through the roof. Masterwork Velocity or blast radius tags:god-pvp,pvp
+dimwishlist:item=1854753404&perks=3525010810,409831596,951095735,2846385770
+dimwishlist:item=1854753404&perks=981914802,409831596,951095735,2846385770
+
+
+// The Militia's Birthright - PvE (pve)
+//notes: GOD ROLL ALERT! Perfect: Velocity Masterwork or Adept ;) tags:pve
+dimwishlist:item=1854753405&perks=981914802,3032599245,2039302152,3300816228,1281216113
+
+
 // Something New - PvE Mostly (pve)
 //notes: GOD ROLL ALERT! Could replace Eyasluna but different archtype. PvE Roll for stasis synergy. Origin perk is good and stacks with other weapons if that is not a bug. Masterwork reload. In PvP Use your eyasluna for stasis, or if you want a 120, your true prophecy is sniper man with rangefinder and explosive. tags:pve
 dimwishlist:item=1856262127&perks=1482024992,3230963543,3400784728,124408337,1380061575
@@ -254,9 +266,10 @@ dimwishlist:item=1999697514&perks=1392496348,689005463,1820235745,2652708987,398
 dimwishlist:item=1999697514&perks=1392496348,689005463,1820235745,1546637391,3989629871
 
 
-// Lunulata-4b - All rounder (pvp,pve)
-//notes: GOD ROLL ALERT! Both PvE and PvP. Only one you need. #StasisSynergy Masterwork Drawtime. tags:pvp,pve
-dimwishlist:item=2513965917&perks=2801223209,3429800428,2866798147,124408337,3988215619
+// Roar of the Bear - PvE (god-pve,pve)
+//notes: GOD ROLL ALERT! Instant reload with demolitionist makes this a monster with Warlocks. tags:god-pve,pve
+dimwishlist:item=2231910050&perks=981914802,3796465595,3523296417,1546637391
+dimwishlist:item=2231910050&perks=981914802,3796465595,3523296417,3927722942
 
 
 // Compass Rose - PvP God Roll (god-pvp,pvp)
@@ -286,22 +299,8 @@ dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,3365897133
 
 // Pure Poetry - PvP (pvp)
 //notes: GOD ROLL ALERT! Work great with shotgun melee killer. Melee gives swash two tap potential. The perfect roll here is hammerforged/ricochet/well rounded/swash range or stab masterwork. Well rounded will be great synergy with melee kills. tags:pvp
-dimwishlist:item=2671639706&perks=3250034553,1968497646,1631667848,4082225868,1607056502
-dimwishlist:item=2671639706&perks=3250034553,1968497646,1428297954,4082225868,1607056502
-dimwishlist:item=2671639706&perks=3250034553,1968497646,744594675,4082225868,1607056502
-dimwishlist:item=2671639706&perks=3250034553,1561002382,1631667848,4082225868,1607056502
-dimwishlist:item=2671639706&perks=3250034553,1561002382,1428297954,4082225868,1607056502
-dimwishlist:item=2671639706&perks=3250034553,1561002382,744594675,4082225868,1607056502
-dimwishlist:item=2671639706&perks=3250034553,1885400500,1631667848,4082225868,1607056502
 dimwishlist:item=2671639706&perks=3250034553,1885400500,1428297954,4082225868,1607056502
 dimwishlist:item=2671639706&perks=3250034553,1885400500,744594675,4082225868,1607056502
-dimwishlist:item=2671639706&perks=1482024992,1968497646,1631667848,4082225868,1607056502
-dimwishlist:item=2671639706&perks=1482024992,1968497646,1428297954,4082225868,1607056502
-dimwishlist:item=2671639706&perks=1482024992,1968497646,744594675,4082225868,1607056502
-dimwishlist:item=2671639706&perks=1482024992,1561002382,1631667848,4082225868,1607056502
-dimwishlist:item=2671639706&perks=1482024992,1561002382,1428297954,4082225868,1607056502
-dimwishlist:item=2671639706&perks=1482024992,1561002382,744594675,4082225868,1607056502
-dimwishlist:item=2671639706&perks=1482024992,1885400500,1631667848,4082225868,1607056502
 dimwishlist:item=2671639706&perks=1482024992,1885400500,1428297954,4082225868,1607056502
 dimwishlist:item=2671639706&perks=1482024992,1885400500,744594675,4082225868,1607056502
 
@@ -319,40 +318,19 @@ dimwishlist:item=2715240478&perks=3250034553,689005463,1428297954,2978966579
 dimwishlist:item=2715240478&perks=3250034553,689005463,2779035018,2978966579
 
 
-// Blasphemer - Second best pvp (god-pvp,pvp)
-//notes: PERSONAL ROLL ALERT! Slug second best behind Heritage Raid slug. Fluted/Accurized/Hip Fire/Opening Shot. Surplus over hip fire if ADS. tags:god-pvp,pvp
-dimwishlist:item=2782847179&perks=1840239774,3142289711,3436462433,47981717
-dimwishlist:item=2782847179&perks=3250034553,3142289711,3436462433,47981717
+// Krait - PvE (pve,god-pve)
+//notes: GOD ROLL ALERT! Reload Masterwork please. tags:pve,god-pve
+dimwishlist:item=2852052802&perks=1482024992,2420895100,1820235745,124408337,3988215619
 
 
-// Krait - PvE God Roll (pve)
-//notes: GOD ROLL ALERT! Finally you nailed it! Check this against other stat/one for all combos to get more range or reload masterwork with mods. tags:pve
-dimwishlist:item=2852052802&perks=1583705720,4049631843
+// The Immortal (Adept) - PvP (god-pvp,pvp)
+//notes: GOD ROLL ALERT! Masterwork: Range tags:god-pvp,pvp
+dimwishlist:item=3193598749&perks=3250034553,1885400500,2846385770,1015611457
 
 
-// Krait - PvP (pvp)
-//notes: GOD ROLL ALERT! PvP auto rifle in the house. Check for maxing range on this. Hammer/Ricochet/Range MW lookin best. tags:pvp
-dimwishlist:item=2852052802&perks=1482024992,1885400500,509074078,3673922083
-dimwishlist:item=2852052802&perks=1482024992,1561002382,509074078,3673922083
-dimwishlist:item=2852052802&perks=1482024992,1968497646,509074078,3673922083
-dimwishlist:item=2852052802&perks=839105230,1885400500,509074078,3673922083
-dimwishlist:item=2852052802&perks=839105230,1561002382,509074078,3673922083
-dimwishlist:item=2852052802&perks=839105230,1968497646,509074078,3673922083
-dimwishlist:item=2852052802&perks=3250034553,1885400500,509074078,3673922083
-dimwishlist:item=2852052802&perks=3250034553,1561002382,509074078,3673922083
-dimwishlist:item=2852052802&perks=3250034553,1968497646,509074078,3673922083
-
-
-// First In, Last Out - PvP Slug Super Killer (god-pvp,pvp)
-//notes: PERSONAL ROLL ALERT! Real appeal is Vorpal to super shutdown, but opening shot if no sojurner or bonechiller. tags:god-pvp,pvp
-dimwishlist:item=3616586446&perks=3250034553,3142289711,3161816588,1546637391
-dimwishlist:item=3616586446&perks=3250034553,3142289711,3161816588,47981717
-dimwishlist:item=3616586446&perks=3250034553,3142289711,1866048759,1546637391
-dimwishlist:item=3616586446&perks=3250034553,3142289711,1866048759,47981717
-dimwishlist:item=3616586446&perks=1840239774,3142289711,3161816588,1546637391
-dimwishlist:item=3616586446&perks=1840239774,3142289711,3161816588,47981717
-dimwishlist:item=3616586446&perks=1840239774,3142289711,1866048759,1546637391
-dimwishlist:item=3616586446&perks=1840239774,3142289711,1866048759,47981717
+// The Immortal (Adept) - PvE (pve)
+//notes: GOD ROLL ALERT! Masterwork: Reload tags:pve
+dimwishlist:item=3193598749&perks=1482024992,2420895100,1428297954,831391274
 
 
 // Dead Man's Tale - PvP Perfect (pvp,god-pvp)
@@ -431,6 +409,13 @@ dimwishlist:item=3799980700&perks=4090651448,3177308360,3425386926,1015611457
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,862848869
 
 
+// Wendigo GL3 (Adept) - PvP (pvp,god-pvp)
+//notes: Perfect choice of nade type. Best Heavy Nader for PvP. tags:pvp,god-pvp
+dimwishlist:item=3915197957&perks=3525010810,409831596,951095735,2846385770
+dimwishlist:item=3915197957&perks=981914802,409831596,951095735,2846385770
+dimwishlist:item=3915197957&perks=1441682018,409831596,951095735,2846385770
+
+
 // Staccato-46 - PvE Solar (pve,god-pve)
 //notes: GOD ROLL ALERT! #Adds #SolarSynergy Masterwork Stability or Range tags:pve,god-pve
 dimwishlist:item=4019668921&perks=1482024992,2420895100,3400784728,4293542123,4008116374
@@ -467,31 +452,18 @@ dimwishlist:item=4019668921&perks=839105230,106909392,3400784728,1048183818,4008
 dimwishlist:item=4019668921&perks=839105230,1087426260,3400784728,1048183818,4008116374
 
 
-// Bonechiller - PvP Slug (god-pvp,pvp)
-//notes: PERSONAL ROLL ALERT! Range or Handling balanced. Barrel should counter masterwork. tags:god-pvp,pvp
-dimwishlist:item=4037745684&perks=3250034553,3142289711,280464955,47981717
-dimwishlist:item=4037745684&perks=3250034553,3142289711,280464955,2039302152
-dimwishlist:item=4037745684&perks=3250034553,3142289711,3436462433,47981717
-dimwishlist:item=4037745684&perks=3250034553,3142289711,3436462433,2039302152
-dimwishlist:item=4037745684&perks=3250034553,791862061,280464955,47981717
-dimwishlist:item=4037745684&perks=3250034553,791862061,280464955,2039302152
-dimwishlist:item=4037745684&perks=3250034553,791862061,3436462433,47981717
-dimwishlist:item=4037745684&perks=3250034553,791862061,3436462433,2039302152
-dimwishlist:item=4037745684&perks=1840239774,3142289711,280464955,47981717
-dimwishlist:item=4037745684&perks=1840239774,3142289711,280464955,2039302152
-dimwishlist:item=4037745684&perks=1840239774,3142289711,3436462433,47981717
-dimwishlist:item=4037745684&perks=1840239774,3142289711,3436462433,2039302152
-dimwishlist:item=4037745684&perks=1840239774,791862061,280464955,47981717
-dimwishlist:item=4037745684&perks=1840239774,791862061,280464955,2039302152
-dimwishlist:item=4037745684&perks=1840239774,791862061,3436462433,47981717
-dimwishlist:item=4037745684&perks=1840239774,791862061,3436462433,2039302152
+// The Immortal - PvP (god-pvp,pvp)
+//notes: GOD ROLL ALERT! Masterwork: Range tags:god-pvp,pvp
+dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,1015611457
 
 
-// Heritage - God PvP Best (god-pvp,pvp)
-//notes: PERSONAL ROLL ALERT! Fluted if Range MW, Otherwise Hammer Forged. Accurized over Assault mag. tags:god-pvp,pvp
-dimwishlist:item=4248569242&perks=1840239774,3142289711,1866048759,588594999
-dimwishlist:item=4248569242&perks=1840239774,791862061,1866048759,588594999
-dimwishlist:item=4248569242&perks=3250034553,3142289711,1866048759,588594999
-dimwishlist:item=4248569242&perks=3250034553,791862061,1866048759,588594999
+// The Immortal - PvE (pve)
+//notes: GOD ROLL ALERT! Masterwork: Reload tags:pve
+dimwishlist:item=4039572196&perks=1482024992,2420895100,1428297954,831391274
+
+
+// The Militia's Birthright (Adept) - PvE (god-pve,pve)
+//notes: GOD ROLL ALERT! Best kinetic grenade. Masterwork: Velocity tags:god-pve,pve
+dimwishlist:item=4162642204&perks=981914802,3032599245,2039302152,3300816228,1281216113
 
 
