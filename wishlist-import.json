@@ -1,5 +1,5 @@
 {
-    "description": "General Wish List:\nUpdated Lightfall 3.9.2023",
+    "description": "General Wish List:\nUpdated Lightfall 3.13.2023",
     "name": "blk-wishlist",
     "data": [
         {
@@ -3717,6 +3717,145 @@
                 [
                     588594999,
                     4082225868,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Decent Strand Synergy If you get it with a damage perk. Good overall PvE Pool. MW: Reload",
+            "hash": 2187717691,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    839105230
+                ],
+                [
+                    1885400500,
+                    2420895100,
+                    1087426260
+                ],
+                [
+                    2779035018,
+                    968510818
+                ],
+                [
+                    831391274,
+                    2610012052,
+                    1546637391,
+                    3523296417,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Void Rapid fire frame is ok in PvE, but PvP you'll want a precision. MW: Reload",
+            "hash": 2573900604,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1047830412,
+                    1482024992,
+                    1332244541
+                ],
+                [
+                    2420895100,
+                    3142289711
+                ],
+                [
+                    1631667848,
+                    1428297954,
+                    968510818
+                ],
+                [
+                    691659142,
+                    2679249093,
+                    3673922083,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Precisions had their day in Crucible. You're better off with a lightweight or Aggressive frame nowadays. MW: Range",
+            "hash": 811403305,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1645158859,
+                    968510818,
+                    2272927194
+                ],
+                [
+                    1015611457,
+                    365154968,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Hang on to the hatchling roll. Not many primary strand weapons in legendary slot for kinetics atm. MW: reload",
+            "hash": 811403305,
+            "name": "PvE",
+            "plugs": [
+                [
+                    831391274
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "You'll only want this for the solar synergy if you get the incandescent roll. Then make the reload as fast as possible to keep it bearable. MW: Reload",
+            "hash": 2850664015,
+            "name": "PvE",
+            "plugs": [
+                [
+                    247725512,
+                    3400784728,
+                    1168162263
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "180s never do well in PvP when compared to 140s and even 120s. They just lack too much in the range department putting them at odds with SMGs.",
+            "hash": 2850664015,
+            "name": "PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    47981717,
+                    247725512,
+                    1168162263
+                ],
+                [
+                    3038247973,
+                    2846385770,
                     3425386926
                 ]
             ],
