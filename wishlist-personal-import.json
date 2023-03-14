@@ -1,5 +1,5 @@
 {
-    "description": "My Personal Perfect Rolls\n(Updated Lightfall 3/9/23)",
+    "description": "My Personal Perfect Rolls\n(Updated Lightfall 3/13/23)",
     "name": "Personal Rolls",
     "data": [
         {
@@ -1036,6 +1036,99 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! MW: Reload",
+            "hash": 2187717691,
+            "name": "PvE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    831391274
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! MW: Reload",
+            "hash": 2573900604,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    968510818,
+                    1556840489
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! MW: Reload",
+            "hash": 811403305,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    968510818
+                ],
+                [
+                    831391274
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! MW: Range",
+            "hash": 811403305,
+            "name": "PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2272927194,
+                    1645158859
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
