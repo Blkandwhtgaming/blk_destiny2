@@ -360,6 +360,9 @@ dimwishlist:item=2852052802&perks=1482024992,2420895100,1820235745,124408337,398
 // The Immortal (Adept) - PvP (god-pvp,pvp)
 //notes: GOD ROLL ALERT! Masterwork: Range tags:god-pvp,pvp
 dimwishlist:item=3193598749&perks=3250034553,1885400500,2846385770,1015611457
+dimwishlist:item=3193598749&perks=3250034553,1885400500,2846385770,365154968
+dimwishlist:item=3193598749&perks=202670084,1885400500,2846385770,1015611457
+dimwishlist:item=3193598749&perks=202670084,1885400500,2846385770,365154968
 
 
 // The Immortal (Adept) - PvE (pve)
@@ -488,8 +491,8 @@ dimwishlist:item=4019668921&perks=839105230,1087426260,3400784728,1048183818,400
 
 // The Immortal - PvP (god-pvp,pvp)
 //notes: GOD ROLL ALERT! Masterwork: Range tags:god-pvp,pvp
-dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,1015611457
 dimwishlist:item=4039572196&perks=202670084,1885400500,2846385770,1015611457
+dimwishlist:item=4039572196&perks=202670084,1885400500,2846385770,365154968
 
 
 // The Immortal - PvE (pve)
