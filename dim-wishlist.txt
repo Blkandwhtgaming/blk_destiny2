@@ -3776,10 +3776,12 @@ dimwishlist:item=3183283212&perks=3032599245,3300816228
 
 // The Immortal (Adept) - PvP (pvp,god-pvp)
 //notes: Best Stats for Agg. frame SMG in kinetic slot. MW: Range tags:pvp,god-pvp
-dimwishlist:item=3193598749&perks=1885400500,2846385770,1015611457
-dimwishlist:item=3193598749&perks=1885400500,2846385770,1890422124
-dimwishlist:item=3193598749&perks=1885400500,1359896290,1015611457
-dimwishlist:item=3193598749&perks=1885400500,1359896290,1890422124
+dimwishlist:item=3193598749&perks=2846385770,1015611457
+dimwishlist:item=3193598749&perks=2846385770,1890422124
+dimwishlist:item=3193598749&perks=2846385770,365154968
+dimwishlist:item=3193598749&perks=1359896290,1015611457
+dimwishlist:item=3193598749&perks=1359896290,1890422124
+dimwishlist:item=3193598749&perks=1359896290,365154968
 
 
 // Aisha's Embrace (Adept) - PvE (pve)
@@ -4363,10 +4365,12 @@ dimwishlist:item=4019668921&perks=1482024992,106909392,1168162263,4293542123
 
 // The Immortal - PvP (pvp,god-pvp)
 //notes: Best Stats for Agg. frame SMG in kinetic slot. MW: Range tags:pvp,god-pvp
-dimwishlist:item=4039572196&perks=1885400500,2846385770,1015611457
-dimwishlist:item=4039572196&perks=1885400500,2846385770,1890422124
-dimwishlist:item=4039572196&perks=1885400500,1359896290,1015611457
-dimwishlist:item=4039572196&perks=1885400500,1359896290,1890422124
+dimwishlist:item=4039572196&perks=2846385770,1015611457
+dimwishlist:item=4039572196&perks=2846385770,1890422124
+dimwishlist:item=4039572196&perks=2846385770,365154968
+dimwishlist:item=4039572196&perks=1359896290,1015611457
+dimwishlist:item=4039572196&perks=1359896290,1890422124
+dimwishlist:item=4039572196&perks=1359896290,365154968
 
 
 // Seventh Seraph Carbine - PvE (pve)
