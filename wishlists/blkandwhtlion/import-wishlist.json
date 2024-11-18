@@ -1,6 +1,6 @@
 {
-    "description": "My Personal Perfect Rolls\n(Updated Lightfall 3/13/23)",
-    "name": "Personal Rolls",
+    "description": "Blkandwhtlion's Personal Wishlist\nUpdated Final Shape: Act II Revenant\n11.18.2024 (MM.DD.YYYY)",
+    "name": "Personal Wishlist",
     "data": [
         {
             "description": "PERSONAL ROLL ALERT! Longrange perfect variant.",
@@ -473,33 +473,6 @@
             ]
         },
         {
-            "description": "GOD ROLL ALERT! Keep this. MW: Stability or Range",
-            "hash": 1999697514,
-            "name": "PvP Perfect",
-            "plugs": [
-                [
-                    839105230,
-                    3661387068
-                ],
-                [
-                    689005463,
-                    3868766766
-                ],
-                [
-                    588594999
-                ],
-                [
-                    11551321
-                ],
-                [
-                    3989629871
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "GOD ROLL ALERT! MW: Range",
             "hash": 108221785,
             "name": "PvP Perfect",
@@ -523,34 +496,6 @@
             "tags": [
                 "PVP",
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "GOD ROLL ALERT! Check against other PvE arc fusions. This thing is for tough add clear like Raids, etc.",
-            "hash": 1999697514,
-            "name": "PvE",
-            "plugs": [
-                [
-                    839105230,
-                    3661387068,
-                    1392496348
-                ],
-                [
-                    689005463
-                ],
-                [
-                    1820235745
-                ],
-                [
-                    2652708987,
-                    1546637391
-                ],
-                [
-                    3989629871
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -880,50 +825,6 @@
             ]
         },
         {
-            "description": "GOD ROLL ALERT! MW: Range",
-            "hash": 213264394,
-            "name": "PvP",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    1195158366
-                ],
-                [
-                    2846385770
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "GOD ROLL ALERT! MW: Range",
-            "hash": 927835311,
-            "name": "PvP",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    1195158366
-                ],
-                [
-                    2846385770
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "GOD ROLL ALERT! Masterwork: Range",
             "hash": 4039572196,
             "name": "PvP",
@@ -1043,28 +944,6 @@
         },
         {
             "description": "GOD ROLL ALERT! MW: Reload",
-            "hash": 2187717691,
-            "name": "PvE",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    2420895100
-                ],
-                [
-                    2779035018
-                ],
-                [
-                    831391274
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "GOD ROLL ALERT! MW: Reload",
             "hash": 2573900604,
             "name": "PvE",
             "plugs": [
@@ -1154,6 +1033,80 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT!\nBlkandwhtlion's Personal God Roll. Hope you enjoy!",
+            "hash": 2598420927,
+            "name": "Personal PvE",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    3404929162
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT!\nBlkandwhtlion's Personal God Roll. Damage rotation for DPS phases.",
+            "hash": 2599338625,
+            "name": "Blkandwhtlion PvE",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3987942396
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT!\nBlkandwhtlion's personal God Roll. PvP use in comp and even trials.",
+            "hash": 2199554524,
+            "name": "Blkandwhtlion's Personal Roll",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553,
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    2319119708
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]

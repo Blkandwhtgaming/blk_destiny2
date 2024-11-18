@@ -1,15 +1,11 @@
-title:Blk's Personal Rolls
-description:My Personal Perfect Rolls
-(Updated Lightfall 3/13/23)
+title:Personal Wishlist
+description:Blkandwhtlion's Personal Wishlist
+Updated Final Shape: Act II Revenant
+11.18.2024 (MM.DD.YYYY)
 
 // Riiswalker - PvP Perfect (pvp,god-pvp)
 //notes: GOD ROLL ALERT! MW: Range tags:pvp,god-pvp
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007,3989629871
-
-
-// Buzzard - PvP (pvp)
-//notes: GOD ROLL ALERT! MW: Range tags:pvp
-dimwishlist:item=213264394&perks=3250034553,1885400500,1195158366,2846385770
 
 
 // The Title - PvP Roll (pvp)
@@ -73,11 +69,6 @@ dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,3425386926
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,4104185692
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,11612903
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,4082225868
-
-
-// Buzzard (Adept) - PvP (pvp)
-//notes: GOD ROLL ALERT! MW: Range tags:pvp
-dimwishlist:item=927835311&perks=3250034553,1885400500,1195158366,2846385770
 
 
 // Yesteryear - PvP (pvp)
@@ -266,27 +257,12 @@ dimwishlist:item=1856262127&perks=1482024992,3230963543,3400784728,124408337,138
 dimwishlist:item=1856262127&perks=1482024992,679225683,3400784728,124408337,1380061575
 
 
-// The Wizened Rebuke - PvP Perfect (pvp)
-//notes: GOD ROLL ALERT! Keep this. MW: Stability or Range tags:pvp
-dimwishlist:item=1999697514&perks=839105230,689005463,588594999,11551321,3989629871
-dimwishlist:item=1999697514&perks=839105230,3868766766,588594999,11551321,3989629871
-dimwishlist:item=1999697514&perks=3661387068,689005463,588594999,11551321,3989629871
-dimwishlist:item=1999697514&perks=3661387068,3868766766,588594999,11551321,3989629871
-
-
-// The Wizened Rebuke - PvE (pve)
-//notes: GOD ROLL ALERT! Check against other PvE arc fusions. This thing is for tough add clear like Raids, etc. tags:pve
-dimwishlist:item=1999697514&perks=839105230,689005463,1820235745,2652708987,3989629871
-dimwishlist:item=1999697514&perks=839105230,689005463,1820235745,1546637391,3989629871
-dimwishlist:item=1999697514&perks=3661387068,689005463,1820235745,2652708987,3989629871
-dimwishlist:item=1999697514&perks=3661387068,689005463,1820235745,1546637391,3989629871
-dimwishlist:item=1999697514&perks=1392496348,689005463,1820235745,2652708987,3989629871
-dimwishlist:item=1999697514&perks=1392496348,689005463,1820235745,1546637391,3989629871
-
-
-// Circular Logic - PvE (pve)
-//notes: GOD ROLL ALERT! MW: Reload tags:pve
-dimwishlist:item=2187717691&perks=839105230,2420895100,2779035018,831391274
+// Bygones - Blkandwhtlion's Personal Roll (pvp)
+//notes: GOD ROLL ALERT!
+Blkandwhtlion's personal God Roll. PvP use in comp and even trials. tags:pvp
+dimwishlist:item=2199554524&perks=1482024992,1885400500,2387244414,2319119708
+dimwishlist:item=2199554524&perks=3250034553,1885400500,2387244414,2319119708
+dimwishlist:item=2199554524&perks=839105230,1885400500,2387244414,2319119708
 
 
 // Roar of the Bear - PvE (god-pve,pve)
@@ -324,6 +300,19 @@ dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,4293542123
 //notes: GOD ROLL ALERT! Good start for PvP precision bow. MW: Draw Time tags:pvp
 dimwishlist:item=2591241074&perks=2801223209,16392701,588594999,3365897133
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,3365897133
+
+
+// Chroma Rush - Personal PvE (god-pve,pve)
+//notes: GOD ROLL ALERT!
+Blkandwhtlion's Personal God Roll. Hope you enjoy! tags:god-pve,pve
+dimwishlist:item=2598420927&perks=3250034553,3230963543,1820235745,3891536761,3404929162
+dimwishlist:item=2598420927&perks=1482024992,3230963543,1820235745,3891536761,3404929162
+
+
+// Bitter/Sweet - Blkandwhtlion PvE (pve,god-pve)
+//notes: GOD ROLL ALERT!
+Blkandwhtlion's Personal God Roll. Damage rotation for DPS phases. tags:pve,god-pve
+dimwishlist:item=2599338625&perks=981914802,3301904089,3987942396,3078487919
 
 
 // Pure Poetry - PvP (pvp)
