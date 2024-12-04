@@ -1,5 +1,5 @@
 {
-    "description": "Blkandwhtlion's Personal Wishlist\nUpdated Final Shape: Act II Revenant\n11.18.2024 (MM.DD.YYYY)",
+    "description": "Blkandwhtlion's Personal Wishlist\nUpdated Final Shape: Act II Revenant\n12.02.2024 (MM.DD.YYYY)",
     "name": "Personal Wishlist",
     "data": [
         {
@@ -1107,6 +1107,71 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL Personal!",
+            "hash": 2598420927,
+            "name": "PvP chaser",
+            "plugs": [
+                [
+                    2450788523,
+                    1359896290
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL Alert: Personal traits",
+            "hash": 480368036,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1421772400
+                ],
+                [
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT! Personal desired traits",
+            "hash": 3753063346,
+            "name": "PvP Chase",
+            "plugs": [
+                [
+                    2579169598
+                ],
+                [
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "GOD ROLL ALERT",
+            "hash": 3423493037,
+            "name": "PvE Chase",
+            "plugs": [
+                [
+                    1955165503
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
