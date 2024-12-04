@@ -1,22 +1,7 @@
 title:blk-wishlist
-description:General Wish List:
-Updated Lightfall 3.13.2023
-
-// The Inquisitor (Adept) - pvp option (pvp)
-//notes: PvP roll options. Pick your favorites tags:pvp
-dimwishlist:item=2307365&perks=1428297954,47981717
-dimwishlist:item=2307365&perks=2946784966,47981717
-
-
-// The Inquisitor (Adept) - Pve boss dps option (pve)
-//notes: #Boss dps option.  tags:pve
-dimwishlist:item=2307365&perks=791862061,1354429876
-
-
-// The Inquisitor (Adept) (pve,pvp)
-//notes: #NadeNation tags:pve,pvp
-dimwishlist:item=2307365&perks=3523296417,11612903
-
+description:Blk's Public Recommendations
+Updated Final Shape: Act II Revenant
+11.18.2024 (MM.DD.YYY)
 
 // Long Arm - PvE (pve)
 //notes: Better scouts out there but it is a fun space cowboy fantasy. tags:pve
@@ -35,11 +20,6 @@ dimwishlist:item=8293111&perks=1866048759,2213355989,2437618208
 dimwishlist:item=8293111&perks=1645158859,47981717,2437618208
 dimwishlist:item=8293111&perks=1645158859,3038247973,2437618208
 dimwishlist:item=8293111&perks=1645158859,2213355989,2437618208
-
-
-// The Militia's Birthright - PvE (pve)
-//notes: Blinding autoloading is the play here like so many before it. tags:pve
-dimwishlist:item=40394833&perks=3032599245,3300816228
 
 
 // Horror's Least - PvP (pvp)
@@ -328,132 +308,12 @@ dimwishlist:item=435216110&perks=2387244414,1359896290,1281216113
 dimwishlist:item=435216110&perks=2387244414,1359896290,744217850
 
 
-// Gunnora's Axe - PvP New top dog (pvp)
-//notes: Handling beats out FILO, so go for range and your choice for a nice pvp slugger. It also takes top spot over sojurner's tale finally, so worth picking up. Iron reach can over cap your range so only use that perk if you got no range barrel/rounds tags:pvp
-dimwishlist:item=487361141&perks=1482024992,3142289711,588594999,957782887,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,588594999,957782887,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,588594999,47981717,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,588594999,47981717,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,588594999,591790007,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,588594999,591790007,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,3436462433,957782887,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,3436462433,957782887,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,3436462433,47981717,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,3436462433,47981717,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,3436462433,591790007,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,3436462433,591790007,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,4071163871,957782887,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,4071163871,957782887,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,4071163871,47981717,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,4071163871,47981717,3989629871
-dimwishlist:item=487361141&perks=1482024992,3142289711,4071163871,591790007,4008116374
-dimwishlist:item=487361141&perks=1482024992,3142289711,4071163871,591790007,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,957782887,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,957782887,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,47981717,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,47981717,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,591790007,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,591790007,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,3436462433,957782887,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,3436462433,957782887,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,3436462433,47981717,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,3436462433,47981717,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,3436462433,591790007,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,3436462433,591790007,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,957782887,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,957782887,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,47981717,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,47981717,3989629871
-dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,591790007,4008116374
-dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,591790007,3989629871
-
-
-// Avalanche (pve)
-//notes: Replace your old one. Mostly PvE focused gun here. Big note is the new incandesant which is always fantastic with solar builds. tags:pve
-dimwishlist:item=495940989&perks=1820235745,365154968,4264904777
-dimwishlist:item=495940989&perks=1820235745,365154968,4008116374
-dimwishlist:item=495940989&perks=1820235745,4293542123,4264904777
-dimwishlist:item=495940989&perks=1820235745,4293542123,4008116374
-dimwishlist:item=495940989&perks=1820235745,1546637391,4264904777
-dimwishlist:item=495940989&perks=1820235745,1546637391,4008116374
-dimwishlist:item=495940989&perks=3300816228,365154968,4264904777
-dimwishlist:item=495940989&perks=3300816228,365154968,4008116374
-dimwishlist:item=495940989&perks=3300816228,4293542123,4264904777
-dimwishlist:item=495940989&perks=3300816228,4293542123,4008116374
-dimwishlist:item=495940989&perks=3300816228,1546637391,4264904777
-dimwishlist:item=495940989&perks=3300816228,1546637391,4008116374
-dimwishlist:item=495940989&perks=2010801679,365154968,4264904777
-dimwishlist:item=495940989&perks=2010801679,365154968,4008116374
-dimwishlist:item=495940989&perks=2010801679,4293542123,4264904777
-dimwishlist:item=495940989&perks=2010801679,4293542123,4008116374
-dimwishlist:item=495940989&perks=2010801679,1546637391,4264904777
-dimwishlist:item=495940989&perks=2010801679,1546637391,4008116374
-
-
-// Avalanche - PvP (pvp)
-//notes: Decent roll for a LMG in pvp, but going to be tough to control. tags:pvp
-dimwishlist:item=495940989&perks=839105230,1885400500,1359896290,1546637391,4008116374
-dimwishlist:item=495940989&perks=839105230,1885400500,1359896290,1890422124,4008116374
-dimwishlist:item=495940989&perks=839105230,1885400500,3436462433,1546637391,4008116374
-dimwishlist:item=495940989&perks=839105230,1885400500,3436462433,1890422124,4008116374
-dimwishlist:item=495940989&perks=3250034553,1885400500,1359896290,1546637391,4008116374
-dimwishlist:item=495940989&perks=3250034553,1885400500,1359896290,1890422124,4008116374
-dimwishlist:item=495940989&perks=3250034553,1885400500,3436462433,1546637391,4008116374
-dimwishlist:item=495940989&perks=3250034553,1885400500,3436462433,1890422124,4008116374
-dimwishlist:item=495940989&perks=3661387068,1885400500,1359896290,1546637391,4008116374
-dimwishlist:item=495940989&perks=3661387068,1885400500,1359896290,1890422124,4008116374
-dimwishlist:item=495940989&perks=3661387068,1885400500,3436462433,1546637391,4008116374
-dimwishlist:item=495940989&perks=3661387068,1885400500,3436462433,1890422124,4008116374
-
-
-// Dark Decider - PvE (pve)
-//notes: Very similar in feel to the Krait, but now an Energy weapon. For PvE you'll really only be looking for subsistence in the third column with volt shot. The extra damage is great with Arc 3.0. tags:pve
-dimwishlist:item=540880995&perks=1482024992,1087426260,1820235745,2173046394
-dimwishlist:item=540880995&perks=1482024992,2420895100,1820235745,2173046394
-dimwishlist:item=540880995&perks=1482024992,3230963543,1820235745,2173046394
-dimwishlist:item=540880995&perks=3250034553,1087426260,1820235745,2173046394
-dimwishlist:item=540880995&perks=3250034553,2420895100,1820235745,2173046394
-dimwishlist:item=540880995&perks=3250034553,3230963543,1820235745,2173046394
-
-
-// Dark Decider - PvP (pvp)
-//notes: Being rapid fire you really need to keep your shots tight. Stability to help with that but first and foremost range. Masterwork range. tags:pvp
-dimwishlist:item=540880995&perks=3250034553,3142289711,11551321,2846385770
-dimwishlist:item=540880995&perks=3250034553,3142289711,11551321,2610012052
-dimwishlist:item=540880995&perks=3250034553,3142289711,11551321,2173046394
-dimwishlist:item=540880995&perks=1482024992,3142289711,11551321,2846385770
-dimwishlist:item=540880995&perks=1482024992,3142289711,11551321,2610012052
-dimwishlist:item=540880995&perks=1482024992,3142289711,11551321,2173046394
-dimwishlist:item=540880995&perks=1467527085,3142289711,11551321,2846385770
-dimwishlist:item=540880995&perks=1467527085,3142289711,11551321,2610012052
-dimwishlist:item=540880995&perks=1467527085,3142289711,11551321,2173046394
-
-
-// Wendigo GL3 (Adept) - PvP (pvp,god-pvp)
-//notes: Flex this thing. Good fast grenade launcher for PvP tags:pvp,god-pvp
-dimwishlist:item=555148853&perks=981914802,2822142346,951095735,2888557110
-dimwishlist:item=555148853&perks=981914802,2822142346,951095735,4104185692
-dimwishlist:item=555148853&perks=981914802,3373736292,951095735,2888557110
-dimwishlist:item=555148853&perks=981914802,3373736292,951095735,4104185692
-dimwishlist:item=555148853&perks=981914802,1380253176,951095735,2888557110
-dimwishlist:item=555148853&perks=981914802,1380253176,951095735,4104185692
-dimwishlist:item=555148853&perks=1441682018,2822142346,951095735,2888557110
-dimwishlist:item=555148853&perks=1441682018,2822142346,951095735,4104185692
-dimwishlist:item=555148853&perks=1441682018,3373736292,951095735,2888557110
-dimwishlist:item=555148853&perks=1441682018,3373736292,951095735,4104185692
-dimwishlist:item=555148853&perks=1441682018,1380253176,951095735,2888557110
-dimwishlist:item=555148853&perks=1441682018,1380253176,951095735,4104185692
-dimwishlist:item=555148853&perks=3525010810,2822142346,951095735,2888557110
-dimwishlist:item=555148853&perks=3525010810,2822142346,951095735,4104185692
-dimwishlist:item=555148853&perks=3525010810,3373736292,951095735,2888557110
-dimwishlist:item=555148853&perks=3525010810,3373736292,951095735,4104185692
-dimwishlist:item=555148853&perks=3525010810,1380253176,951095735,2888557110
-dimwishlist:item=555148853&perks=3525010810,1380253176,951095735,4104185692
-
-
-// Wendigo GL3 (Adept) - PvE (pve)
-//notes: Nice to have PvE I guess. Many better heavies tags:pve
-dimwishlist:item=555148853&perks=3032599245,3300816228
+// Tinasha's Mastery - PvE (pve)
+//notes: Rocket Sidearms are currently meta and very strong. Having a chill clip or frenzy easy damage boost makes it even better. For the third column I'd really like air trigger for more ammo reserves. Impulse does feel nice however for more hit-scan like feel. tags:pve
+dimwishlist:item=480368036&perks=1421772400,4104185692
+dimwishlist:item=480368036&perks=1421772400,2978966579
+dimwishlist:item=480368036&perks=951095735,4104185692
+dimwishlist:item=480368036&perks=951095735,2978966579
 
 
 // D.F.A. - PvE (pve)
@@ -528,42 +388,6 @@ dimwishlist:item=676270382&perks=3250034553,3142289711,588594999,957782887,51570
 //notes: Fun arc sniper for boss DPS tags:pve
 dimwishlist:item=676270382&perks=1482024992,2420895100,3400784728,1771339417
 dimwishlist:item=676270382&perks=1482024992,1087426260,3400784728,1771339417
-
-
-// Whistler's Whim (Adept) - PvP (pvp)
-//notes: This bow has kill clip. Nuff said. Pair that with rapid hit and you will be a monster. Chaining kills. Drawtime low as you can, masterwork and all tags:pvp
-dimwishlist:item=711889599&perks=1015611457
-
-
-// Hung Jury SR4 - PvE ()
-//notes: Its back to grind again, only this time replaces your old one because passive perks... Have fun!
-dimwishlist:item=772231794&perks=247725512,3824105627
-dimwishlist:item=772231794&perks=247725512,3038247973
-dimwishlist:item=772231794&perks=247725512,4104185692
-dimwishlist:item=772231794&perks=1820235745,3824105627
-dimwishlist:item=772231794&perks=1820235745,3038247973
-dimwishlist:item=772231794&perks=1820235745,4104185692
-dimwishlist:item=772231794&perks=3700496672,3824105627
-dimwishlist:item=772231794&perks=3700496672,3038247973
-dimwishlist:item=772231794&perks=3700496672,4104185692
-
-
-// Synchronic Roulette - PvP (pvp)
-//notes: Precisions had their day in Crucible. You're better off with a lightweight or Aggressive frame nowadays. MW: Range tags:pvp
-dimwishlist:item=811403305&perks=1645158859,1015611457
-dimwishlist:item=811403305&perks=1645158859,365154968
-dimwishlist:item=811403305&perks=1645158859,3511092054
-dimwishlist:item=811403305&perks=968510818,1015611457
-dimwishlist:item=811403305&perks=968510818,365154968
-dimwishlist:item=811403305&perks=968510818,3511092054
-dimwishlist:item=811403305&perks=2272927194,1015611457
-dimwishlist:item=811403305&perks=2272927194,365154968
-dimwishlist:item=811403305&perks=2272927194,3511092054
-
-
-// Synchronic Roulette - PvE (pve)
-//notes: Hang on to the hatchling roll. Not many primary strand weapons in legendary slot for kinetics atm. MW: reload tags:pve
-dimwishlist:item=811403305&perks=831391274
 
 
 // Rose - PvP (pvp)
@@ -642,11 +466,6 @@ dimwishlist:item=882778888&perks=3250034553,3142289711,1428297954,3038247973
 dimwishlist:item=882778888&perks=3250034553,3142289711,1428297954,2846385770
 
 
-// Mindbender's Ambition (Adept) - pve (pve)
-//notes: Melee build. Go from here! tags:pve
-dimwishlist:item=912150785&perks=691659142,2679249093
-
-
 // Burden of Guilt - PvP (pvp)
 //notes: Trials Fusion for PvP. tags:pvp
 dimwishlist:item=933455006&perks=3250034553,689005463,1428297954,2213355989
@@ -720,12 +539,6 @@ dimwishlist:item=1019000888&perks=1482024992,106909392,1428297954,3038247973,160
 dimwishlist:item=1019000888&perks=1482024992,106909392,247725512,3038247973,1607056502
 dimwishlist:item=1019000888&perks=1482024992,3230963543,1428297954,3038247973,1607056502
 dimwishlist:item=1019000888&perks=1482024992,3230963543,247725512,3038247973,1607056502
-
-
-// Mindbender's Ambition - PvE (pve)
-//notes: PvE Melee dream shotty here. Finally a pugilist option with one-two punch. tags:pve
-dimwishlist:item=1094005544&perks=691659142,2679249093
-dimwishlist:item=1094005544&perks=691659142,4082225868
 
 
 // Servant Leader (pvp)
@@ -1237,14 +1050,6 @@ dimwishlist:item=1387987271&perks=3400784728,1771339417
 dimwishlist:item=1387987271&perks=957782887,47981717
 
 
-// Allied Demand (pvp)
-//notes: Iron reach rangefinder is what you're really looking for. tags:pvp
-dimwishlist:item=1532276803&perks=2846385770,591790007
-dimwishlist:item=1532276803&perks=2846385770,699525795
-dimwishlist:item=1532276803&perks=247725512,591790007
-dimwishlist:item=1532276803&perks=247725512,699525795
-
-
 // Seventh Seraph Officer Revolver - PvE (pve)
 //notes: Replace your old one now that we have the passive. tags:pve
 dimwishlist:item=1555959830&perks=3250034553,1140096971,1354429876,1546637391
@@ -1283,11 +1088,6 @@ dimwishlist:item=1555959830&perks=1482024992,3142289711,1354429876,3201496230
 dimwishlist:item=1555959830&perks=1482024992,3142289711,1523832109,1546637391
 dimwishlist:item=1555959830&perks=1482024992,3142289711,1523832109,2213355989
 dimwishlist:item=1555959830&perks=1482024992,3142289711,1523832109,3201496230
-
-
-// Whistler's Whim - PvP (pvp)
-//notes: This bow has kill clip. Nuff said. Pair that with rapid hit and you will be a monster. Chaining kills. Drawtime low as you can, masterwork and all tags:pvp
-dimwishlist:item=1574601402&perks=1015611457
 
 
 // Enyo-D - PvP (pvp)
@@ -1681,34 +1481,6 @@ dimwishlist:item=1994645182&perks=3920370755,2652708987
 dimwishlist:item=1994645182&perks=3920370755,617966211
 
 
-// The Wizened Rebuke - PvP (pvp)
-//notes: Great PvP Fusion to come in IB. Situational last column perk for either chaining or backup plan for well...backup plan. tags:pvp
-dimwishlist:item=1999697514&perks=839105230,1570042021,2652708987,3989629871
-dimwishlist:item=1999697514&perks=839105230,1570042021,1600092898,3989629871
-dimwishlist:item=1999697514&perks=839105230,588594999,2652708987,3989629871
-dimwishlist:item=1999697514&perks=839105230,588594999,1600092898,3989629871
-dimwishlist:item=1999697514&perks=839105230,1645158859,2652708987,3989629871
-dimwishlist:item=1999697514&perks=839105230,1645158859,1600092898,3989629871
-dimwishlist:item=1999697514&perks=3250034553,1570042021,2652708987,3989629871
-dimwishlist:item=1999697514&perks=3250034553,1570042021,1600092898,3989629871
-dimwishlist:item=1999697514&perks=3250034553,588594999,2652708987,3989629871
-dimwishlist:item=1999697514&perks=3250034553,588594999,1600092898,3989629871
-dimwishlist:item=1999697514&perks=3250034553,1645158859,2652708987,3989629871
-dimwishlist:item=1999697514&perks=3250034553,1645158859,1600092898,3989629871
-dimwishlist:item=1999697514&perks=1392496348,1570042021,2652708987,3989629871
-dimwishlist:item=1999697514&perks=1392496348,1570042021,1600092898,3989629871
-dimwishlist:item=1999697514&perks=1392496348,588594999,2652708987,3989629871
-dimwishlist:item=1999697514&perks=1392496348,588594999,1600092898,3989629871
-dimwishlist:item=1999697514&perks=1392496348,1645158859,2652708987,3989629871
-dimwishlist:item=1999697514&perks=1392496348,1645158859,1600092898,3989629871
-dimwishlist:item=1999697514&perks=1482024992,1570042021,2652708987,3989629871
-dimwishlist:item=1999697514&perks=1482024992,1570042021,1600092898,3989629871
-dimwishlist:item=1999697514&perks=1482024992,588594999,2652708987,3989629871
-dimwishlist:item=1999697514&perks=1482024992,588594999,1600092898,3989629871
-dimwishlist:item=1999697514&perks=1482024992,1645158859,2652708987,3989629871
-dimwishlist:item=1999697514&perks=1482024992,1645158859,1600092898,3989629871
-
-
 // Burden of Guilt (Adept) - PvP (pvp)
 //notes: Adept Version of the trials fusion. Again pvp mostly. tags:pvp
 dimwishlist:item=2002522739&perks=839105230,689005463,1428297954,2213355989
@@ -2033,17 +1805,6 @@ dimwishlist:item=2097055732&perks=1409206216,2748801589
 dimwishlist:item=2097055732&perks=1409206216,438098033
 
 
-// The Inquisitor - pvp (pvp)
-//notes: PvP last col perks. Farm for barrel and mag/ammo. Range is king. tags:pvp
-dimwishlist:item=2185327324&perks=1428297954,47981717
-dimwishlist:item=2185327324&perks=2946784966,47981717
-
-
-// The Inquisitor - pve boss option (pve)
-//notes: #Boss roll tags:pve
-dimwishlist:item=2185327324&perks=791862061,1354429876
-
-
 // Circular Logic - PvE (pve)
 //notes: Decent Strand Synergy If you get it with a damage perk. Good overall PvE Pool. MW: Reload tags:pve
 dimwishlist:item=2187717691&perks=3250034553,1885400500,2779035018,831391274
@@ -2136,6 +1897,17 @@ dimwishlist:item=2187717691&perks=839105230,1087426260,968510818,2610012052
 dimwishlist:item=2187717691&perks=839105230,1087426260,968510818,1546637391
 dimwishlist:item=2187717691&perks=839105230,1087426260,968510818,3523296417
 dimwishlist:item=2187717691&perks=839105230,1087426260,968510818,365154968
+
+
+// Bygones - PvP (pvp)
+//notes: Pretty meta from the past Act II trails in revenant. Lots of use and the high ground perk is to blame. Take your pick of supporting 3rd column but I've always like rangefinder or zen moment. tags:pvp
+dimwishlist:item=2199554524&perks=2319119708
+
+
+// Bygones - PvE (pve)
+//notes: Decent option with a damage perk try for a supporting pve third column perk like demolistionist (my pick) or subsistence. tags:pve
+dimwishlist:item=2199554524&perks=3891536761
+dimwishlist:item=2199554524&perks=4104185692
 
 
 // Roar of the Bear - PvE (pve,god-pve)
@@ -2504,11 +2276,6 @@ dimwishlist:item=2349907931&perks=1631667848,691659142,3988215619
 dimwishlist:item=2349907931&perks=1631667848,691659142,744217850
 
 
-// The Militia's Birthright (Adept) - pve (pve)
-//notes: Blinding autoloading farmer. Go for your personal choices in the other columns. tags:pve
-dimwishlist:item=2378101424&perks=3032599245,3300816228
-
-
 // Forgiveness (Adept) - PvP (pvp)
 //notes: Adept PvP version. Keeper for sure. The recoil direction is so good on this thing. If it only had some damage booster to make it broken.  tags:pvp
 dimwishlist:item=2405619467&perks=3250034553,1885400500,2450788523,2458213969,2988596335
@@ -2678,34 +2445,6 @@ dimwishlist:item=2405619467&perks=202670084,1885400500,3523296417,11612903,29885
 dimwishlist:item=2405619467&perks=202670084,1885400500,3523296417,11612903,4091460919
 
 
-// The Hero's Burden - PvP (pvp)
-//notes: This thing is one zoom away from being top dog on paper. Kill clip and iron reach are competing which is a shame but it'd be OP if they weren't. Either roll is fantastic. More Range is better. tags:pvp
-dimwishlist:item=2488587246&perks=3250034553,1561002382,2946784966,1015611457
-dimwishlist:item=2488587246&perks=3250034553,1561002382,2946784966,591790007
-dimwishlist:item=2488587246&perks=3250034553,1561002382,2387244414,1015611457
-dimwishlist:item=2488587246&perks=3250034553,1561002382,2387244414,591790007
-dimwishlist:item=2488587246&perks=3250034553,1561002382,2451262963,1015611457
-dimwishlist:item=2488587246&perks=3250034553,1561002382,2451262963,591790007
-dimwishlist:item=2488587246&perks=3250034553,3142289711,2946784966,1015611457
-dimwishlist:item=2488587246&perks=3250034553,3142289711,2946784966,591790007
-dimwishlist:item=2488587246&perks=3250034553,3142289711,2387244414,1015611457
-dimwishlist:item=2488587246&perks=3250034553,3142289711,2387244414,591790007
-dimwishlist:item=2488587246&perks=3250034553,3142289711,2451262963,1015611457
-dimwishlist:item=2488587246&perks=3250034553,3142289711,2451262963,591790007
-dimwishlist:item=2488587246&perks=1467527085,1561002382,2946784966,1015611457
-dimwishlist:item=2488587246&perks=1467527085,1561002382,2946784966,591790007
-dimwishlist:item=2488587246&perks=1467527085,1561002382,2387244414,1015611457
-dimwishlist:item=2488587246&perks=1467527085,1561002382,2387244414,591790007
-dimwishlist:item=2488587246&perks=1467527085,1561002382,2451262963,1015611457
-dimwishlist:item=2488587246&perks=1467527085,1561002382,2451262963,591790007
-dimwishlist:item=2488587246&perks=1467527085,3142289711,2946784966,1015611457
-dimwishlist:item=2488587246&perks=1467527085,3142289711,2946784966,591790007
-dimwishlist:item=2488587246&perks=1467527085,3142289711,2387244414,1015611457
-dimwishlist:item=2488587246&perks=1467527085,3142289711,2387244414,591790007
-dimwishlist:item=2488587246&perks=1467527085,3142289711,2451262963,1015611457
-dimwishlist:item=2488587246&perks=1467527085,3142289711,2451262963,591790007
-
-
 // Lunulata-4b - PvE (pve)
 //notes: Roll for PvE. Either draw time craziness or synergy with Stasis. Headstone on bows is great. tags:pve
 dimwishlist:item=2513965917&perks=2801223209,16392701,2866798147,2652708987
@@ -2821,6 +2560,27 @@ dimwishlist:item=2591241074&perks=4067834857,16392701,201365942,2848615171
 //notes: Great for Champ stuns and decent at add clear. #Adds #Boss #Champions tags:pve
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,1546637391
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,3365897133
+
+
+// Chroma Rush - PvE Workhorse (pve)
+//notes: Personally I think rapid fire frames are the best in PvE when you need an auto rifle. Especially on kinetic tremors, since you need 12 rounds to proc it, and rapid fire frames get there faster. My season of the splicer was a feeding frenzy/rampage and it has 7k kills on it.  tags:pve
+dimwishlist:item=2598420927&perks=3230963543,1820235745,3425386926
+dimwishlist:item=2598420927&perks=3230963543,1820235745,3891536761
+dimwishlist:item=2598420927&perks=3230963543,1820235745,4104185692
+dimwishlist:item=2598420927&perks=3230963543,1820235745,288411554
+dimwishlist:item=2598420927&perks=3230963543,1820235745,1549370717
+dimwishlist:item=2598420927&perks=3230963543,1820235745,3007133316
+dimwishlist:item=2598420927&perks=3230963543,4245865861,3425386926
+dimwishlist:item=2598420927&perks=3230963543,4245865861,3891536761
+dimwishlist:item=2598420927&perks=3230963543,4245865861,4104185692
+dimwishlist:item=2598420927&perks=3230963543,4245865861,288411554
+dimwishlist:item=2598420927&perks=3230963543,4245865861,1549370717
+dimwishlist:item=2598420927&perks=3230963543,4245865861,3007133316
+
+
+// Liturgy - PvE (pve)
+//notes: Frost armor is great for tanking and can stack with woven mail. Crystals are easier for some classes than others. Chill clip is great crowd control no matter what you are doing content wise. tags:pve
+dimwishlist:item=2599338624&perks=1955165503,2978966579
 
 
 // Aisha's Embrace - PvE (pve)
@@ -2989,39 +2749,6 @@ dimwishlist:item=2715240478&perks=2869569095,2652708987,4091460919
 //notes: Good PvP roll. Hangon to for God Alert tags:pvp
 dimwishlist:item=2715240478&perks=1428297954,2652708987
 dimwishlist:item=2715240478&perks=1570042021,2652708987
-
-
-// Unwavering Duty (Adept) - PvE (pve)
-//notes: Get the biggest mag with subsistence killing tally you can find tags:pve
-dimwishlist:item=2759251821&perks=1820235745,557221067
-
-
-// Unwavering Duty (Adept) - PvP (pvp)
-//notes: Nice adept LMG for pvp if you use those tags:pvp
-dimwishlist:item=2759251821&perks=839105230,3177308360,1359896290,1890422124
-dimwishlist:item=2759251821&perks=3661387068,3177308360,1359896290,1890422124
-dimwishlist:item=2759251821&perks=1392496348,3177308360,1359896290,1890422124
-dimwishlist:item=2759251821&perks=1482024992,3177308360,1359896290,1890422124
-
-
-// Stay Frosty - PvP (pvp)
-//notes: tags:pvp
-dimwishlist:item=2812100428&perks=3250034553,1561002382,2450788523,1015611457,4264904777
-dimwishlist:item=2812100428&perks=3250034553,1561002382,2450788523,1015611457,2839173408
-dimwishlist:item=2812100428&perks=3250034553,1561002382,2450788523,3047969693,4264904777
-dimwishlist:item=2812100428&perks=3250034553,1561002382,2450788523,3047969693,2839173408
-dimwishlist:item=2812100428&perks=3250034553,1885400500,2450788523,1015611457,4264904777
-dimwishlist:item=2812100428&perks=3250034553,1885400500,2450788523,1015611457,2839173408
-dimwishlist:item=2812100428&perks=3250034553,1885400500,2450788523,3047969693,4264904777
-dimwishlist:item=2812100428&perks=3250034553,1885400500,2450788523,3047969693,2839173408
-dimwishlist:item=2812100428&perks=1482024992,1561002382,2450788523,1015611457,4264904777
-dimwishlist:item=2812100428&perks=1482024992,1561002382,2450788523,1015611457,2839173408
-dimwishlist:item=2812100428&perks=1482024992,1561002382,2450788523,3047969693,4264904777
-dimwishlist:item=2812100428&perks=1482024992,1561002382,2450788523,3047969693,2839173408
-dimwishlist:item=2812100428&perks=1482024992,1885400500,2450788523,1015611457,4264904777
-dimwishlist:item=2812100428&perks=1482024992,1885400500,2450788523,1015611457,2839173408
-dimwishlist:item=2812100428&perks=1482024992,1885400500,2450788523,3047969693,4264904777
-dimwishlist:item=2812100428&perks=1482024992,1885400500,2450788523,3047969693,2839173408
 
 
 // Fortissimo-11 - Great Slug PvP (pvp,god-pvp)
@@ -3651,22 +3378,6 @@ dimwishlist:item=3000847393&perks=1467527085,1968497646,509074078,2848615171,415
 dimwishlist:item=3000847393&perks=1467527085,1968497646,509074078,11612903,4154828211
 
 
-// Exalted Truth - PvP (pvp)
-//notes: Good 140 roll here for use. tags:pvp
-dimwishlist:item=3102421004&perks=1482024992,3142289711,2846385770,1015611457,4008116374
-dimwishlist:item=3102421004&perks=1482024992,3142289711,2846385770,3425386926,4008116374
-dimwishlist:item=3102421004&perks=1482024992,3142289711,2846385770,699525795,4008116374
-dimwishlist:item=3102421004&perks=1482024992,3142289711,1168162263,1015611457,4008116374
-dimwishlist:item=3102421004&perks=1482024992,3142289711,1168162263,3425386926,4008116374
-dimwishlist:item=3102421004&perks=1482024992,3142289711,1168162263,699525795,4008116374
-dimwishlist:item=3102421004&perks=3250034553,3142289711,2846385770,1015611457,4008116374
-dimwishlist:item=3102421004&perks=3250034553,3142289711,2846385770,3425386926,4008116374
-dimwishlist:item=3102421004&perks=3250034553,3142289711,2846385770,699525795,4008116374
-dimwishlist:item=3102421004&perks=3250034553,3142289711,1168162263,1015611457,4008116374
-dimwishlist:item=3102421004&perks=3250034553,3142289711,1168162263,3425386926,4008116374
-dimwishlist:item=3102421004&perks=3250034553,3142289711,1168162263,699525795,4008116374
-
-
 // Autumn Wind - PvP (pvp)
 //notes: If you don't have a piece of mind, this thing will be great in PvP. Perpetual motion/Moving target, IS the god roll piece of mind, but this can be better. PoM didn't have damage perks. This has them in spades. Personally Rampage is the easiest to proc. MW: Range tags:pvp
 dimwishlist:item=3110377595&perks=3250034553,3142289711,2846385770,588594999
@@ -3757,21 +3468,6 @@ dimwishlist:item=3175851496&perks=2869569095,4104185692
 dimwishlist:item=3175851496&perks=2869569095,3007133316
 dimwishlist:item=3175851496&perks=2869569095,11612903
 dimwishlist:item=3175851496&perks=2869569095,2422968039
-
-
-// Wendigo GL3 - PvP (pvp)
-//notes: Finally since memory interdict we have another similar frame and it rolls impulse for PvP fast nade shots. tags:pvp
-dimwishlist:item=3183283212&perks=3525010810,1380253176,951095735
-dimwishlist:item=3183283212&perks=3525010810,2822142346,951095735
-dimwishlist:item=3183283212&perks=3525010810,3373736292,951095735
-dimwishlist:item=3183283212&perks=981914802,1380253176,951095735
-dimwishlist:item=3183283212&perks=981914802,2822142346,951095735
-dimwishlist:item=3183283212&perks=981914802,3373736292,951095735
-
-
-// Wendigo GL3 - PvE (pve)
-//notes: I don't see myself bring this over many other heavies, but blinding auto-loading is nice to have I guess. tags:pve
-dimwishlist:item=3183283212&perks=3032599245,3300816228
 
 
 // The Immortal (Adept) - PvP (pvp,god-pvp)
@@ -4027,35 +3723,11 @@ dimwishlist:item=3568377122&perks=981914802,332133599,3096702027,4049631843
 dimwishlist:item=3568377122&perks=3523296417,3592538738
 
 
-// Glacioclasm - PvE (pve)
-//notes: Great, reacquire the dawning weapon now with passive perks added. Same thing as the old, the subsistence reservoir is nasty in PvE chain kills. Other options for damage with golden tricorn now that it was reworked to be much better. tags:pve
-dimwishlist:item=3573686365&perks=1820235745,1427256713
-dimwishlist:item=3573686365&perks=1820235745,1754714824
-dimwishlist:item=3573686365&perks=1820235745,2610012052
-
-
-// Glacioclasm - PvP (pvp)
-//notes: For PvP high impacts were always slow for me but this is probably one of the better ones with the damage perks in the last column. I'm personally hoping to get a double roll that fits a pve and pvp style tags:pvp
-dimwishlist:item=3573686365&perks=1645158859,2213355989
-dimwishlist:item=3573686365&perks=1645158859,1754714824
-dimwishlist:item=3573686365&perks=1645158859,2610012052
-dimwishlist:item=3573686365&perks=3161816588,2213355989
-dimwishlist:item=3573686365&perks=3161816588,1754714824
-dimwishlist:item=3573686365&perks=3161816588,2610012052
-
-
-// Unwavering Duty - PvE (pve)
-//notes: Killing tally subsistence is the chase for this PvE machine gun tags:pve
-dimwishlist:item=3624844116&perks=1820235745,557221067
-dimwishlist:item=3624844116&perks=1820235745,4293542123
-
-
-// Unwavering Duty - PvP (pvp)
-//notes: Pretty stable roll for PvP if you use LMGs in pvp tags:pvp
-dimwishlist:item=3624844116&perks=839105230,3177308360,1359896290,1890422124
-dimwishlist:item=3624844116&perks=4090651448,3177308360,1359896290,1890422124
-dimwishlist:item=3624844116&perks=1482024992,3177308360,1359896290,1890422124
-dimwishlist:item=3624844116&perks=1392496348,3177308360,1359896290,1890422124
+// Arcane Embrace - PvE (pve)
+//notes: If you got the trench barrel perk GG that's too good if they never fix it. If not, keep your precision instrument for DPS as this frame is the new king by a slim margin against slug frames. tags:pve
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=25606670,555281244
+dimwishlist:item=3649985571&perks=1421772400,555281244
 
 
 // Stormchaser - PvE God Tier Linear Fusion (pve,god-pve)
@@ -4256,27 +3928,6 @@ dimwishlist:item=3856705927&perks=1467527085,1431678320,47981717,3917450714
 // Wendigo GL3 (Adept) - pvp (pvp)
 //notes: Good Speed of projectile making it vest PvP grenade launcher you can get currently in the game as of lightfall. MW: Velocity tags:pvp
 dimwishlist:item=3915197957&perks=409831596,951095735
-
-
-// Exalted Truth (Adept) (pvp)
-//notes: Nice roll for PvP. Kill clip probably easier to proc in trials but your choice. tags:pvp
-dimwishlist:item=3920882229&perks=1168162263,699525795
-dimwishlist:item=3920882229&perks=1168162263,1015611457
-dimwishlist:item=3920882229&perks=1168162263,3425386926
-dimwishlist:item=3920882229&perks=2450788523,699525795
-dimwishlist:item=3920882229&perks=2450788523,1015611457
-dimwishlist:item=3920882229&perks=2450788523,3425386926
-dimwishlist:item=3920882229&perks=2846385770,699525795
-dimwishlist:item=3920882229&perks=2846385770,1015611457
-dimwishlist:item=3920882229&perks=2846385770,3425386926
-
-
-// Roar of the Bear - PvP (pvp)
-//notes: PvP focused rocket. Impulse or snapshot for fast firing rockets. cluster or even incandescent is a nice pvp touch. tags:pvp
-dimwishlist:item=4009352833&perks=951095735,1275731761
-dimwishlist:item=4009352833&perks=951095735,4293542123
-dimwishlist:item=4009352833&perks=957782887,1275731761
-dimwishlist:item=4009352833&perks=957782887,4293542123
 
 
 // Staccato-46 - PvE (pve)
@@ -4521,22 +4172,6 @@ dimwishlist:item=4070357005&perks=3661387068,2420895100,1523832109,365154968
 dimwishlist:item=4070357005&perks=3661387068,2420895100,1523832109,4104185692
 
 
-// Hung Jury SR4 (Adept) - PvE (pve)
-//notes: Nice scout useful for adept mods. tags:pve
-dimwishlist:item=4074251943&perks=247725512,3824105627
-dimwishlist:item=4074251943&perks=247725512,4104185692
-dimwishlist:item=4074251943&perks=247725512,3038247973
-dimwishlist:item=4074251943&perks=1820235745,3824105627
-dimwishlist:item=4074251943&perks=1820235745,4104185692
-dimwishlist:item=4074251943&perks=1820235745,3038247973
-dimwishlist:item=4074251943&perks=3436462433,3824105627
-dimwishlist:item=4074251943&perks=3436462433,4104185692
-dimwishlist:item=4074251943&perks=3436462433,3038247973
-dimwishlist:item=4074251943&perks=3700496672,3824105627
-dimwishlist:item=4074251943&perks=3700496672,4104185692
-dimwishlist:item=4074251943&perks=3700496672,3038247973
-
-
 // Pizzicato-22 - PvP (pvp)
 //notes: Sits on par with iron banner smg on paper. PvP focused roll here, with rangefinder being the big money to pump that range out. tags:pvp
 dimwishlist:item=4100775158&perks=3250034553,1561002382,1428297954,2846385770
@@ -4637,5 +4272,21 @@ dimwishlist:item=4114929480&perks=671806388,2213355989
 dimwishlist:item=4114929480&perks=671806388,4104185692
 dimwishlist:item=4114929480&perks=671806388,2652708987
 dimwishlist:item=4114929480&perks=671806388,4049631843
+
+
+// Avalanche - PvE (pve)
+//notes: Middle of the road for LMGs. Adaptive a good balance of stats. This is more geared towards Add clear. Especially with the origin trait requiring about 8 rapid kills to trigger. For that reason you probably want incandescent only in the fourth column. For other uses, another LMG really tags:pve
+dimwishlist:item=4220529694&perks=839105230,3230963543,1820235745,4293542123,4264904777
+dimwishlist:item=4220529694&perks=839105230,3230963543,3300816228,4293542123,4264904777
+dimwishlist:item=4220529694&perks=839105230,3230963543,3418782618,4293542123,4264904777
+dimwishlist:item=4220529694&perks=839105230,1431678320,1820235745,4293542123,4264904777
+dimwishlist:item=4220529694&perks=839105230,1431678320,3300816228,4293542123,4264904777
+dimwishlist:item=4220529694&perks=839105230,1431678320,3418782618,4293542123,4264904777
+dimwishlist:item=4220529694&perks=1482024992,3230963543,1820235745,4293542123,4264904777
+dimwishlist:item=4220529694&perks=1482024992,3230963543,3300816228,4293542123,4264904777
+dimwishlist:item=4220529694&perks=1482024992,3230963543,3418782618,4293542123,4264904777
+dimwishlist:item=4220529694&perks=1482024992,1431678320,1820235745,4293542123,4264904777
+dimwishlist:item=4220529694&perks=1482024992,1431678320,3300816228,4293542123,4264904777
+dimwishlist:item=4220529694&perks=1482024992,1431678320,3418782618,4293542123,4264904777
 
 
