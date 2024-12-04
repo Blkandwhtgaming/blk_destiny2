@@ -21,4 +21,5 @@ These lists are updated and can be safely set once to your DIM config.
 #### How do I set my wishlists in DIM?
 * go to settings in DIM
 * Click the wishlist button on the right menu
-* Enter the URL in the optional url section. It is pipe delimited, so for example, you could use this URL, which is a combo of my personal-wishlist, blk-wishlist, and the default DIM community wishlist: ```https://raw.githubusercontent.com/Blkandwhtgaming/blk_destiny2/refs/heads/main/wishlists/blkandwhtlion/personal-wishlist.txt|https://raw.githubusercontent.com/Blkandwhtgaming/blk_destiny2/main/dim-wishlist.txt|https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/choosy_voltron.txt```
+* Enter the URL(s) in the optional url section.
+** You can enter as many as you want, one per add click as of the latest DIM version
