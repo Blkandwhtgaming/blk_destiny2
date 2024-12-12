@@ -1,5 +1,5 @@
 {
-    "description": "Blkandwhtlion's Personal Wishlist\nUpdated Final Shape: Act II Revenant\n12.02.2024 (MM.DD.YYYY)",
+    "description": "Blkandwhtlion's Personal Wishlist\nUpdated Final Shape: Act II Revenant\nDawning Event\n12.12.2024 (MM.DD.YYYY)",
     "name": "personal-wishlist",
     "data": [
         {
@@ -1168,6 +1168,185 @@
                 ],
                 [
                     124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL Perks I want.",
+            "hash": 4220529694,
+            "name": "PvE",
+            "plugs": [
+                [
+                    3300816228,
+                    3418782618
+                ],
+                [
+                    4293542123,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL partial perks I want",
+            "hash": 1911078836,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1749209109
+                ],
+                [
+                    243981275,
+                    3650930298,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GOD ROLL Perks I want. will update partials",
+            "hash": 1123433952,
+            "name": "PvP",
+            "plugs": [
+                [
+                    2579169598
+                ],
+                [
+                    3047969693,
+                    460017080,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Partial God roll",
+            "hash": 1123433952,
+            "name": "PvE",
+            "plugs": [
+                [
+                    1955165503
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Partial God Roll",
+            "hash": 601948197,
+            "name": "PvE",
+            "plugs": [
+                [
+                    243981275,
+                    1749209109,
+                    1955165503
+                ],
+                [
+                    3708227201,
+                    3650930298
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Partial Roll when obtained will update more specific",
+            "hash": 1845372864,
+            "name": "Partial God Roll",
+            "plugs": [
+                [
+                    1631667848,
+                    1966281507
+                ],
+                [
+                    1782407750,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Partial roll, will update when obtained",
+            "hash": 1845978721,
+            "name": "Partial God Roll",
+            "plugs": [
+                [
+                    3300816228,
+                    3418782618
+                ],
+                [
+                    4293542123,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Will update",
+            "hash": 1183116657,
+            "name": "PvP Partial Roll",
+            "plugs": [
+                [
+                    2579169598,
+                    1645158859
+                ],
+                [
+                    1194056669,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Will update to narrow down when obtained",
+            "hash": 1183116657,
+            "name": "PvE Partial Roll",
+            "plugs": [
+                [
+                    1820235745,
+                    1421772400
+                ],
+                [
+                    1427256713,
+                    1134488199
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Will update when I get it",
+            "hash": 3483485727,
+            "name": "PvE Partial God Roll",
+            "plugs": [
+                [
+                    1523832109,
+                    3987942396
+                ],
+                [
+                    3078487919,
+                    555281244
                 ]
             ],
             "tags": [

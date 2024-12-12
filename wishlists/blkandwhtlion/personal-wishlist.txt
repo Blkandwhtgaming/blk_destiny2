@@ -1,7 +1,8 @@
 title:personal-wishlist
 description:Blkandwhtlion's Personal Wishlist
 Updated Final Shape: Act II Revenant
-12.02.2024 (MM.DD.YYYY)
+Dawning Event
+12.12.2024 (MM.DD.YYYY)
 
 // Riiswalker - PvP Perfect (pvp,god-pvp)
 //notes: GOD ROLL ALERT! MW: Range tags:pvp,god-pvp
@@ -29,6 +30,16 @@ dimwishlist:item=411397829&perks=4090651448,3142289711,4071163871,591790007
 // Tinasha's Mastery - PvE (pve)
 //notes: GOD ROLL Alert: Personal traits tags:pve
 dimwishlist:item=480368036&perks=1421772400,2978966579
+
+
+// Zephyr - PvE (pve)
+//notes: Partial God Roll tags:pve
+dimwishlist:item=601948197&perks=243981275,3708227201
+dimwishlist:item=601948197&perks=243981275,3650930298
+dimwishlist:item=601948197&perks=1749209109,3708227201
+dimwishlist:item=601948197&perks=1749209109,3650930298
+dimwishlist:item=601948197&perks=1955165503,3708227201
+dimwishlist:item=601948197&perks=1955165503,3650930298
 
 
 // Scathelocke - PvE Roll (pve)
@@ -74,6 +85,18 @@ dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,3425386926
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,4104185692
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,11612903
 dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,4082225868
+
+
+// Stay Frosty - PvP (pvp)
+//notes: GOD ROLL Perks I want. will update partials tags:pvp
+dimwishlist:item=1123433952&perks=2579169598,3047969693
+dimwishlist:item=1123433952&perks=2579169598,460017080
+dimwishlist:item=1123433952&perks=2579169598,1015611457
+
+
+// Stay Frosty - PvE (pve)
+//notes: Partial God roll tags:pve
+dimwishlist:item=1123433952&perks=1955165503,124408337
 
 
 // Yesteryear - PvP (pvp)
@@ -200,6 +223,22 @@ dimwishlist:item=1173780905&perks=4090651448,1885400500,1428297954,3047969693
 dimwishlist:item=1173780905&perks=4090651448,1885400500,1570042021,3047969693
 
 
+// Glacioclasm - PvP Partial Roll (pvp)
+//notes: Will update tags:pvp
+dimwishlist:item=1183116657&perks=2579169598,1194056669
+dimwishlist:item=1183116657&perks=2579169598,2213355989
+dimwishlist:item=1183116657&perks=1645158859,1194056669
+dimwishlist:item=1183116657&perks=1645158859,2213355989
+
+
+// Glacioclasm - PvE Partial Roll (pve)
+//notes: Will update to narrow down when obtained tags:pve
+dimwishlist:item=1183116657&perks=1820235745,1427256713
+dimwishlist:item=1183116657&perks=1820235745,1134488199
+dimwishlist:item=1183116657&perks=1421772400,1427256713
+dimwishlist:item=1183116657&perks=1421772400,1134488199
+
+
 // Nasreddin - PvE (pve)
 //notes: GOD ROLL ALERT! Not sure if it will out DPS vortex frames but worth keeping. tags:pve
 dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3708227201,2120661319
@@ -245,6 +284,22 @@ dimwishlist:item=1788603939&perks=839105230,1968497646,1570042021,124408337,5157
 dimwishlist:item=1788603939&perks=839105230,1968497646,1570042021,124408337,1607056502
 
 
+// Albedo Wing - Partial God Roll (pve)
+//notes: Partial Roll when obtained will update more specific tags:pve
+dimwishlist:item=1845372864&perks=1631667848,1782407750
+dimwishlist:item=1845372864&perks=1631667848,3523296417
+dimwishlist:item=1845372864&perks=1966281507,1782407750
+dimwishlist:item=1845372864&perks=1966281507,3523296417
+
+
+// Avalanche - Partial God Roll (pve)
+//notes: Partial roll, will update when obtained tags:pve
+dimwishlist:item=1845978721&perks=3300816228,4293542123
+dimwishlist:item=1845978721&perks=3300816228,365154968
+dimwishlist:item=1845978721&perks=3418782618,4293542123
+dimwishlist:item=1845978721&perks=3418782618,365154968
+
+
 // Wendigo GL3 - PvP (god-pvp,pvp)
 //notes: Probably Best Grenade for PvP with velocity through the roof. Masterwork Velocity or blast radius tags:god-pvp,pvp
 dimwishlist:item=1854753404&perks=3525010810,409831596,951095735,2846385770
@@ -260,6 +315,13 @@ dimwishlist:item=1854753405&perks=981914802,3032599245,2039302152,3300816228,128
 //notes: GOD ROLL ALERT! Could replace Eyasluna but different archtype. PvE Roll for stasis synergy. Origin perk is good and stacks with other weapons if that is not a bug. Masterwork reload. In PvP Use your eyasluna for stasis, or if you want a 120, your true prophecy is sniper man with rangefinder and explosive. tags:pve
 dimwishlist:item=1856262127&perks=1482024992,3230963543,3400784728,124408337,1380061575
 dimwishlist:item=1856262127&perks=1482024992,679225683,3400784728,124408337,1380061575
+
+
+// Zephyr - PvE (pve)
+//notes: GOD ROLL partial perks I want tags:pve
+dimwishlist:item=1911078836&perks=1749209109,243981275
+dimwishlist:item=1911078836&perks=1749209109,3650930298
+dimwishlist:item=1911078836&perks=1749209109,3708227201
 
 
 // Bygones - Blkandwhtlion's Personal Roll (pvp)
@@ -373,6 +435,14 @@ dimwishlist:item=3193598749&perks=1482024992,2420895100,1428297954,831391274
 // Red Tape - PvE Chase (pve)
 //notes: GOD ROLL ALERT tags:pve
 dimwishlist:item=3423493037&perks=1955165503,124408337
+
+
+// Mistral Lift - PvE Partial God Roll (pve)
+//notes: Will update when I get it tags:pve
+dimwishlist:item=3483485727&perks=1523832109,3078487919
+dimwishlist:item=3483485727&perks=1523832109,555281244
+dimwishlist:item=3483485727&perks=3987942396,3078487919
+dimwishlist:item=3483485727&perks=3987942396,555281244
 
 
 // Dead Man's Tale - PvP Perfect (pvp,god-pvp)
@@ -513,5 +583,13 @@ dimwishlist:item=4039572196&perks=1482024992,2420895100,1428297954,831391274
 // The Militia's Birthright (Adept) - PvE (god-pve,pve)
 //notes: GOD ROLL ALERT! Best kinetic grenade. Masterwork: Velocity tags:god-pve,pve
 dimwishlist:item=4162642204&perks=981914802,3032599245,2039302152,3300816228,1281216113
+
+
+// Avalanche - PvE (pve)
+//notes: GOD ROLL Perks I want. tags:pve
+dimwishlist:item=4220529694&perks=3300816228,4293542123
+dimwishlist:item=4220529694&perks=3300816228,365154968
+dimwishlist:item=4220529694&perks=3418782618,4293542123
+dimwishlist:item=4220529694&perks=3418782618,365154968
 
 
